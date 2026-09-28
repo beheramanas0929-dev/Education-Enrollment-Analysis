@@ -119,6 +119,5 @@ The notebook includes:
  ## 👤 Author
 
 **Manas Behera**
-🔗 [LinkedIn](www.linkedin.com/in/manas-behera-669bb739a) 
 
 ⭐ If you found this project useful, please give it a star!
