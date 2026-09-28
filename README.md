@@ -107,7 +107,7 @@ This project cleans the data and answers four questions:
 The notebook includes:
 
 - 📊 Course revenue (horizontal bar chart)
-   ![Revenue by Course]()
+   ![Revenue by Course](https://github.com/beheramanas0929-dev/Education-Enrollment-Analysis/blob/main/Charts/Revenue%20by%20Course.png)
 - 🔵 Attendance % vs. final score (scatter plot)
   ![Attendance % vs. Final Score](https://github.com/beheramanas0929-dev/Education-Enrollment-Analysis/blob/main/Charts/Attendence%25%20VS%20Final%20Score.png)
 - 📉 Dropout rate by course (horizontal bar chart)
