@@ -32,6 +32,18 @@ The dataset contains student enrollments across multiple courses, branches and i
 | **NumPy** | Handling missing and invalid values |
 | **Matplotlib** | Charts and visualizations |
 | **Jupyter Notebook** | Writing and presenting the analysis |
+## 💼 Business Problem
+
+A training institute offers many courses across several branches and instructors. Its raw enrollment records are messy, with duplicates, missing values, wrong entries and inconsistent text, so management cannot easily see what is working and what is not.
+
+This project cleans the data and answers four questions:
+
+1. **Which courses generate the most revenue, and which have the highest enrollment?**
+2. **Does attendance affect students' final scores?**
+3. **Which courses have the highest dropout risk, and is there a pattern?**
+4. **Are any instructors or branches under- or over-performing on completion rate?**
+
+---
 ## 🧹 Data Cleaning
 
 | Issue | Fix Applied |
@@ -46,6 +58,7 @@ The dataset contains student enrollments across multiple courses, branches and i
 | Missing `CourseFee` | Filled with the **median fee of the same course** |
 | Attendance above 100% | Capped at **100** |
 | Missing attendance | Filled with the **median** |
+
 ## 🔍 Analysis Performed
 
 - **Revenue and enrollment analysis:** grouped by course to compare total revenue and enrollment count
@@ -100,6 +113,6 @@ The notebook includes:
   ## 👤 Author
 
 **Manas Behera**
-🔗 [LinkedIn](www.linkedin.com/in/manas-behera-669bb739a) | 💻 [GitHub](https://github.com/beheramanas0929-dev)
+🔗 [LinkedIn](www.linkedin.com/in/manas-behera-669bb739a) 
 
 ⭐ If you found this project useful, please give it a star!
