@@ -1,0 +1,1289 @@
+EnrollmentID,EnrollDate,StudentID,StudentAge,StudentGender,Course,Category,Instructor,Branch,CourseFee,AttendancePercent,FinalScore,CompletionStatus,PaymentStatus
+ENR31121,17/01/2025,STU0392,34.0,Other,Web Development Bootcamp,Programming,Mr. Sharma,online,6605.65,78.7,48.1,Completed,Paid
+ENR31186,09-Nov-2025,STU0239,19.0,Male,Machine Learning Basics,Data,Mr. Khan,ONLINE,5542.61,51.6,31.0,In Progress,Partially Paid
+ENR30463,31-Jul-2025,STU0249,32.0,Female,SQL for Data Analysis,Data,Ms. Rao,Bangalore Center,2837.61,50.3,,Dropped,Pending
+ENR30082,2025-12-05,STU0495,43.0,Other,Digital Marketing Fundamentals,Marketing,Mr. Das,Bangalore Center,2321.94,66.6,43.5,Completed,Paid
+ENR30064,09-02-2025,STU0454,32.0,,Machine Learning Basics,Data,Mr. Das,Bangalore Center,6212.7,18.8,22.2,Completed,Paid
+ENR30124,22-Apr-2026,STU0056,25.0,Female,Python for Beginners,Programming,Ms. Iyer,Pune Center,,59.8,,Dropped,Partially Paid
+ENR30452,07-25-2025,STU0423,19.0,Other,JavaScript Fundamentals,Programming,Mr. Das,delhi center,4021.14,60.0,37.2,Completed,Paid
+ENR31043,29-Jan-2026,STU0411,41.0,Female,UI/UX Design Basics,Design,Mr. Sharma,Bangalore Center,4532.83,91.8,58.6,Completed,Paid
+ENR30724,28/01/2026,STU0440,41.0,Male,Machine Learning Basics,Data,Mr. Sharma,BANGALORE CENTER,5640.83,69.1,52.3,In Progress,Pending
+ENR30045,2026-01-15,STU0195,19.0,Other,Data Analytics with Excel,Data,Mr. Das,pune center,3252.46,51.3,,Dropped,Paid
+ENR30742,22/01/2026,STU0136,22.0,Male,Spoken English Mastery,Language,Ms. Rao,ONLINE,2029.51,75.8,59.5,In Progress,Pending
+ENR30332,05-26-2025,STU0228,22.0,Other,Advanced Excel & Power BI,Data,Ms. Rao,Pune Center,4241.96,59.5,37.1,In Progress,Pending
+ENR30662,19/06/2025,STU0357,21.0,Female,Web Development Bootcamp,Programming,Ms. Iyer,online,7038.45,54.2,,Dropped,PARTIALLY PAID
+ENR30079,01-18-2026,STU0004,36.0,Other,Python for Beginners,Programming,Mr. Khan,Pune Center,3128.78,69.1,54.4,Completed,Partially Paid
+ENR31056,03/02/2025,STU0153,21.0,Female,Spoken English Mastery,Language,Mr. Das,Mumbai Center,2082.35,59.3,52.0,Completed,Partially Paid
+ENR30599,09-May-2026,STU0309,16.0,Female,Digital Marketing Fundamentals,Marketing,Ms. Fernandes,mumbai center,2321.18,80.8,52.8,In Progress,Pending
+ENR30494,14-Jan-2026,STU0385,40.0,Other,UI/UX Design Basics,Design,Ms. Fernandes,Delhi Center,4603.53,42.5,26.5,Completed,Partially Paid
+ENR30661,25/10/2025,STU0052,24.0,Other,Spoken English Mastery,Language,Mr. Sharma,ONLINE,1979.5,65.9,,Dropped,
+ENR30923,01-Aug-2025,STU0013,40.0,Female,Digital Marketing Fundamentals,Marketing,Ms. Iyer,pune center,2560.26,95.8,67.6,Completed,Paid
+ENR30480,03-01-2026,STU0251,45.0,Female,Data Analytics with Excel,Data,Mr. Sharma,mumbai center,3518.08,78.2,,Dropped,Partially Paid
+ENR30573,05-Feb-2025,STU0433,35.0,Female,UI/UX Design Basics,Design,Ms. Iyer,pune center,5032.95,70.5,63.8,In Progress,Paid
+ENR30637,29-Apr-2026,STU0451,45.0,,JavaScript Fundamentals,Programming,Ms. Rao,BANGALORE CENTER,3908.97,,,Dropped,Paid
+ENR31094,04-26-2026,STU0113,18.0,Female,Python for Beginners,Programming,Mr. Sharma,Delhi Center ,2879.32,73.0,,Dropped,Partially Paid
+ENR30959,28/10/2025,STU0427,20.0,Other,Digital Marketing Fundamentals,Marketing,Mr. Sharma,mumbai center,2301.86,64.8,,Dropped,Partially Paid
+ENR31249,03-23-2026,STU0342,29.0,Other,SQL for Data Analysis,Data,Mr. Sharma,BANGALORE CENTER,2562.98,85.2,68.5,Completed,Paid
+ENR31092,22/02/2025,STU0052,18.0,Other,JavaScript Fundamentals,Programming,Mr. Das,Delhi Center,3869.29,50.4,47.7,Completed,Pending
+ENR31246,2026-03-09,STU0183,24.0,Male,Advanced Excel & Power BI,Data,Ms. Iyer,Delhi Center,4139.03,67.4,43.2,Completed,Paid
+ENR31128,01-16-2025,STU0411,28.0,Male,Machine Learning Basics,Data,Mr. Das,Delhi Center,5874.96,64.6,35.8,Completed,
+ENR30352,06-Feb-2026,STU0188,33.0,Other,UI/UX Design Basics,Design,Mr. Sharma,Bangalore Center,4824.42,72.4,53.0,Completed,PENDING
+ENR30504,2026-08-16,STU0188,40.0,Female,Web Development Bootcamp,Programming,Mr. Khan,BANGALORE CENTER,7187.01,59.1,46.9,Completed,Pending
+ENR30507,12-Mar-2026,STU0129,39.0,Female,Graphic Design with Canva,Design,Ms. Fernandes,ONLINE,1768.87,58.6,48.5,Completed,Pending
+ENR30345,06-03-2026,STU0223,25.0,Other,SQL for Data Analysis,Data,Ms. Fernandes,ONLINE,2880.87,83.6,61.0,Completed,Pending
+ENR31156,21/01/2025,STU0087,30.0,Male,Web Development Bootcamp,Programming,Ms. Fernandes,Bangalore Center,6859.55,88.7,63.0,Completed,Paid
+ENR31001,10-Jun-2025,STU0495,37.0,Female,Spoken English Mastery,Language,Ms. Rao,BANGALORE CENTER,1799.98,70.1,,Dropped,Partially Paid
+ENR30896,2025-11-26, STU0099 ,24.0,Other,Web Development Bootcamp,Programming,Mr. Sharma,ONLINE,7183.98,95.9,56.9,Completed,Paid
+ENR30307,2026-03-29,STU0221,39.0,Other,Graphic Design with Canva,Design,Ms. Iyer,ONLINE,1749.64,76.9,,Dropped,Paid
+ENR30907,03-24-2025,STU0100,22.0,Male,JavaScript Fundamentals,Programming,Ms. Rao,,3846.02,62.3,,Dropped,Partially Paid
+ENR30313,2025-08-03,STU0414,28.0,Female,Advanced Excel & Power BI,Data,Ms. Rao,Online,4225.58,81.7,66.4,Completed,Paid
+ENR30066,13-Apr-2025,STU0489,35.0,Male,Machine Learning Basics,Data,Mr. Sharma,BANGALORE CENTER,5917.04,85.6,46.2,Completed,Paid
+ENR31078,11/12/2025,STU0309,43.0,Male,Digital Marketing Fundamentals,Marketing,Ms. Fernandes,Pune Center,2404.37,48.8,30.7,In Progress,Partially Paid
+ENR30298,23/02/2026,STU0499,22.0,Male,Machine Learning Basics,Data,Mr. Khan,ONLINE,5514.35,57.3,,Dropped,Paid
+ENR30920,2025-04-11,STU0329,28.0,Other,Public Speaking Essentials,Soft Skills,Ms. Rao,BANGALORE CENTER,1502.89,66.7,46.7,Completed,Pending
+ENR30833,05-23-2026,STU0099,19.0,Male,Public Speaking Essentials,Soft Skills,Ms. Rao,ONLINE,1363.71,71.9,38.1,Completed,Pending
+ENR30406,29/12/2025,STU0268,25.0,Other,Advanced Excel & Power BI,Data,Mr. Khan,Pune Center,4296.45,67.2,48.7,In Progress,Partially Paid
+ENR30713,05-12-2026,STU0359,30.0,Other,Public Speaking Essentials,Soft Skills,Ms. Rao,Pune Center,1535.16,74.0,57.6,In Progress,Pending
+ENR30077,22-Jun-2025,STU0191,41.0,Male,Data Analytics with Excel,Data,Ms. Rao,Bangalore Center,3283.79,80.8,61.0,Completed,Paid
+ENR31024,03-Jun-2025,STU0271,30.0,Male,Spoken English Mastery,Language,Mr. Das,mumbai center,2095.54,100.0,61.9,In Progress,Pending
+ENR30102,2025-06-05,STU0065,15.0,Other,Data Analytics with Excel,Data,Mr. Das,mumbai center,3191.64,75.4,,Dropped,Paid
+ENR30947,05/11/2025,STU0210,31.0,Other,Web Development Bootcamp,Programming,Mr. Das,mumbai center,6355.72,59.4,49.8,In Progress,Paid
+ENR30266,2025-11-25,STU0263,38.0,Female,Web Development Bootcamp,Programming,Mr. Khan,pune center,6872.17,70.6,44.1,Completed,Paid
+ENR30024,2025-01-04,STU0272,29.0,Female,Public Speaking Essentials,Soft Skills,Ms. Fernandes,ONLINE,1369.7,81.7,72.0,In Progress,Partially Paid
+ENR30549,03-31-2026,STU0260,45.0,Other,Web Development Bootcamp,Programming,Mr. Khan,Pune Center,-7114.7,70.6,61.2,Completed,Partially Paid
+ENR30099,2025-02-11,STU0223,41.0,Female,Graphic Design with Canva,Design,Mr. Sharma,Pune Center,1815.34,,77.3,Completed,Paid
+ENR30052,01/05/2025,STU0105,40.0,Other,Spoken English Mastery,Language,Ms. Fernandes,Online,2063.78,41.9,28.7,Completed,Paid
+ENR30334,07/01/2025,STU0106,43.0,Female,Advanced Excel & Power BI,Data,Ms. Rao,Delhi Center ,4168.29,63.6,31.2,In Progress,Partially Paid
+ENR30044,01-Apr-2026,STU0291,30.0,Female,Public Speaking Essentials,Soft Skills,Ms. Rao,Pune Center,1407.4,62.9,52.6,Completed,Pending
+ENR30732,24-Jan-2025,STU0013,23.0,Female,Advanced Excel & Power BI,Data,Mr. Khan,Mumbai Center,4069.13,93.5,57.8,Completed,Paid
+ENR30995,02-Feb-2025,STU0105,35.0,Female,Graphic Design with Canva,Design,Mr. Sharma,,1623.57,72.1,56.0,In Progress,Pending
+ENR30722,2025-04-16,STU0046,37.0,Female,Graphic Design with Canva,Design,Ms. Iyer,Online,1733.58,77.4,39.4,Completed,Pending
+ENR30347,21-Apr-2026,STU0044,44.0,Female,Spoken English Mastery,Language,Mr. Das,Delhi Center,1889.24,77.7,54.5,In Progress,Pending
+ENR30716,03-31-2026,STU0406,15.0,Other,JavaScript Fundamentals,Programming,Mr. Das,Pune Center,3748.69,81.6,42.6,In Progress,Pending
+ENR30550,22-Feb-2026,STU0468,16.0,Female,SQL for Data Analysis,Data,Mr. Sharma,delhi center,2877.87,98.7,72.9,Completed,Paid
+ENR30886,01-03-2025,STU0388,30.0,Other,JavaScript Fundamentals,Programming,Mr. Sharma,delhi center,4107.51,68.9,56.7,Completed,Pending
+ENR30866,18-Jan-2025,STU0478,26.0,Male,Public Speaking Essentials,Soft Skills,Ms. Iyer,mumbai center,1495.06,82.6,61.6,Completed,Partially Paid
+ENR30997,27-Nov-2025,STU0183,38.0,Female,SQL for Data Analysis,Data,Ms. Iyer,delhi center,2765.01,,57.4,Completed,Paid
+ENR30598,2025-09-05,STU0485,39.0,,Web Development Bootcamp,Programming,Mr. Das,Delhi Center,6403.32,76.2,44.8,Completed,Paid
+ENR30209,08/03/2025,STU0465,35.0,Other,UI/UX Design Basics,Design,Mr. Sharma,online,5036.72,78.9,56.6,In Progress,Partially Paid
+ENR30364,06-18-2026,STU0136,16.0,Male,UI/UX Design Basics,Design,Ms. Fernandes,BANGALORE CENTER,4612.0,89.7,60.8,Completed,Partially Paid
+ENR30240,08-04-2025,STU0364,21.0,Female,Digital Marketing Fundamentals,Marketing,Ms. Fernandes,Online,2595.41,67.1,43.2,Completed,Pending
+ENR30514,04/04/2026,STU0036,17.0,Female,Advanced Excel & Power BI,Data,Mr. Sharma,delhi center,4544.93,85.4,52.1,Completed,Pending
+ENR31086,17/03/2025,STU0064,21.0,Male,Machine Learning Basics,Data,Ms. Fernandes,online,5913.92,100.0,61.3,Completed,Paid
+ENR30416,31/01/2026,STU0197,45.0,Other,UI/UX Design Basics,Design,Mr. Das,Online,5211.73,70.6,,Dropped,Pending
+ENR30753,19-Jan-2025,STU0451,41.0,Other,Public Speaking Essentials,Soft Skills,Mr. Das,mumbai center,1536.68,93.1,69.7,Completed,Paid
+ENR30486,19-Aug-2026,STU0156,34.0,Male,JavaScript Fundamentals,Programming,Ms. Fernandes,online,4002.6,79.7,50.3,In Progress,Paid
+ENR30873,05-07-2026,STU0017,29.0,Female,Spoken English Mastery,Language,Ms. Iyer,delhi center,1979.98,55.9,40.4,Completed,Partially Paid
+ENR30185,11-19-2025,STU0158,23.0,Male,Digital Marketing Fundamentals,Marketing,Mr. Khan,mumbai center,2339.54,95.4,,Dropped,Paid
+ENR30241,2026-06-07,STU0095,33.0,Male,Graphic Design with Canva,Design,Mr. Khan,Mumbai Center,1827.13,77.4,56.9,Completed,Pending
+ENR30033,21/05/2026,STU0094,42.0,Male,Advanced Excel & Power BI,Data,Ms. Fernandes,pune center,4687.72,100.0,60.0,Completed,Pending
+ENR31222,21-Jan-2026,STU0305,28.0,Other,Python for Beginners,Programming,Mr. Khan,online,3093.8,70.7,61.9,Completed,Pending
+ENR30797,31-Jul-2025,STU0409,37.0,Female,Web Development Bootcamp,Programming,Mr. Khan,Pune Center,6510.44,85.1,,Dropped,Pending
+ENR30737,14/06/2026,STU0491,16.0,Female,Spoken English Mastery,Language,Mr. Khan,Delhi Center,1901.95,88.8,70.9,Completed,Pending
+ENR30495,12/05/2026,STU0304,19.0,Other,Public Speaking Essentials,Soft Skills,Mr. Sharma,pune center,1448.29,76.9,53.9,Completed,Partially Paid
+ENR30221,2025-11-02,STU0331,34.0,Male,Spoken English Mastery,Language,Ms. Iyer,Delhi Center ,1871.31,100.0,56.6,Completed,Partially Paid
+ENR30539,08-01-2025,STU0109,21.0,Other,SQL for Data Analysis,Data,Ms. Rao,delhi center,2695.39,71.6,50.5,Completed,Paid
+ENR31073,2025-10-27,STU0340,36.0,Female,Machine Learning Basics,Data,Mr. Khan,delhi center,5699.15,,69.3,Completed,Pending
+ENR30683,2026-03-29,STU0483,45.0,Male,Machine Learning Basics,Data,Ms. Iyer,BANGALORE CENTER,6285.41,45.8,26.9,Completed,Pending
+ENR30219,30-Jan-2026,STU0063,44.0,Female,Web Development Bootcamp,Programming,Ms. Rao,BANGALORE CENTER,7122.01,97.6,61.9,Completed,Partially Paid
+ENR30222,07-24-2026,STU0233,20.0,Female,Advanced Excel & Power BI,Data,Mr. Khan,Delhi Center,4086.36,75.2,,Dropped,Pending
+ENR30941,2025-08-29,STU0184,27.0,Male,Public Speaking Essentials,Soft Skills,Mr. Das,Online,1485.57,37.6,,Dropped,Pending
+ENR30375,12/03/2025,STU0498,33.0,Male,SQL for Data Analysis,Data,Ms. Iyer,Bangalore Center,2740.37,100.0,,Dropped,Pending
+ENR30309,07-07-2026,STU0102,25.0,Male,Data Analytics with Excel,Data,Mr. Das,Pune Center,,73.8,53.6,In Progress,Paid
+ENR30255,2025-10-13,STU0029,25.0,Other,Data Analytics with Excel,Data,Mr. Khan,delhi center,,84.9,,Dropped,Pending
+ENR30590,2025-01-30,STU0018,18.0,Male,Web Development Bootcamp,Programming,Mr. Khan,ONLINE,,93.3,52.8,Completed,Partially Paid
+ENR31038,20-Jun-2026,STU0157,22.0,Other,Spoken English Mastery,Language,Ms. Rao,,1894.75,47.6,43.2,In Progress,Pending
+ENR30535,19/04/2026,STU0091,38.0,Male,Python for Beginners,Programming,Mr. Sharma,delhi center,2792.03,64.1,35.0,Completed,Partially Paid
+ENR30434,2025-08-05,STU0282,35.0,Female,UI/UX Design Basics,Design,Mr. Khan,Pune Center,4715.25,42.3,37.3,Completed,Paid
+ENR30222,07-24-2026,STU0233,20.0,Female,Advanced Excel & Power BI,Data,Mr. Khan,Delhi Center,4086.36,75.2,,Dropped,Pending
+ENR30193,2025-07-29,STU0482,42.0,Other,Graphic Design with Canva,Design,Ms. Rao,mumbai center,1754.56,62.2,46.0,Completed,Paid
+ENR30211,30/05/2026,STU0300,42.0,Other,Spoken English Mastery,Language,Ms. Rao,Mumbai Center,2021.83,70.5,,Dropped,Pending
+ENR30880,17/02/2026,STU0046,21.0,Other,Graphic Design with Canva,Design,Ms. Rao,,1707.62,81.2,,Dropped,Paid
+ENR30568,2025-08-29,STU0464,24.0,Other,Spoken English Mastery,Language,Mr. Sharma,mumbai center,1893.36,100.0,78.3,In Progress,PAID
+ENR30725,06-Jul-2026,STU0498,17.0,Female,Digital Marketing Fundamentals,Marketing,Mr. Sharma,Mumbai Center,2250.77,83.8,62.7,Completed,Paid
+ENR30059,02-26-2025,STU0007,40.0,Female,Data Analytics with Excel,Data,Ms. Rao,Bangalore Center,,100.0,,Dropped,Paid
+ENR31023,20/03/2025,STU0026,33.0,Other,Public Speaking Essentials,Soft Skills,Mr. Khan,Mumbai Center,1532.07,46.0,42.3,In Progress,Partially Paid
+ENR30372,20-Aug-2025,STU0024,36.0,Other,SQL for Data Analysis,Data,Ms. Iyer,Bangalore Center,2613.48,88.2,47.6,Completed,Partially Paid
+ENR30317,2026-06-01,STU0239,19.0,Male,SQL for Data Analysis,Data,Mr. Sharma,delhi center,2753.73,58.5,,Dropped,Partially Paid
+ENR31005,08-24-2025,STU0041,29.0,Male,Graphic Design with Canva,Design,Mr. Khan,pune center,1760.74,92.7,,Dropped,Paid
+ENR31109,09/08/2025,STU0498,20.0,Female,UI/UX Design Basics,Design,Ms. Fernandes,Mumbai Center,5042.66,44.4,,Dropped,Pending
+ENR30232,24-Nov-2025,STU0091,45.0,Male,Spoken English Mastery,Language,Mr. Sharma,BANGALORE CENTER,1947.6,100.0,73.2,Completed,Paid
+ENR30523,2026-07-15,STU0348,43.0,Other,SQL for Data Analysis,Data,Ms. Fernandes,mumbai center,2780.0,79.4,,Dropped,Paid
+ENR30595,21-Jul-2026,STU0360,32.0,Female,Spoken English Mastery,Language,Mr. Das,Delhi Center ,2016.08,100.0,64.6,In Progress,Partially Paid
+ENR30050,19/09/2025,STU0471,43.0,Female,Spoken English Mastery,Language,Mr. Das,online,1802.67,100.0,71.8,Completed,Pending
+ENR30887,11-May-2025,STU0334,44.0,Male,Data Analytics with Excel,Data,Mr. Das,Delhi Center,3361.48,74.4,,Dropped,Partially Paid
+ENR31177,14-Mar-2026,STU0367,23.0,Male,Data Analytics with Excel,Data,Ms. Fernandes,Pune Center,3474.56,74.2,62.5,Completed,Paid
+ENR30829,08-16-2025,STU0164,32.0,Male,UI/UX Design Basics,Design,Ms. Iyer,Pune Center,4602.11,73.0,48.3,In Progress,Paid
+ENR30087,07-26-2026,STU0262,31.0,Other,Advanced Excel & Power BI,Data,Ms. Fernandes,Pune Center,4555.29,100.0,62.1,Completed,Partially Paid
+ENR30953,21-Nov-2025,STU0368,23.0,Female,Advanced Excel & Power BI,Data,Mr. Das,Delhi Center,4264.45,83.0,60.9,In Progress,Partially Paid
+ENR30429,2025-11-20,STU0095,41.0,Other,Public Speaking Essentials,Soft Skills,Ms. Fernandes,Bangalore Center,1567.01,92.0,,Dropped,Pending
+ENR30199,12/05/2025,STU0210,31.0,Male,Data Analytics with Excel,Data,Mr. Sharma,,3180.9,83.8,,Dropped,Paid
+ENR30423,02-Aug-2025,STU0043,15.0,,Machine Learning Basics,Data,Ms. Iyer,pune center,5757.63,76.8,54.2,Completed,Paid
+ENR30987,2026-08-07,STU0419,43.0,,Machine Learning Basics,Data,Ms. Iyer,Delhi Center,5777.95,79.9,51.9,Completed,Paid
+ENR31146,2026-07-29, STU0367 ,45.0,Male,Spoken English Mastery,Language,Ms. Iyer,Bangalore Center,1995.83,60.7,44.1,In Progress,Partially Paid
+ENR30738,02-16-2025,STU0189,42.0,Male,Machine Learning Basics,Data,Ms. Rao,ONLINE,5625.26,70.9,,Dropped,Partially Paid
+ENR30465,14/12/2025,STU0500,17.0,Female,Web Development Bootcamp,Programming,Mr. Khan,online,7116.08,100.0,,Dropped,Pending
+ENR30559,23/07/2026,STU0002,26.0,Female,Python for Beginners,Programming,Ms. Iyer,Delhi Center,3102.11,81.1,67.1,Completed,Paid
+ENR30454,2025-06-16,STU0396,25.0,Other,Public Speaking Essentials,Soft Skills,Ms. Rao,BANGALORE CENTER,1491.56,80.2,62.7,Completed,Pending
+ENR31206,2026-05-12,STU0441,42.0,Male,Advanced Excel & Power BI,Data,Mr. Das,Online,4419.59,63.0,,Dropped,Partially Paid
+ENR31100,17-Oct-2025,STU0443,42.0,Female,SQL for Data Analysis,Data,Mr. Sharma,Online,2812.42,92.9,,Dropped,Partially Paid
+ENR30129,04-Oct-2025,STU0130,17.0,Female,UI/UX Design Basics,Design,Ms. Fernandes,mumbai center,5200.03,88.6,47.3,Completed,Paid
+ENR31209,08-10-2026,STU0413,15.0,Other,Public Speaking Essentials,Soft Skills,Ms. Iyer,pune center,1552.3,93.6,57.9,Completed,Paid
+ENR30262,2026-04-27,STU0186,28.0,Female,Python for Beginners,Programming,Mr. Sharma,mumbai center,2857.71,62.5,39.4,Completed,
+ENR30890,28-Apr-2026,STU0153,16.0,,UI/UX Design Basics,Design,Mr. Khan,Online,4514.32,67.7,50.2,Completed,Pending
+ENR30668,27/01/2025,STU0420,18.0,Male,UI/UX Design Basics,Design,Ms. Rao,mumbai center,4710.54,100.0,59.9,Completed,Paid
+ENR30731,2025-07-29,STU0419,,Male,Advanced Excel & Power BI,Data,Mr. Khan,pune center,4639.94,88.2,57.8,Completed,Paid
+ENR30487,07/09/2025,STU0421,27.0,Female,Advanced Excel & Power BI,Data,Mr. Das,online,4191.47,57.9,28.2,Completed,Partially Paid
+ENR31148,20-Jan-2026,STU0446,29.0,Male,Web Development Bootcamp,Programming,Mr. Das,pune center,6558.58,84.5,,Dropped,Pending
+ENR30845,08-04-2025,STU0472,17.0,Female,Data Analytics with Excel,Data,Ms. Rao,Pune Center,3427.13,53.6,27.8,In Progress,Pending
+ENR30030,15-Jan-2025,STU0493,,Other,Public Speaking Essentials,Soft Skills,Mr. Khan,,1498.6,65.1,50.7,In Progress,Partially Paid
+ENR31102,18/01/2025,STU0241,33.0,Male,UI/UX Design Basics,Design,Mr. Khan,Bangalore Center,5111.59,71.7,36.6,Completed,Paid
+ENR30340,2025-06-25,STU0341,28.0,Other,Graphic Design with Canva,Design,Ms. Rao,BANGALORE CENTER,1649.57,90.4,64.2,Completed,Paid
+ENR30032,10-21-2025,STU0180,24.0,Female,Digital Marketing Fundamentals,Marketing,Ms. Iyer,BANGALORE CENTER,2298.37,50.7,20.5,In Progress,Paid
+ENR30310,2026-07-20,STU0029,27.0,Other,Advanced Excel & Power BI,Data,Ms. Rao,delhi center,4720.75,91.9,58.0,Completed,Pending
+ENR30271,2025-12-24,STU0191,35.0,Female,Web Development Bootcamp,Programming,Ms. Rao,mumbai center,6447.41,,,Dropped,Partially Paid
+ENR30234,29-Aug-2026,STU0306,29.0,Male,Data Analytics with Excel,Data,Mr. Sharma,Pune Center,3659.76,73.1,65.5,Completed,Partially Paid
+ENR30524,08-27-2026,STU0414,,Female,Spoken English Mastery,Language,Ms. Rao,Mumbai Center,2007.15,75.4,66.1,In Progress,
+ENR30071,12-04-2025,STU0048,23.0,Female,Web Development Bootcamp,Programming,Mr. Khan,pune center,7078.3,100.0,76.7,Completed,Pending
+ENR31034,12-11-2025,STU0202,43.0,Other,Data Analytics with Excel,Data,Ms. Rao,ONLINE,3591.04,61.0,41.7,Completed,Partially Paid
+ENR30585,24-Apr-2026,STU0068,35.0,Male,UI/UX Design Basics,Design,Mr. Das,Delhi Center ,5053.39,57.7,39.7,Completed,Pending
+ENR30807,01-07-2025,STU0400,20.0,Female,Python for Beginners,Programming,Mr. Khan,mumbai center,2766.51,75.2,45.1,In Progress,Paid
+ENR30459,06-Jul-2026,STU0498,44.0,Female,Spoken English Mastery,Language,Mr. Sharma,BANGALORE CENTER,2024.33,74.6,59.7,Completed,Paid
+ENR31074,06-26-2026,STU0245,32.0,Other,Spoken English Mastery,Language,Ms. Iyer,Pune Center,2020.91,54.7,47.7,In Progress,Partially Paid
+ENR30248,04-07-2026,STU0024,16.0,Male,JavaScript Fundamentals,Programming,Ms. Fernandes,Delhi Center ,3638.02,94.0,63.6,Completed,Partially Paid
+ENR30600,2025-12-08,STU0490,38.0,Other,Graphic Design with Canva,Design,Mr. Das,mumbai center,1872.8,69.6,42.2,Completed,Paid
+ENR30701,2025-12-08,STU0457,18.0,Other,Advanced Excel & Power BI,Data,Ms. Rao,pune center,4476.17,100.0,,Dropped,Paid
+ENR30826,20/05/2026,STU0327,31.0,Other,Public Speaking Essentials,Soft Skills,Mr. Sharma,Bangalore Center,1478.95,77.8,,Dropped,Pending
+ENR30049,05/01/2026,STU0429,26.0,Male,Spoken English Mastery,Language,Mr. Sharma,Bangalore Center,1800.95,61.4,33.2,In Progress,Pending
+ENR30114,02-25-2026,STU0476,42.0,Female,Graphic Design with Canva,Design,Mr. Das,BANGALORE CENTER,1866.6,56.9,32.6,Completed,Partially Paid
+ENR30156,2026-06-10,STU0099,25.0,Male,Web Development Bootcamp,Programming,Ms. Fernandes,,6534.83,82.7,49.2,Completed,Pending
+ENR31027,2025-02-26,STU0195,43.0,Female,UI/UX Design Basics,Design,Mr. Das,Mumbai Center,4684.04,84.5,53.8,In Progress,Pending
+ENR30410,23-Aug-2026,STU0487,42.0,Female,Spoken English Mastery,Language,Ms. Iyer,delhi center,1983.18,70.2,,Dropped,Partially Paid
+ENR30797,31-Jul-2025,STU0409,37.0,Female,Web Development Bootcamp,Programming,Mr. Khan,Pune Center,6510.44,85.1,,Dropped,Pending
+ENR31030,05-Aug-2025,STU0317,15.0,Male,Digital Marketing Fundamentals,Marketing,Mr. Khan,Online,2373.36,74.0,45.9,Completed,Partially Paid
+ENR30351,25-May-2026,STU0413,38.0,Female,SQL for Data Analysis,Data,Mr. Khan,Pune Center,2617.43,57.9,55.0,Completed,PENDING
+ENR31146,2026-07-29,STU0367,45.0,Male,Spoken English Mastery,Language,Ms. Iyer,Bangalore Center,1995.83,60.7,44.1,In Progress,Partially Paid
+ENR30804,2025-08-09,STU0364,30.0,Male,Spoken English Mastery,Language,Mr. Khan,Bangalore Center,2034.35,95.1,80.2,Completed,Pending
+ENR30399,13/01/2025,STU0325,40.0,Other,Data Analytics with Excel,Data,Ms. Iyer,BANGALORE CENTER,3204.79,98.0,60.6,In Progress,Paid
+ENR30108,2026-02-15,STU0422,20.0,Male,Web Development Bootcamp,Programming,Ms. Rao,BANGALORE CENTER,7103.9,57.1,52.7,Completed,Partially Paid
+ENR31014,10-23-2025,STU0024,42.0,Female,Graphic Design with Canva,Design,Ms. Iyer,ONLINE,1658.57,74.2,65.3,Completed,Paid
+ENR31035,2025-06-18,STU0169,38.0,Male,Digital Marketing Fundamentals,Marketing,Ms. Iyer,mumbai center,2582.24,75.2,45.0,Completed,Paid
+ENR30303,08-23-2025, STU0226 ,37.0,Female,Spoken English Mastery,Language,Mr. Sharma,delhi center,1823.34,65.0,44.3,In Progress,Paid
+ENR31224,05-15-2025,STU0124,31.0,Female,Graphic Design with Canva,Design,Ms. Iyer,Delhi Center ,1769.19,95.3,59.0,In Progress,Pending
+ENR31188,07-06-2026,STU0236,23.0,Other,Machine Learning Basics,Data,Mr. Das,Mumbai Center,,81.3,,Dropped,Partially Paid
+ENR30265,11-20-2025,STU0069,23.0,Female,Spoken English Mastery,Language,Mr. Das,ONLINE,1802.69,80.1,,Dropped,Pending
+ENR30244,29-May-2025,STU0335,,Female,Digital Marketing Fundamentals,Marketing,Mr. Khan,Online,2587.35,100.0,76.4,In Progress,Pending
+ENR30597,11/04/2026,STU0368,18.0,Male,Graphic Design with Canva,Design,Mr. Sharma,mumbai center,1662.42,100.0,84.8,Completed,
+ENR30614,2025-11-16,STU0026,21.0,Male,Machine Learning Basics,Data,Ms. Rao,ONLINE,5432.69,55.5,,Dropped,Pending
+ENR30439,16-Jun-2026,STU0012,15.0,Male,JavaScript Fundamentals,Programming,Ms. Iyer,BANGALORE CENTER,4091.61,82.0,54.3,Completed,Partially Paid
+ENR30412,05-29-2025,STU0284,21.0,Other,Machine Learning Basics,Data,Mr. Khan,Mumbai Center,6201.73,73.6,46.9,In Progress,Partially Paid
+ENR30919,11-29-2025,STU0009,20.0,Female,UI/UX Design Basics,Design,Ms. Iyer,Bangalore Center,4854.02,25.7,20.2,Completed,
+ENR30169,03-Feb-2025,STU0162,37.0,Male,Spoken English Mastery,Language,Mr. Khan,delhi center,1922.47,25.7,,Dropped,Partially Paid
+ENR30618,2026-03-04,STU0123,41.0,Male,Digital Marketing Fundamentals,Marketing,Mr. Khan,,2558.15,76.5,66.8,Completed,Paid
+ENR30779,2026-03-05,STU0199,29.0,Male,Advanced Excel & Power BI,Data,Mr. Sharma,pune center,4518.9,67.6,42.0,Completed,Partially Paid
+ENR30269,28/10/2025,STU0232,18.0,Other,Public Speaking Essentials,Soft Skills,Mr. Khan,mumbai center,1447.68,64.2,54.7,Completed,Partially Paid
+ENR31195,29-Jun-2026,STU0492,44.0,Female,Digital Marketing Fundamentals,Marketing,Mr. Sharma,BANGALORE CENTER,2556.54,66.5,47.3,Completed,Partially Paid
+ENR30366,04-21-2026,STU0009,36.0,Other,Python for Beginners,Programming,Ms. Iyer,Online,3143.59,42.9,22.6,Completed,Partially Paid
+ENR30537,01/06/2025,STU0402,15.0,Other,Web Development Bootcamp,Programming,Ms. Iyer,Pune Center,6845.63,65.6,,Dropped,Pending
+ENR30175,2025-12-30,STU0022,22.0,Female,Web Development Bootcamp,Programming,Mr. Sharma,delhi center,6317.88,100.0,,Dropped,Partially Paid
+ENR31089,05-19-2026,STU0018,36.0,Male,Graphic Design with Canva,Design,Ms. Iyer,mumbai center,1885.9,95.5,80.1,Completed,Paid
+ENR30483,26/01/2025,STU0351,37.0,Other,Data Analytics with Excel,Data,Ms. Iyer,pune center,3503.69,100.0,71.4,In Progress,PENDING
+ENR30743,09-Mar-2026,STU0451,26.0,Male,JavaScript Fundamentals,Programming,Mr. Khan,Delhi Center ,3790.81,62.5,47.0,Completed,
+ENR31063,07/05/2026,STU0118,18.0,Male,Digital Marketing Fundamentals,Marketing,Mr. Khan,online,2384.34,69.1,38.8,In Progress,
+ENR30055,14-Mar-2025,STU0447,27.0,Other,SQL for Data Analysis,Data,Mr. Khan,pune center,2922.91,65.3,50.6,Completed,
+ENR30197,03-13-2025,STU0315,37.0,Other,Data Analytics with Excel,Data,Mr. Das,BANGALORE CENTER,3300.19,79.3,,Dropped,Paid
+ENR30304,25-Aug-2025,STU0174,24.0,Other,Machine Learning Basics,Data,Mr. Das,online,6156.81,98.7,69.7,Completed,Paid
+ENR30813,2025-07-31,STU0105,21.0,Other,Web Development Bootcamp,Programming,Mr. Khan,Bangalore Center,6431.25,83.8,73.1,Completed,Paid
+ENR30057,21-Jan-2026,STU0135,19.0,Female,Advanced Excel & Power BI,Data,Mr. Sharma,,4056.96,87.2,56.4,Completed,Paid
+ENR30940,02-20-2025,STU0473,26.0,Male,JavaScript Fundamentals,Programming,Mr. Khan,pune center,4132.42,97.7,66.7,Completed,Pending
+ENR30276,24-Jan-2025,STU0205,20.0,Other,Spoken English Mastery,Language,Mr. Das,Bangalore Center,1858.28,34.2,32.0,Completed,Paid
+ENR30110,2026-02-25,STU0164,26.0,Other,Spoken English Mastery,Language,Mr. Das,Mumbai Center,2096.5,92.4,72.4,Completed,Paid
+ENR31055,2026-01-13,STU0121,37.0,Male,Graphic Design with Canva,Design,Mr. Das,BANGALORE CENTER,1770.33,55.2,,Dropped,Pending
+ENR30844,10-Jul-2025,STU0411,24.0,Male,Python for Beginners,Programming,Ms. Fernandes,ONLINE,3017.32,53.7,37.4,Completed,Pending
+ENR30705,11/06/2026,STU0139,28.0,Male,Machine Learning Basics,Data,Ms. Rao,Mumbai Center,5680.86,84.3,47.5,Completed,Paid
+ENR30462,07/02/2025,STU0032,43.0,Other,Web Development Bootcamp,Programming,Mr. Sharma,Delhi Center,6335.69,81.4,49.9,In Progress,Paid
+ENR30840,20-Jan-2026,STU0142,20.0,,JavaScript Fundamentals,Programming,Mr. Das,Mumbai Center,3836.17,100.0,83.8,Completed,Pending
+ENR30784,2025-04-19,STU0252,31.0,Female,Spoken English Mastery,Language,Ms. Rao,Delhi Center,1955.6,65.6,42.8,In Progress,Partially Paid
+ENR30744,12-05-2025,STU0002,36.0,Other,Advanced Excel & Power BI,Data,Mr. Das,Delhi Center,4053.69,100.0,62.0,In Progress,Pending
+ENR30627,2025-11-21,STU0132,34.0,Male,Public Speaking Essentials,Soft Skills,Mr. Khan,,1485.42,87.2,60.7,In Progress,Paid
+ENR31196,2026-08-18,STU0388,20.0,Other,Spoken English Mastery,Language,Mr. Khan,Bangalore Center,2032.18,100.0,,Dropped,Paid
+ENR31233,01-07-2025,STU0032,45.0,Male,Data Analytics with Excel,Data,Mr. Khan,pune center,3255.32,57.6,42.9,In Progress,Pending
+ENR30708,28-Aug-2025,STU0215,36.0,Male,Advanced Excel & Power BI,Data,Mr. Sharma,online,4681.94,63.0,44.9,Completed,Partially Paid
+ENR31202,2026-05-24,STU0277,32.0,Female,Web Development Bootcamp,Programming,Ms. Fernandes,BANGALORE CENTER,6390.53,99.8,78.2,In Progress,Paid
+ENR30328,22/03/2025,STU0081,28.0,Female,Python for Beginners,Programming,Mr. Das,Delhi Center,2891.67,100.0,,Dropped,Paid
+ENR31143,04-Apr-2026,STU0217,22.0,Female,Data Analytics with Excel,Data,Mr. Khan,Mumbai Center,,97.2,61.6,In Progress,Paid
+ENR30712,2025-07-31,STU0415,20.0,Male,Public Speaking Essentials,Soft Skills,Mr. Das,ONLINE,1451.46,96.9,56.9,Completed,Partially Paid
+ENR31041,2025-09-03,STU0168,20.0,Other,Advanced Excel & Power BI,Data,Ms. Rao,pune center,4645.47,65.6,45.1,Completed,Partially Paid
+ENR30546,19-Jun-2026,STU0385,30.0,Female,UI/UX Design Basics,Design,Ms. Iyer,Mumbai Center,5120.1,99.7,83.2,In Progress,Pending
+ENR30482,21-Aug-2026,STU0102,39.0,Male,UI/UX Design Basics,Design,Ms. Fernandes,BANGALORE CENTER,5051.07,63.7,49.9,Completed,Paid
+ENR30576,17-Jan-2025,STU0395,21.0,Male,Machine Learning Basics,Data,Mr. Sharma,Bangalore Center,,80.3,54.1,Completed,Pending
+ENR30775,03-11-2026,STU0384,40.0,Female,Spoken English Mastery,Language,Mr. Das,Mumbai Center,2031.4,59.8,,Dropped,Pending
+ENR30913,25-May-2026,STU0241,40.0,Male,SQL for Data Analysis,Data,Mr. Khan,ONLINE,2859.7,76.9,68.7,Completed,Paid
+ENR30975,10-29-2025,STU0061,16.0,Other,JavaScript Fundamentals,Programming,Mr. Sharma,Delhi Center,3609.16,58.5,,Dropped,Partially Paid
+ENR30934,07-23-2025,STU0428,39.0,Male,Graphic Design with Canva,Design,Mr. Khan,BANGALORE CENTER,1747.81,56.2,27.3,Completed,Partially Paid
+ENR30849,18-Jun-2025,STU0018,26.0,Male,Python for Beginners,Programming,Mr. Sharma,pune center,3041.53,65.0,49.2,Completed,Partially Paid
+ENR30865,2026-07-08,STU0422,40.0,Other,SQL for Data Analysis,Data,Mr. Sharma,Delhi Center,2664.73,92.7,55.7,Completed,Pending
+ENR30171,2025-01-21,STU0250,41.0,Female,Python for Beginners,Programming,Ms. Fernandes,Mumbai Center,2723.34,50.1,,Dropped,Paid
+ENR30395,2025-01-10,STU0006,26.0,,SQL for Data Analysis,Data,Mr. Das,Bangalore Center,2659.65,62.8,56.3,Completed,Paid
+ENR30554,2025-06-03,STU0246,37.0,Female,Web Development Bootcamp,Programming,Mr. Das,Bangalore Center,7070.71,58.9,39.7,Completed,Paid
+ENR30848,03/05/2025, STU0337 ,24.0,Male,SQL for Data Analysis,Data,Ms. Iyer,Bangalore Center,2917.67,100.0,71.5,Completed,Pending
+ENR30491,25-Sep-2025,STU0298,31.0,Female,Advanced Excel & Power BI,Data,Ms. Iyer,mumbai center,4536.48,82.9,69.4,Completed,Partially Paid
+ENR30803,06-Jan-2026,STU0311,18.0,Other,SQL for Data Analysis,Data,Mr. Sharma,delhi center,2521.1,66.0,52.2,Completed,Paid
+ENR30210,12-21-2025,STU0243,,Male,Digital Marketing Fundamentals,Marketing,Ms. Iyer,,2539.45,75.8,,Dropped,Partially Paid
+ENR30916,10-31-2025,STU0110,38.0,Male,Spoken English Mastery,Language,Mr. Khan,online,1895.65,80.8,67.8,In Progress,Pending
+ENR30245,03-Feb-2026,STU0395,21.0,Other,Spoken English Mastery,Language,Mr. Sharma,,1894.25,50.2,23.4,In Progress,Partially Paid
+ENR30141,30/07/2026,STU0093,34.0,Male,Advanced Excel & Power BI,Data,Mr. Das,Delhi Center ,4719.42,61.6,39.7,Completed,Paid
+ENR31236,06/01/2025,STU0498,19.0,Female,SQL for Data Analysis,Data,Mr. Sharma,Online,2563.87,60.6,,Dropped,Partially Paid
+ENR30362,2026-01-31,STU0484,34.0,Female,Digital Marketing Fundamentals,Marketing,Ms. Fernandes,Bangalore Center,2284.47,82.0,59.5,Completed,Partially Paid
+ENR30833,05-23-2026,STU0099,19.0,Male,Public Speaking Essentials,Soft Skills,Ms. Rao,ONLINE,1363.71,71.9,38.1,Completed,Pending
+ENR30839,03-01-2025,STU0407,33.0,Male,Spoken English Mastery,Language,Ms. Fernandes,Delhi Center,2064.68,82.7,51.4,Completed,Partially Paid
+ENR30359,25/03/2025,STU0080,20.0,Female,JavaScript Fundamentals,Programming,Ms. Rao,online,4104.26,32.7,18.5,Completed,Paid
+ENR30260,2026-05-05,STU0420,38.0,Other,Spoken English Mastery,Language,Ms. Fernandes,Pune Center,1833.8,67.4,52.2,Completed,Partially Paid
+ENR30297,2026-02-12,STU0165,,Female,Digital Marketing Fundamentals,Marketing,Ms. Rao,mumbai center,2363.13,46.8,47.1,Completed,Paid
+ENR30200,27/07/2026,STU0058,37.0,Other,Data Analytics with Excel,Data,Mr. Sharma,mumbai center,3475.21,95.0,52.6,Completed,Paid
+ENR30287,04-Jul-2025,STU0211,40.0,Female,Advanced Excel & Power BI,Data,Mr. Khan,Mumbai Center,4479.14,93.1,74.5,In Progress,Paid
+ENR30278,18-Aug-2026,STU0309,38.0,Other,SQL for Data Analysis,Data,Mr. Khan,Bangalore Center,2812.23,83.9,72.9,Completed,Pending
+ENR30290,08/06/2026,STU0126,45.0,Male,JavaScript Fundamentals,Programming,Ms. Iyer,BANGALORE CENTER,3997.68,34.2,36.3,In Progress,Paid
+ENR30721,08-16-2026,STU0491,21.0,Female,Python for Beginners,Programming,Ms. Iyer,Online,3134.11,93.3,74.5,Completed,Paid
+ENR30011,14/01/2025,STU0436,38.0,Other,Spoken English Mastery,Language,Mr. Das,Pune Center,2024.13,70.5,58.3,Completed,PENDING
+ENR30148,2025-08-11,STU0383,33.0,Male,SQL for Data Analysis,Data,Mr. Das,Bangalore Center,2789.49,56.1,47.3,In Progress,
+ENR30528,03-07-2026,STU0054,28.0,Male,Web Development Bootcamp,Programming,Ms. Rao,pune center,7147.18,99.1,56.4,Completed,Pending
+ENR31145,23/05/2026,STU0185,41.0,Other,Advanced Excel & Power BI,Data,Ms. Rao,Online,4579.7,30.7,25.9,Completed,Paid
+ENR30533,2026-02-02,STU0264,32.0,Male,Data Analytics with Excel,Data,Ms. Fernandes,,3433.37,68.6,49.5,Completed,Partially Paid
+ENR30529,01-06-2025,STU0106,45.0,Male,UI/UX Design Basics,Design,Ms. Rao,Bangalore Center,5125.78,89.6,67.5,Completed,Partially Paid
+ENR30619,04-29-2026,STU0091,40.0,Male,Data Analytics with Excel,Data,Ms. Iyer,Bangalore Center,3202.09,95.3,64.7,In Progress,Pending
+ENR30164,11-01-2025,STU0217,37.0,Male,Data Analytics with Excel,Data,Mr. Sharma,pune center,3450.58,92.9,64.0,In Progress,Paid
+ENR31197,08-14-2025,STU0414,18.0,Other,Graphic Design with Canva,Design,Mr. Khan,Delhi Center,1793.36,77.7,,Dropped,Partially Paid
+ENR31082,02-06-2026,STU0217,37.0,Female,Advanced Excel & Power BI,Data,Ms. Iyer,delhi center,4261.46,85.5,54.2,Completed,Pending
+ENR30353,29-Jul-2026,STU0078,33.0,,Web Development Bootcamp,Programming,Mr. Khan,Delhi Center ,6354.56,96.3,71.0,Completed,Pending
+ENR30343,09-Oct-2025,STU0068,30.0,Female,Python for Beginners,Programming,Mr. Sharma,delhi center,3108.37,80.1,50.3,Completed,Paid
+ENR30635,05/07/2026,STU0066,26.0,Female,Web Development Bootcamp,Programming,Mr. Khan,delhi center,6822.3,63.9,55.9,Completed,Partially Paid
+ENR30674,27/04/2026,STU0268,40.0,Male,UI/UX Design Basics,Design,Mr. Das,ONLINE,4785.41,80.9,70.3,Completed,Partially Paid
+ENR30824,12-12-2025,STU0126,36.0,Male,Machine Learning Basics,Data,Ms. Iyer,Pune Center,6288.99,90.0,61.1,Completed,Pending
+ENR31151,2026-05-26,STU0241,42.0,Female,Graphic Design with Canva,Design,Mr. Das,Delhi Center ,1760.76,51.7,41.1,Completed,Partially Paid
+ENR30136,2025-08-04,STU0367,16.0,Other,UI/UX Design Basics,Design,Ms. Fernandes,Delhi Center ,5151.85,81.9,,Dropped,Paid
+ENR30771,02-04-2025,STU0108,32.0,Male,SQL for Data Analysis,Data,Ms. Iyer,Mumbai Center,2850.28,74.0,54.1,Completed,Partially Paid
+ENR30283,2025-10-20,STU0369,25.0,Female,Web Development Bootcamp,Programming,Ms. Iyer,mumbai center,6320.93,82.5,53.6,Completed,Partially Paid
+ENR30621,09-Dec-2025,STU0212,42.0,Male,Python for Beginners,Programming,Mr. Sharma,ONLINE,3083.83,72.5,64.7,Completed,Pending
+ENR30478,19/05/2026,STU0103,20.0,Other,Advanced Excel & Power BI,Data,Mr. Khan,pune center,4295.99,71.2,,Dropped,Paid
+ENR30431,08-Jul-2025,STU0360,39.0,Male,SQL for Data Analysis,Data,Ms. Fernandes,Bangalore Center,2936.01,53.9,51.7,In Progress,Paid
+ENR30159,29/03/2025,STU0435,39.0,Male,Data Analytics with Excel,Data,Mr. Khan,pune center,3586.33,47.9,,Dropped,Partially Paid
+ENR30827,28/05/2025,STU0327,24.0,Male,JavaScript Fundamentals,Programming,Ms. Iyer,Delhi Center ,4174.3,,47.0,Completed,Pending
+ENR31119,2025-05-07,STU0045,27.0,Other,Advanced Excel & Power BI,Data,Mr. Das,Pune Center,4385.98,95.7,71.0,Completed,Paid
+ENR30468,29-Apr-2026,STU0175,35.0,Other,UI/UX Design Basics,Design,Mr. Sharma,delhi center,5020.47,78.3,69.2,Completed,Paid
+ENR30349,09/04/2025,STU0090,35.0,Male,Graphic Design with Canva,Design,Mr. Khan,ONLINE,1721.83,178.0,,Dropped,Partially Paid
+ENR30582,07-04-2026,STU0321,18.0,Female,Graphic Design with Canva,Design,Ms. Iyer,BANGALORE CENTER,1867.71,95.6,55.6,In Progress,Paid
+ENR30799,2025-10-18,STU0303,19.0,Other,Digital Marketing Fundamentals,Marketing,Mr. Sharma,Mumbai Center,2469.13,49.7,46.8,Completed,Paid
+ENR30142,2025-12-18,STU0436,26.0,,Digital Marketing Fundamentals,Marketing,Mr. Sharma,Pune Center,,51.6,30.9,In Progress,Pending
+ENR30097,2025-01-23,STU0133,30.0,Other,Digital Marketing Fundamentals,Marketing,Ms. Rao,Bangalore Center,2304.38,85.7,52.2,In Progress,Pending
+ENR31012,18-Sep-2025,STU0485,28.0,,Python for Beginners,Programming,Ms. Rao,BANGALORE CENTER,2830.19,52.0,,Dropped,Partially Paid
+ENR31250,2025-04-22,STU0301,38.0,Female,Public Speaking Essentials,Soft Skills,Mr. Khan,BANGALORE CENTER,1422.04,178.5,61.0,Completed,Partially Paid
+ENR30553,11/06/2026,STU0099,25.0,Other,JavaScript Fundamentals,Programming,Mr. Das,Delhi Center ,3808.28,63.4,39.5,In Progress,Partially Paid
+ENR30157,08-28-2025,STU0247,30.0,Female,Graphic Design with Canva,Design,Mr. Sharma,pune center,1787.05,81.9,,Dropped,Partially Paid
+ENR30428,01-24-2025,STU0306,26.0,Female,Data Analytics with Excel,Data,Ms. Iyer,mumbai center,3451.22,80.7,,Dropped,Partially Paid
+ENR30809,19/03/2026,STU0185,35.0,Male,Data Analytics with Excel,Data,Ms. Fernandes,Delhi Center ,3460.27,94.9,69.7,Completed,Paid
+ENR31149,09/04/2025,STU0075,44.0,Female,JavaScript Fundamentals,Programming,Ms. Iyer,Delhi Center,3872.3,81.2,54.4,Completed,Partially Paid
+ENR30299,12-21-2025,STU0155,40.0,Male,Data Analytics with Excel,Data,Ms. Iyer,delhi center,3270.39,44.1,34.8,Completed,Pending
+ENR30436,26-Apr-2026,STU0101,27.0,Other,Advanced Excel & Power BI,Data,Mr. Khan,pune center,4456.01,72.6,,Dropped,Pending
+ENR30382,12-May-2025,STU0400,40.0,Male,Public Speaking Essentials,Soft Skills,Mr. Sharma,Bangalore Center,1409.42,63.2,35.6,Completed,Pending
+ENR30918,14-Apr-2025,STU0192,43.0,Female,JavaScript Fundamentals,Programming,Ms. Fernandes,Pune Center,3671.96,94.2,,Dropped,Pending
+ENR30536,2026-02-08,STU0087,25.0,Male,UI/UX Design Basics,Design,Mr. Sharma,Online,5032.97,76.3,,Dropped,Pending
+ENR30645,28/02/2026,STU0451,28.0,Male,UI/UX Design Basics,Design,Mr. Das,,4686.89,78.1,66.6,In Progress,Partially Paid
+ENR30812,15/04/2025,STU0251,32.0,Female,UI/UX Design Basics,Design,Ms. Rao,Online,4780.11,45.9,46.8,Completed,
+ENR30414,2026-07-25,STU0421,45.0,Female,Public Speaking Essentials,Soft Skills,Ms. Fernandes,Bangalore Center,1497.62,100.0,75.9,In Progress,Paid
+ENR30843,30/04/2025,STU0493,28.0,Other,Data Analytics with Excel,Data,Ms. Rao,online,3481.72,75.7,45.9,Completed,Pending
+ENR31068,02-20-2025,STU0173,28.0,Female,Web Development Bootcamp,Programming,Mr. Khan,Delhi Center,6671.04,91.6,55.6,In Progress,Partially Paid
+ENR31147,09/02/2026,STU0147,23.0,Other,JavaScript Fundamentals,Programming,Ms. Rao,pune center,3703.65,68.7,,Dropped,Paid
+ENR30603,2026-08-22,STU0025,28.0,Male,Graphic Design with Canva,Design,Ms. Fernandes,pune center,1716.29,55.0,45.3,Completed,Pending
+ENR30592,18/05/2026,STU0306,29.0,Other,Machine Learning Basics,Data,Ms. Rao,mumbai center,5462.0,59.4,32.9,In Progress,Partially Paid
+ENR30949,05/03/2026,STU0254,-5.0,Female,Graphic Design with Canva,Design,Mr. Das,mumbai center,1698.49,39.0,32.3,In Progress,Paid
+ENR30179,2025-01-09,STU0422,30.0,Female,Python for Beginners,Programming,Ms. Fernandes,Online,2752.8,87.1,59.1,Completed,Pending
+ENR31011,08-Feb-2025,STU0455,17.0,Other,Machine Learning Basics,Data,Ms. Iyer,BANGALORE CENTER,6038.43,87.3,55.8,Completed,Paid
+ENR31053,21/04/2025,STU0321,30.0,Female,JavaScript Fundamentals,Programming,Ms. Iyer,Delhi Center,3600.61,100.0,75.3,Completed,Partially Paid
+ENR30991,21/07/2026,STU0175,16.0,Other,Data Analytics with Excel,Data,Ms. Rao,pune center,3625.35,68.0,49.3,Completed,Partially Paid
+ENR30295,15/01/2026,STU0048,32.0,Other,Web Development Bootcamp,Programming,Ms. Fernandes,mumbai center,6951.19,89.3,57.0,Completed,Paid
+ENR30368,04-Aug-2026,STU0021,44.0,Male,Public Speaking Essentials,Soft Skills,Ms. Fernandes,Pune Center,1435.89,50.9,44.8,In Progress,Partially Paid
+ENR30552,05-25-2025,STU0435,19.0,Female,Data Analytics with Excel,Data,Mr. Sharma,Delhi Center,3451.61,28.3,,Dropped,Pending
+ENR30622,2026-03-10,STU0035,33.0,Female,Machine Learning Basics,Data,Mr. Khan,BANGALORE CENTER,5800.81,40.0,19.6,In Progress,Partially Paid
+ENR30888,03/05/2025,STU0100,,Other,Data Analytics with Excel,Data,Ms. Fernandes,delhi center,3512.75,40.9,15.2,In Progress,Partially Paid
+ENR30089,05/06/2026,STU0389,24.0,Male,JavaScript Fundamentals,Programming,Mr. Das,Bangalore Center,4188.48,87.1,,Dropped,Partially Paid
+ENR30694,07-13-2025,STU0302,28.0,Other,Web Development Bootcamp,Programming,Mr. Das,Pune Center,6643.82,84.3,62.8,Completed,Partially Paid
+ENR30378,01-Jan-2026,STU0248,36.0,Female,Web Development Bootcamp,Programming,Mr. Khan,mumbai center,6838.04,67.6,36.6,Completed,Paid
+ENR30912,2026-06-19,STU0141,15.0,Male,Python for Beginners,Programming,Mr. Sharma,delhi center,2738.01,,53.8,Completed,
+ENR30717,2025-05-26,STU0217,25.0,Male,Python for Beginners,Programming,Mr. Khan,delhi center,2921.42,98.7,59.2,In Progress,Paid
+ENR30707,02-Feb-2026,STU0040,,Male,Spoken English Mastery,Language,Mr. Sharma,pune center,1816.89,100.0,80.3,Completed,Partially Paid
+ENR30763,10-Oct-2025,STU0336,22.0,Other,Spoken English Mastery,Language,Mr. Khan,online,2015.55,100.0,73.2,In Progress,Pending
+ENR30291,14/01/2026,STU0020,16.0,Male,Machine Learning Basics,Data,Ms. Rao,pune center,5942.11,60.2,51.9,In Progress,Paid
+ENR30286,09-Oct-2025,STU0078,38.0,Female,JavaScript Fundamentals,Programming,Ms. Rao,Pune Center,3844.55,73.6,60.0,Completed,Paid
+ENR30630,04-02-2025,STU0490,36.0,,Data Analytics with Excel,Data,Mr. Khan,mumbai center,3304.95,93.3,61.7,In Progress,Partially Paid
+ENR31221,2026-04-28,STU0483,37.0,Other,Digital Marketing Fundamentals,Marketing,Ms. Fernandes,Online,2340.03,90.6,59.7,In Progress,Partially Paid
+ENR30391,03/10/2025,STU0471,41.0,Other,Graphic Design with Canva,Design,Ms. Iyer,Online,1790.71,100.0,75.8,In Progress,Paid
+ENR30267,17-May-2026,STU0374,16.0,Female,Public Speaking Essentials,Soft Skills,Ms. Fernandes,Delhi Center ,1417.46,81.6,67.8,Completed,Pending
+ENR31007,2026-04-14,STU0427,19.0,Male,Machine Learning Basics,Data,Ms. Iyer,Online,5424.04,78.6,58.3,Completed,Pending
+ENR30060,14/05/2026,STU0498,39.0,Male,Machine Learning Basics,Data,Mr. Das,Bangalore Center,6063.83,61.3,56.1,Completed,Partially Paid
+ENR31126,01-27-2025,STU0066,36.0,Male,Spoken English Mastery,Language,Mr. Das,pune center,1833.14,,,Dropped,Paid
+ENR31217,15-Sep-2025,STU0479,15.0,Male,Spoken English Mastery,Language,Ms. Rao,Pune Center,1853.9,80.0,66.3,Completed,Partially Paid
+ENR30527,2026-05-30,STU0170,16.0,Other,Digital Marketing Fundamentals,Marketing,Mr. Das,Mumbai Center,2267.71,87.4,,Dropped,PARTIALLY PAID
+ENR30808,23-Jun-2025,STU0001,17.0,Female,Data Analytics with Excel,Data,Mr. Sharma,Pune Center,3651.97,95.1,53.2,Completed,Paid
+ENR30756,2025-08-27,STU0403,43.0,,Advanced Excel & Power BI,Data,Mr. Sharma,Bangalore Center,4692.65,67.6,,Dropped,Pending
+ENR31132,15-May-2026,STU0396,37.0,Female,Advanced Excel & Power BI,Data,Ms. Fernandes,Delhi Center ,4300.0,100.0,61.8,In Progress,Partially Paid
+ENR30426,31-Aug-2025,STU0012,42.0,Other,Digital Marketing Fundamentals,Marketing,Mr. Sharma,Pune Center,2566.51,58.4,35.7,Completed,Pending
+ENR30651,07/04/2026,STU0297,29.0,Other,Machine Learning Basics,Data,Mr. Sharma,mumbai center,6249.37,97.0,61.2,Completed,Partially Paid
+ENR31165,03-24-2025,STU0090,30.0,Female,Data Analytics with Excel,Data,Mr. Sharma,Bangalore Center,3591.48,100.0,81.8,Completed,Partially Paid
+ENR30927,01-19-2025,STU0376,17.0,Other,Python for Beginners,Programming,Ms. Iyer,Bangalore Center,3069.33,80.2,,Dropped,Pending
+ENR30965,2025-06-07,STU0045,16.0,Other,Graphic Design with Canva,Design,Ms. Fernandes,pune center,1694.5,60.8,29.6,Completed,Paid
+ENR31193,14-Nov-2025,STU0157,40.0,Other,UI/UX Design Basics,Design,Mr. Khan,Mumbai Center,4845.49,84.0,73.1,Completed,Paid
+ENR30356,07-Nov-2025,STU0307,43.0,Female,Spoken English Mastery,Language,Mr. Sharma,ONLINE,1934.41,56.3,34.0,In Progress,Pending
+ENR30755,08-25-2025,STU0475,20.0,Other,Digital Marketing Fundamentals,Marketing,Mr. Das,Mumbai Center,2410.99,50.3,46.5,Completed,Partially Paid
+ENR30448,07-14-2025,STU0330,43.0,Male,Python for Beginners,Programming,Ms. Fernandes,BANGALORE CENTER,2876.27,48.0,,Dropped,Pending
+ENR30329,06-27-2026,STU0270,27.0,Female,Public Speaking Essentials,Soft Skills,Ms. Rao,Bangalore Center,1378.27,100.0,,Dropped,Paid
+ENR30421,25/07/2025,STU0150,31.0,Male,Machine Learning Basics,Data,Mr. Sharma,Pune Center,5437.63,63.9,40.7,Completed,Paid
+ENR31227,19-Aug-2026,STU0471,43.0,Female,Machine Learning Basics,Data,Ms. Iyer,pune center,5807.85,100.0,63.9,Completed,Paid
+ENR30968,12-24-2025,STU0450,17.0,Female,Web Development Bootcamp,Programming,Mr. Sharma,Pune Center,6686.54,69.5,,Dropped,
+ENR30084,15/08/2026,STU0350,30.0,Female,Graphic Design with Canva,Design,Mr. Khan,pune center,1709.43,53.7,39.6,Completed,Pending
+ENR30130,2025-10-21,STU0309,17.0,Other,Data Analytics with Excel,Data,Ms. Rao,Bangalore Center,3191.14,86.9,53.7,Completed,Partially Paid
+ENR30714,09/12/2025,STU0208,44.0,Other,Spoken English Mastery,Language,Ms. Iyer,Pune Center,1895.41,77.1,50.1,Completed,Pending
+ENR30882,03-25-2025,STU0103,45.0,,Web Development Bootcamp,Programming,Ms. Iyer,pune center,6371.5,80.7,,Dropped,Paid
+ENR30172,03/08/2025,STU0048,45.0,Female,Machine Learning Basics,Data,Mr. Das,mumbai center,6186.71,71.1,39.4,Completed,Partially Paid
+ENR30543,2025-12-21,STU0410,36.0,Male,Web Development Bootcamp,Programming,Mr. Sharma,Bangalore Center,6625.78,87.3,70.3,Completed,Partially Paid
+ENR30261,01-23-2026,STU0055,25.0,,Advanced Excel & Power BI,Data,Mr. Khan,Mumbai Center,4166.67,100.0,73.4,In Progress,Paid
+ENR30615,05-15-2026,STU0488,38.0,Female,Public Speaking Essentials,Soft Skills,Ms. Rao,Delhi Center,1436.6,88.8,76.2,In Progress,Paid
+ENR30629,2026-03-13,STU0240,17.0,Male,Python for Beginners,Programming,Mr. Das,Mumbai Center,2729.53,71.2,,Dropped,Partially Paid
+ENR31088,19/09/2025,STU0082,32.0,Female,SQL for Data Analysis,Data,Ms. Fernandes,Mumbai Center,2912.09,61.9,,Dropped,Pending
+ENR30900,07-07-2025,STU0176,41.0,Other,JavaScript Fundamentals,Programming,Ms. Rao,mumbai center,3856.49,42.9,29.0,Completed,Paid
+ENR30333,20-Oct-2025,STU0370,38.0,Other,Advanced Excel & Power BI,Data,Ms. Fernandes,online,4431.93,64.6,46.1,In Progress,Paid
+ENR30139,24-Mar-2026,STU0125,33.0,,JavaScript Fundamentals,Programming,Mr. Sharma,mumbai center,4197.81,56.2,,Dropped,Pending
+ENR30293,13/05/2026,STU0215,39.0,Male,Machine Learning Basics,Data,Ms. Rao,Pune Center,5496.74,27.3,,Dropped,Paid
+ENR31050,09/03/2026,STU0362,20.0,Female,Python for Beginners,Programming,Mr. Khan,pune center,2787.05,80.2,43.4,In Progress,Paid
+ENR30922,23-Jul-2025,STU0047,22.0,Male,UI/UX Design Basics,Design,Mr. Sharma,mumbai center,4752.35,69.2,34.9,In Progress,Paid
+ENR30142,2025-12-18,STU0436,26.0,,Digital Marketing Fundamentals,Marketing,Mr. Sharma,Pune Center,,51.6,30.9,In Progress,Pending
+ENR30631,13/07/2026,STU0388,29.0,Other,Spoken English Mastery,Language,Mr. Khan,Bangalore Center,1985.65,77.6,52.0,Completed,Partially Paid
+ENR30584,17/02/2025,STU0344,45.0,Male,Graphic Design with Canva,Design,Ms. Fernandes,Mumbai Center,1756.29,80.9,64.3,Completed,Pending
+ENR31172,20-Jul-2025,STU0066,30.0,Other,Machine Learning Basics,Data,Mr. Khan,mumbai center,5442.63,57.5,51.4,Completed,PAID
+ENR30140,05-Jan-2026,STU0334,16.0,Male,Web Development Bootcamp,Programming,Ms. Rao,Pune Center,6309.16,,74.7,In Progress,Paid
+ENR30580,2026-08-30,STU0093,43.0,Other,Graphic Design with Canva,Design,Ms. Iyer,ONLINE,1737.23,87.1,67.3,In Progress,Partially Paid
+ENR30969,13/08/2025,STU0265,29.0,Female,Machine Learning Basics,Data,Mr. Das,Mumbai Center,5605.42,87.7,53.3,Completed,Pending
+ENR30225,2026-07-22,STU0375,33.0,Other,Digital Marketing Fundamentals,Marketing,Ms. Iyer,BANGALORE CENTER,2621.92,83.5,71.7,Completed,Pending
+ENR30440,2025-09-25,STU0432,35.0,Male,JavaScript Fundamentals,Programming,Mr. Khan,BANGALORE CENTER,3895.37,50.1,34.7,Completed,Partially Paid
+ENR30275,2026-07-19,STU0361,31.0,Male,Data Analytics with Excel,Data,Ms. Iyer,Delhi Center,3319.85,100.0,75.0,Completed,Pending
+ENR30324,18/04/2025,STU0202,35.0,Other,Machine Learning Basics,Data,Mr. Sharma,ONLINE,6069.14,71.3,,Dropped,Paid
+ENR30381,07-24-2026,STU0217,37.0,Male,SQL for Data Analysis,Data,Ms. Fernandes,Pune Center,2713.63,82.8,68.1,Completed,Partially Paid
+ENR30326,12/12/2025,STU0389,20.0,Male,Public Speaking Essentials,Soft Skills,Mr. Khan,mumbai center,1538.12,100.0,69.3,Completed,Partially Paid
+ENR30544,06/04/2026,STU0413,36.0,Female,Public Speaking Essentials,Soft Skills,Ms. Rao,ONLINE,1446.74,82.6,,Dropped,Pending
+ENR30938,21/02/2026,STU0286,41.0,Other,Advanced Excel & Power BI,Data,Mr. Das,Mumbai Center,4405.8,80.4,61.7,Completed,Partially Paid
+ENR30677,2026-01-27,STU0264,39.0,Male,UI/UX Design Basics,Design,Mr. Khan,pune center,5070.21,30.8,12.5,Completed,Partially Paid
+ENR30917,2025-08-15,STU0019,40.0,Other,Digital Marketing Fundamentals,Marketing,Ms. Fernandes,delhi center,2620.92,93.2,,Dropped,Partially Paid
+ENR30876,06/10/2025,STU0094,36.0,Female,Public Speaking Essentials,Soft Skills,Ms. Fernandes,delhi center,1518.33,63.9,,Dropped,Pending
+ENR30383,2026-05-08,STU0223,26.0,Female,Python for Beginners,Programming,Mr. Khan,BANGALORE CENTER,2766.35,86.1,50.6,Completed,Paid
+ENR31140,2026-07-18,STU0106,37.0,Other,UI/UX Design Basics,Design,Mr. Das,pune center,,38.0,24.0,Completed,Paid
+ENR30768,2026-02-27,STU0378,31.0,Other,Spoken English Mastery,Language,Ms. Iyer,Mumbai Center,2078.77,90.0,58.7,Completed,Paid
+ENR30868,05-18-2025,STU0389,42.0,Male,Data Analytics with Excel,Data,Ms. Rao,Delhi Center,3520.06,55.7,27.1,In Progress,PAID
+ENR30425,12/09/2025,STU0034,,Male,Spoken English Mastery,Language,Mr. Sharma,delhi center,1893.53,87.9,,Dropped,Partially Paid
+ENR30571,2026-02-23,STU0189,23.0,Female,Machine Learning Basics,Data,Ms. Iyer,Pune Center,5854.85,100.0,,Dropped,Partially Paid
+ENR30778,11/05/2025,STU0498,37.0,Female,UI/UX Design Basics,Design,Mr. Khan,BANGALORE CENTER,4606.42,48.3,46.2,Completed,Paid
+ENR30781,08-30-2026,STU0367,43.0,Female,SQL for Data Analysis,Data,Mr. Khan,mumbai center,2804.6,100.0,,Dropped,Pending
+ENR30709,15/03/2025,STU0366,18.0,,Machine Learning Basics,Data,Mr. Khan,ONLINE,5917.79,100.0,69.1,Completed,Pending
+ENR30561,03-28-2026,STU0337,32.0,Female,JavaScript Fundamentals,Programming,Ms. Iyer,pune center,3599.68,89.9,,Dropped,Pending
+ENR30680,30/05/2026,STU0154,33.0,Male,Advanced Excel & Power BI,Data,Ms. Fernandes,Delhi Center ,4551.06,89.1,56.4,In Progress,Pending
+ENR30322,08/02/2026,STU0072,33.0,Female,Data Analytics with Excel,Data,Mr. Das,delhi center,3564.44,75.0,47.5,In Progress,Pending
+ENR30850,04/08/2026,STU0126,41.0,Other,Web Development Bootcamp,Programming,Ms. Fernandes,Pune Center,6428.72,61.1,,Dropped,Paid
+ENR31123,03/10/2025,STU0147,31.0,Male,Graphic Design with Canva,Design,Mr. Sharma,Bangalore Center,1799.2,100.0,62.7,Completed,Partially Paid
+ENR30971,2026-07-24,STU0085,45.0,Male,Public Speaking Essentials,Soft Skills,Mr. Khan,Online,1352.33,100.0,67.2,In Progress,Partially Paid
+ENR30794,06-Feb-2025,STU0206,17.0,,SQL for Data Analysis,Data,Mr. Sharma,Mumbai Center,2727.36,83.8,,Dropped,Pending
+ENR30040,2026-05-21,STU0204,39.0,Female,Machine Learning Basics,Data,Ms. Iyer,Delhi Center ,5440.92,81.5,52.8,In Progress,Partially Paid
+ENR30031,03-Jul-2025,STU0312,25.0,Other,Graphic Design with Canva,Design,Mr. Sharma,mumbai center,1885.8,46.8,,Dropped,Pending
+ENR30243,07-08-2026,STU0059,27.0,Other,Public Speaking Essentials,Soft Skills,Ms. Rao,Delhi Center ,1435.59,43.2,40.5,Completed,Pending
+ENR30672,05/07/2026,STU0097,33.0,Other,SQL for Data Analysis,Data,Mr. Sharma,Bangalore Center,2729.46,100.0,74.7,Completed,Pending
+ENR31042,28-Sep-2025,STU0346,44.0,Male,Python for Beginners,Programming,Ms. Rao,Delhi Center ,3051.59,98.7,70.0,Completed,Partially Paid
+ENR30137,15-Jun-2026,STU0465,37.0,Other,Spoken English Mastery,Language,Mr. Das,pune center,2035.14,36.3,31.9,In Progress,Partially Paid
+ENR30311,2025-03-20,STU0142,21.0,Male,Machine Learning Basics,Data,Mr. Khan,Pune Center,6004.35,61.5,56.5,Completed,Partially Paid
+ENR31076,2026-06-21,STU0169,38.0,Female,Web Development Bootcamp,Programming,Ms. Fernandes,BANGALORE CENTER,7344.68,87.0,75.3,Completed,Paid
+ENR30530,2026-05-08,STU0372,18.0,Male,Web Development Bootcamp,Programming,Ms. Fernandes,BANGALORE CENTER,6305.17,58.8,49.1,Completed,Partially Paid
+ENR30844,10-Jul-2025,STU0411,24.0,Male,Python for Beginners,Programming,Ms. Fernandes,ONLINE,3017.32,53.7,37.4,Completed,Pending
+ENR31138,2025-11-25,STU0182,17.0,Other,UI/UX Design Basics,Design,Mr. Sharma,Delhi Center ,5130.54,62.8,35.3,In Progress,Paid
+ENR30012,2025-03-08,STU0487,,Male,Data Analytics with Excel,Data,Ms. Iyer,Delhi Center,3449.83,62.2,58.4,In Progress,
+ENR30498,2026-01-16,STU0102,32.0,,Web Development Bootcamp,Programming,Ms. Rao,Pune Center,7297.75,54.5,36.8,In Progress,Paid
+ENR30004,06-10-2026,STU0335,,Male,Digital Marketing Fundamentals,Marketing,Mr. Sharma,Mumbai Center,2622.15,63.6,40.1,Completed,Pending
+ENR30112,14-Sep-2025,STU0465,35.0,Female,JavaScript Fundamentals,Programming,Ms. Iyer,ONLINE,4045.2,62.4,32.6,Completed,
+ENR30856,07-24-2025,STU0192,23.0,Female,Digital Marketing Fundamentals,Marketing,Mr. Sharma,Delhi Center,2506.5,79.8,64.3,In Progress,Pending
+ENR31113,2025-06-08,STU0283,35.0,Other,Public Speaking Essentials,Soft Skills,Mr. Sharma,pune center,1545.22,64.7,37.9,In Progress,Paid
+ENR31199,15-Nov-2025,STU0318,21.0,Female,Digital Marketing Fundamentals,Marketing,Ms. Fernandes,Delhi Center,2338.91,52.0,31.7,Completed,Partially Paid
+ENR30948,05-Jan-2025,STU0470,29.0,Female,Python for Beginners,Programming,Mr. Khan,Delhi Center ,2794.74,47.4,37.6,Completed,PAID
+ENR30858,09-May-2025,STU0308,15.0,Male,Graphic Design with Canva,Design,Ms. Rao,pune center,1755.24,50.4,49.5,Completed,Paid
+ENR30377,07-May-2025, STU0128 ,28.0,,Data Analytics with Excel,Data,Ms. Iyer,delhi center,3631.99,67.3,59.8,Completed,Paid
+ENR30562,2025-07-02,STU0386,25.0,Male,Python for Beginners,Programming,Mr. Das,Mumbai Center,2843.38,80.4,53.1,In Progress,Partially Paid
+ENR30472,27-Mar-2025,STU0137,38.0,Other,Spoken English Mastery,Language,Mr. Das,Pune Center,1803.48,55.8,27.8,Completed,Paid
+ENR30315,30-May-2026,STU0387,38.0,Other,UI/UX Design Basics,Design,Ms. Iyer,online,4677.12,100.0,83.9,Completed,Paid
+ENR30404,2025-02-21,STU0200,37.0,Other,Web Development Bootcamp,Programming,Ms. Iyer,pune center,6302.42,62.7,58.2,Completed,Partially Paid
+ENR30320,26-May-2026,STU0248,21.0,Other,Machine Learning Basics,Data,Ms. Rao,BANGALORE CENTER,6117.42,81.5,,Dropped,Paid
+ENR30669,05/06/2026,STU0391,26.0,Other,Digital Marketing Fundamentals,Marketing,Ms. Rao,Delhi Center ,2314.95,67.8,47.3,In Progress,Pending
+ENR31158,02-19-2026,STU0187,24.0,,Python for Beginners,Programming,Ms. Iyer,Mumbai Center,2741.77,62.2,34.7,Completed,Pending
+ENR30006,02-Feb-2026,STU0444,21.0,Other,Python for Beginners,Programming,Mr. Khan,Mumbai Center,2725.01,80.1,64.8,In Progress,
+ENR30101,03-08-2025,STU0008,21.0,Male,Advanced Excel & Power BI,Data,Ms. Iyer,delhi center,4111.24,78.0,,Dropped,Paid
+ENR30733,13-Jul-2025,STU0371,15.0,Female,Python for Beginners,Programming,Mr. Das,ONLINE,2789.75,72.5,,Dropped,Partially Paid
+ENR30589,01/02/2025,STU0121,21.0,Male,Graphic Design with Canva,Design,Ms. Fernandes,Delhi Center,1638.0,77.3,,Dropped,Partially Paid
+ENR30567,31-Mar-2026,STU0252,17.0,Male,Machine Learning Basics,Data,Ms. Iyer,online,5906.44,52.9,,Dropped,Paid
+ENR30666,09-01-2025,STU0200,33.0,Female,Spoken English Mastery,Language,Ms. Rao,Pune Center,2009.6,,35.2,Completed,Paid
+ENR30424,2025-01-25,STU0078,44.0,Other,UI/UX Design Basics,Design,Ms. Iyer,Bangalore Center,4978.3,75.9,65.6,In Progress,Partially Paid
+ENR30936,2025-01-09,STU0057,30.0,Female,Data Analytics with Excel,Data,Mr. Sharma,Mumbai Center,3216.85,47.7,35.2,Completed,Pending
+ENR30430,01/06/2026,STU0228,,Female,Python for Beginners,Programming,Ms. Rao,Bangalore Center,3117.62,76.5,60.3,Completed,Paid
+ENR30966,21/04/2026,STU0338,35.0,Male,Public Speaking Essentials,Soft Skills,Mr. Sharma,Mumbai Center,1365.01,57.9,54.1,In Progress,Paid
+ENR30862,05/06/2025,STU0010,22.0,Male,Web Development Bootcamp,Programming,Ms. Iyer,BANGALORE CENTER,7121.38,82.9,57.8,Completed,Paid
+ENR30228,26-Oct-2025,STU0460,17.0,Female,Data Analytics with Excel,Data,Mr. Das,Delhi Center ,3313.77,89.9,,Dropped,Pending
+ENR31107,05-Mar-2026,STU0466,,,Digital Marketing Fundamentals,Marketing,Ms. Iyer,Bangalore Center,2406.2,51.4,44.2,Completed,Pending
+ENR30842,08/06/2026,STU0337,42.0,Female,Digital Marketing Fundamentals,Marketing,Mr. Khan,Mumbai Center,2336.05,71.7,61.3,Completed,Partially Paid
+ENR31111,2025-06-10,STU0435,29.0,Female,Graphic Design with Canva,Design,Mr. Khan,Delhi Center,1809.98,47.4,29.6,Completed,Paid
+ENR30515,25-Aug-2026,STU0254,42.0,Other,Machine Learning Basics,Data,Mr. Sharma,Mumbai Center,6249.27,49.5,45.5,Completed,Partially Paid
+ENR30067,2026-04-06,STU0202,29.0,Female,SQL for Data Analysis,Data,Mr. Sharma,delhi center,2793.34,93.7,,Dropped,Partially Paid
+ENR30911,12-Apr-2026,STU0406,45.0,Male,Machine Learning Basics,Data,Ms. Iyer,Bangalore Center,5706.2,79.8,52.1,Completed,Partially Paid
+ENR30068,30/07/2025,STU0147,21.0,Other,Digital Marketing Fundamentals,Marketing,Ms. Iyer,ONLINE,2590.71,72.8,,Dropped,Paid
+ENR30443,2026-02-15,STU0287,18.0,Male,Public Speaking Essentials,Soft Skills,Ms. Fernandes,Delhi Center,1458.54,28.2,31.1,Completed,Partially Paid
+ENR30212,2025-08-30,STU0208,37.0,Female,Graphic Design with Canva,Design,Mr. Das,Mumbai Center,1763.74,83.6,71.8,Completed,Paid
+ENR30013,2026-04-13,STU0470,17.0,Male,Spoken English Mastery,Language,Ms. Iyer,Bangalore Center,1801.13,74.7,54.9,In Progress,Paid
+ENR30723,14/09/2025,STU0188,44.0,Male,Public Speaking Essentials,Soft Skills,Mr. Sharma,ONLINE,1380.0,100.0,,Dropped,Paid
+ENR31162,2026-05-25,STU0097,27.0,Male,Advanced Excel & Power BI,Data,Mr. Khan,Online,4581.6,69.5,,Dropped,Paid
+ENR30300,14-May-2026,STU0297,25.0,Female,Digital Marketing Fundamentals,Marketing,Mr. Khan,Online,2273.89,68.3,53.0,In Progress,Paid
+ENR30534,2025-02-16,STU0207,20.0,Male,SQL for Data Analysis,Data,Mr. Das,online,2817.38,50.4,40.0,Completed,Paid
+ENR30874,01-Jul-2026,STU0110,34.0,Male,UI/UX Design Basics,Design,Ms. Iyer,Pune Center,4608.89,58.8,52.0,Completed,Paid
+ENR31157,14/05/2025,STU0030,45.0,Male,Machine Learning Basics,Data,Ms. Iyer,Bangalore Center,6180.14,100.0,56.7,Completed,Partially Paid
+ENR31248,09/03/2026,STU0180,34.0,Male,Python for Beginners,Programming,Mr. Khan,Bangalore Center,2921.74,58.2,29.6,Completed,Partially Paid
+ENR30652,13-Dec-2025,STU0464,42.0,Female,Spoken English Mastery,Language,Mr. Das,BANGALORE CENTER,1982.86,100.0,,Dropped,Paid
+ENR30970,27/06/2026,STU0179,17.0,Other,Digital Marketing Fundamentals,Marketing,Ms. Fernandes,Delhi Center,2581.03,45.8,21.2,In Progress,Pending
+ENR31223,04/08/2026, STU0161 ,26.0,Other,Spoken English Mastery,Language,Mr. Khan,pune center,1837.84,54.8,52.7,Completed,Pending
+ENR30984,15-Jan-2025,STU0332,37.0,Female,Machine Learning Basics,Data,Ms. Rao,delhi center,5481.07,52.8,26.4,Completed,Partially Paid
+ENR30611,2025-02-05,STU0026,23.0,Other,Web Development Bootcamp,Programming,Mr. Das,delhi center,7185.72,100.0,,Dropped,Paid
+ENR30992,11-27-2025,STU0322,23.0,Female,Graphic Design with Canva,Design,Mr. Das,Mumbai Center,1701.71,55.1,,Dropped,Partially Paid
+ENR31204,2025-07-07,STU0290,37.0,Other,UI/UX Design Basics,Design,Mr. Khan,ONLINE,4768.38,55.3,48.8,Completed,Pending
+ENR31112,15-Jan-2026,STU0044,34.0,Female,Public Speaking Essentials,Soft Skills,Ms. Fernandes,mumbai center,1460.03,64.1,46.8,Completed,Partially Paid
+ENR30964,09-28-2025,STU0351,42.0,Male,Web Development Bootcamp,Programming,Ms. Rao,mumbai center,6516.81,82.9,52.2,Completed,Paid
+ENR31116,30/08/2026,STU0331,37.0,Male,SQL for Data Analysis,Data,Mr. Sharma,Bangalore Center,2734.02,75.1,65.7,Completed,
+ENR30274,01-28-2026,STU0292,44.0,Other,JavaScript Fundamentals,Programming,Ms. Rao,Mumbai Center,3937.65,38.0,23.9,Completed,Paid
+ENR31025,05-18-2025,STU0183,24.0,Female,Advanced Excel & Power BI,Data,Mr. Sharma,,4369.29,100.0,73.4,Completed,Paid
+ENR30363,16/09/2025,STU0001,28.0,Female,UI/UX Design Basics,Design,Mr. Sharma,Delhi Center,5047.38,82.7,58.2,Completed,Pending
+ENR30238,07-27-2025,STU0264,32.0,Male,Web Development Bootcamp,Programming,Mr. Das,pune center,6668.32,97.4,81.6,Completed,Partially Paid
+ENR31205,06-Nov-2025,STU0280,26.0,Female,Advanced Excel & Power BI,Data,Ms. Rao,Delhi Center ,4593.02,100.0,66.0,In Progress,Paid
+ENR30681,22-Aug-2025,STU0037,15.0,Male,JavaScript Fundamentals,Programming,Mr. Sharma,Bangalore Center,3909.88,88.2,,Dropped,Paid
+ENR30003,2025-09-09,STU0476,25.0,Other,UI/UX Design Basics,Design,Ms. Rao,BANGALORE CENTER,4954.7,44.3,,Dropped,Partially Paid
+ENR30007,01-24-2026,STU0005,30.0,Female,Public Speaking Essentials,Soft Skills,Mr. Khan,Bangalore Center,1451.24,72.0,61.6,Completed,Paid
+ENR30371,02/12/2025,STU0210,,Other,Web Development Bootcamp,Programming,Ms. Fernandes,Online,6439.39,84.6,51.6,In Progress,Partially Paid
+ENR30312,03-Jun-2025,STU0357,37.0,Male,Public Speaking Essentials,Soft Skills,Mr. Sharma,Pune Center,1497.86,98.9,57.3,Completed,Pending
+ENR31108,11-Sep-2025,STU0289,26.0,Male,Graphic Design with Canva,Design,Mr. Khan,online,1690.26,78.6,43.0,In Progress,Pending
+ENR30479,04-21-2025,STU0174,27.0,Other,Spoken English Mastery,Language,Ms. Iyer,Mumbai Center,2097.07,88.6,76.8,Completed,Partially Paid
+ENR30574,2026-03-28,STU0336,38.0,Other,Graphic Design with Canva,Design,Ms. Fernandes,BANGALORE CENTER,1634.42,66.2,37.5,Completed,
+ENR30702,06-23-2026,STU0068,38.0,Other,Graphic Design with Canva,Design,Ms. Fernandes,Bangalore Center,,100.0,,Dropped,Partially Paid
+ENR30994,2025-12-11,STU0242,24.0,,Python for Beginners,Programming,Mr. Sharma,pune center,3048.03,64.1,37.7,In Progress,Partially Paid
+ENR30216,08-Apr-2025,STU0131,43.0,Female,SQL for Data Analysis,Data,Mr. Das,BANGALORE CENTER,2853.7,70.3,50.4,In Progress,Paid
+ENR31070,17-Sep-2025,STU0162,18.0,Male,Python for Beginners,Programming,Mr. Sharma,Bangalore Center,3121.77,72.0,36.1,In Progress,Paid
+ENR31184,2025-01-09,STU0174,39.0,Male,JavaScript Fundamentals,Programming,Mr. Sharma,Delhi Center,4193.44,71.9,44.6,In Progress,Paid
+ENR30028,2025-12-26, STU0421 ,35.0,Female,JavaScript Fundamentals,Programming,Ms. Rao,pune center,4093.29,79.1,43.8,Completed,Pending
+ENR30863,2025-12-13,STU0029,17.0,Male,Digital Marketing Fundamentals,Marketing,Ms. Fernandes,,2431.39,100.0,81.3,Completed,PAID
+ENR31243,12-Jun-2025, STU0388 ,28.0,Female,SQL for Data Analysis,Data,Ms. Iyer,Mumbai Center,2531.36,85.8,68.9,Completed,
+ENR31044,31/12/2025,STU0442,17.0,Other,Digital Marketing Fundamentals,Marketing,Mr. Sharma,delhi center,2506.1,78.4,58.9,Completed,PARTIALLY PAID
+ENR30810,02-24-2026,STU0139,42.0,Other,Advanced Excel & Power BI,Data,Ms. Rao,,4651.42,,56.2,Completed,Pending
+ENR30902,12-09-2025,STU0349,39.0,Female,Machine Learning Basics,Data,Mr. Khan,Delhi Center ,5459.95,78.7,62.1,Completed,Pending
+ENR30924,16/08/2026,STU0313,15.0,Other,UI/UX Design Basics,Design,Ms. Iyer,Mumbai Center,4509.98,,51.6,Completed,Pending
+ENR31048,30/01/2026,STU0198,26.0,Female,Graphic Design with Canva,Design,Mr. Sharma,online,1758.14,56.6,54.6,Completed,Paid
+ENR30847,2025-01-28,STU0021,40.0,Male,Web Development Bootcamp,Programming,Ms. Rao,BANGALORE CENTER,6494.82,81.3,68.7,Completed,Pending
+ENR30933,27/03/2025,STU0289,37.0,Male,Digital Marketing Fundamentals,Marketing,Mr. Das,ONLINE,2592.66,80.4,41.9,Completed,Pending
+ENR30355,12-Mar-2025,STU0108,42.0,Female,Spoken English Mastery,Language,Ms. Fernandes,Pune Center,1969.67,,53.0,Completed,Partially Paid
+ENR31228,2026-07-03,STU0246,37.0,Other,Advanced Excel & Power BI,Data,Mr. Khan,online,4712.76,92.1,,Dropped,Partially Paid
+ENR30711,22/05/2025,STU0207,20.0,Other,Machine Learning Basics,Data,Ms. Rao,ONLINE,6057.78,82.9,,Dropped,Partially Paid
+ENR30257,30/12/2025,STU0259,38.0,Male,Data Analytics with Excel,Data,Ms. Iyer,online,3461.94,82.2,,Dropped,Partially Paid
+ENR30292,12/01/2025,STU0226,41.0,Other,Python for Beginners,Programming,Mr. Das,online,2905.71,53.1,39.5,Completed,Partially Paid
+ENR30026,10-Nov-2025,STU0412,38.0,Male,Graphic Design with Canva,Design,Mr. Sharma,mumbai center,1700.93,70.6,63.3,Completed,Partially Paid
+ENR30337,16-Jan-2026,STU0023,45.0,Female,Advanced Excel & Power BI,Data,Ms. Rao,Pune Center,4119.82,53.9,26.9,In Progress,Pending
+ENR30852,01-08-2026,STU0218,25.0,Male,Digital Marketing Fundamentals,Marketing,Ms. Iyer,BANGALORE CENTER,2484.43,66.2,43.0,Completed,Pending
+ENR30048,02-08-2026,STU0406,20.0,Male,Public Speaking Essentials,Soft Skills,Mr. Khan,Mumbai Center,1474.75,72.1,41.0,Completed,Partially Paid
+ENR30319,17/04/2025,STU0282,42.0,,SQL for Data Analysis,Data,Mr. Sharma,Delhi Center,2715.62,94.8,53.8,In Progress,Paid
+ENR30107,03-Feb-2026,STU0377,,,JavaScript Fundamentals,Programming,Mr. Sharma,pune center,3805.77,81.2,42.8,In Progress,Pending
+ENR30926,25-Jan-2025,STU0220,,Other,Data Analytics with Excel,Data,Ms. Iyer,Delhi Center ,3297.46,63.5,56.3,Completed,Partially Paid
+ENR30056,07-13-2026,STU0288,20.0,Female,SQL for Data Analysis,Data,Mr. Das,Bangalore Center,2674.99,89.8,74.8,Completed,Partially Paid
+ENR30606,07-28-2026,STU0073,29.0,Female,Web Development Bootcamp,Programming,Ms. Rao,Delhi Center ,6575.33,,,Dropped,Paid
+ENR30214,04-05-2025,STU0436,40.0,Female,Python for Beginners,Programming,Ms. Rao,Mumbai Center,3093.92,82.2,58.9,Completed,Partially Paid
+ENR30121,06-09-2025,STU0438,34.0,Male,Web Development Bootcamp,Programming,Mr. Sharma,Delhi Center ,6634.7,100.0,78.6,In Progress,Paid
+ENR30650,05-Aug-2026,STU0455,43.0,Male,Machine Learning Basics,Data,Ms. Fernandes,Mumbai Center,6092.49,79.7,70.8,Completed,Partially Paid
+ENR30951,06-26-2026,STU0278,40.0,Other,SQL for Data Analysis,Data,Mr. Sharma,ONLINE,2697.78,68.4,43.4,Completed,Partially Paid
+ENR30910,2026-05-25,STU0030,21.0,Male,Advanced Excel & Power BI,Data,Ms. Fernandes,Online,4279.26,60.3,56.6,Completed,Paid
+ENR30073,11-08-2025,STU0030,19.0,Other,Data Analytics with Excel,Data,Mr. Khan,Pune Center,3239.49,76.2,43.2,In Progress,Pending
+ENR30411,02-08-2025,STU0027,35.0,Female,Advanced Excel & Power BI,Data,Mr. Das,online,4591.2,68.0,47.1,Completed,Partially Paid
+ENR30773,2025-01-31, STU0344 ,45.0,Male,Spoken English Mastery,Language,Ms. Rao,Bangalore Center,1995.25,85.6,,Dropped,Paid
+ENR31101,08-Mar-2026,STU0429,19.0,Male,Advanced Excel & Power BI,Data,Mr. Das,online,4125.15,83.1,62.9,Completed,Paid
+ENR30586,18/01/2026,STU0327,31.0,Female,Spoken English Mastery,Language,Ms. Iyer,,1882.99,35.6,24.2,Completed,Pending
+ENR30433,08-25-2026,STU0495,15.0,Male,Web Development Bootcamp,Programming,Mr. Das,pune center,6422.84,66.7,,Dropped,Paid
+ENR30579,20-Feb-2026,STU0377,35.0,Female,Spoken English Mastery,Language,Ms. Fernandes,ONLINE,1826.65,25.2,5.8,In Progress,Partially Paid
+ENR30046,01-07-2026,STU0062,24.0,Female,Public Speaking Essentials,Soft Skills,Ms. Fernandes,mumbai center,1425.61,84.1,71.0,In Progress,Pending
+ENR30908,03-20-2026,STU0061,24.0,Other,UI/UX Design Basics,Design,Ms. Iyer,Mumbai Center,4916.95,100.0,61.3,Completed,Partially Paid
+ENR31139,16-Mar-2026,STU0262,37.0,Other,JavaScript Fundamentals,Programming,Mr. Das,delhi center,3722.75,59.4,39.0,Completed,Partially Paid
+ENR30644,2025-08-07, STU0181 ,30.0,Other,Web Development Bootcamp,Programming,Mr. Khan,Bangalore Center,6414.86,63.6,58.5,Completed,Paid
+ENR31117,2026-05-03,STU0035,20.0,Other,UI/UX Design Basics,Design,Ms. Fernandes,online,4801.11,83.8,60.7,Completed,Paid
+ENR30466,15-Dec-2025,STU0355,45.0,Female,Graphic Design with Canva,Design,Ms. Rao,online,1664.6,91.3,59.2,In Progress,Paid
+ENR30760,13-Mar-2026,STU0131,24.0,Other,JavaScript Fundamentals,Programming,Ms. Iyer,Pune Center,3611.18,73.3,36.5,Completed,Pending
+ENR31103,05-17-2026,STU0223,32.0,Male,Graphic Design with Canva,Design,Ms. Iyer,online,1744.8,73.5,,Dropped,Paid
+ENR30583,30-May-2026,STU0262,18.0,Female,Data Analytics with Excel,Data,Mr. Sharma,Bangalore Center,3424.64,68.6,49.9,Completed,Pending
+ENR30061,07-Jan-2025,STU0344,34.0,Male,Digital Marketing Fundamentals,Marketing,Ms. Fernandes,delhi center,2600.76,96.1,63.1,Completed,Partially Paid
+ENR30093,02/10/2025,STU0083,,Male,JavaScript Fundamentals,Programming,Mr. Khan,Pune Center,3748.64,57.0,42.0,Completed,Partially Paid
+ENR30772,2025-06-28,STU0211,37.0,Other,Public Speaking Essentials,Soft Skills,Mr. Sharma,mumbai center,1463.78,62.2,47.7,Completed,Pending
+ENR30195,08-26-2025,STU0458,23.0,,Machine Learning Basics,Data,Ms. Iyer,Bangalore Center,5702.82,54.6,39.3,In Progress,Partially Paid
+ENR30281,08-09-2026,STU0373,27.0,Female,Python for Beginners,Programming,Mr. Das,Bangalore Center,2824.98,81.5,51.2,Completed,Partially Paid
+ENR30360,07-May-2026,STU0494,39.0,Female,Python for Beginners,Programming,Mr. Sharma,Delhi Center ,3049.66,58.4,41.1,Completed,Partially Paid
+ENR30520,20/07/2026,STU0344,36.0,Female,Python for Beginners,Programming,Mr. Khan,BANGALORE CENTER,2901.21,61.3,37.9,Completed,Partially Paid
+ENR30610,2026-04-10,STU0410,42.0,Female,Data Analytics with Excel,Data,Ms. Rao,Delhi Center ,3516.17,69.6,44.0,Completed,Partially Paid
+ENR30821,2025-08-03,STU0273,36.0,Female,Spoken English Mastery,Language,Mr. Khan,Bangalore Center,1860.32,82.5,69.6,Completed,Partially Paid
+ENR30183,10/01/2025,STU0233,30.0,Female,Graphic Design with Canva,Design,Mr. Das,pune center,1684.94,69.8,48.7,Completed,Paid
+ENR30111,08-10-2026,STU0212,33.0,Female,UI/UX Design Basics,Design,Mr. Sharma,Delhi Center ,4922.19,,,Dropped,Partially Paid
+ENR30979,19-Aug-2025,STU0121,32.0,Female,Data Analytics with Excel,Data,Mr. Sharma,ONLINE,3537.79,61.9,,Dropped,Paid
+ENR31137,07-18-2026,STU0111,23.0,Female,SQL for Data Analysis,Data,Mr. Das,Pune Center,2776.94,74.6,55.5,Completed,Pending
+ENR30205,28-May-2025,STU0251,45.0,Other,Machine Learning Basics,Data,Mr. Das,ONLINE,5605.08,84.5,51.7,In Progress,Paid
+ENR30616,07-10-2026, STU0315 ,17.0,Male,Public Speaking Essentials,Soft Skills,Mr. Das,Pune Center,1524.74,30.9,15.5,Completed,Partially Paid
+ENR30935,2025-07-05,STU0289,26.0,Male,Advanced Excel & Power BI,Data,Ms. Rao,mumbai center,4124.06,84.1,59.9,Completed,Pending
+ENR30746,2026-05-05,STU0486,19.0,Other,UI/UX Design Basics,Design,Mr. Khan,pune center,4782.55,34.3,19.6,In Progress,Pending
+ENR30667,01-05-2025,STU0091,44.0,Female,Graphic Design with Canva,Design,Mr. Sharma,BANGALORE CENTER,1787.62,92.2,67.5,Completed,Paid
+ENR30679,08-20-2025,STU0452,36.0,Male,Spoken English Mastery,Language,Mr. Das,BANGALORE CENTER,2004.95,53.6,,Dropped,PAID
+ENR30591,24-Jan-2025,STU0071,43.0,Other,Digital Marketing Fundamentals,Marketing,Ms. Rao,online,2351.92,50.4,,Dropped,Paid
+ENR30184,02-23-2025,STU0234,36.0,Other,Python for Beginners,Programming,Mr. Khan,Mumbai Center,2907.36,77.2,47.5,In Progress,Partially Paid
+ENR30138,2026-02-22,STU0197,29.0,Male,Machine Learning Basics,Data,Ms. Fernandes,mumbai center,5697.17,93.1,73.7,In Progress,Paid
+ENR30728,01-Jul-2026,STU0467,16.0,Female,Digital Marketing Fundamentals,Marketing,Mr. Sharma,BANGALORE CENTER,2249.99,100.0,77.4,In Progress,
+ENR30081,10-02-2025,STU0277,28.0,Male,Machine Learning Basics,Data,Ms. Iyer,BANGALORE CENTER,6045.75,93.7,80.4,In Progress,Pending
+ENR30917,2025-08-15,STU0019,40.0,Other,Digital Marketing Fundamentals,Marketing,Ms. Fernandes,delhi center,2620.92,93.2,,Dropped,Partially Paid
+ENR30542,07/02/2026,STU0123,25.0,Other,Python for Beginners,Programming,Mr. Das,Online,3035.74,85.6,73.9,Completed,Pending
+ENR30555,14-May-2025,STU0004,39.0,Other,Public Speaking Essentials,Soft Skills,Mr. Khan,Mumbai Center,1387.87,67.0,35.6,In Progress,Paid
+ENR30481,06-Aug-2026, STU0302 ,27.0,,Graphic Design with Canva,Design,Mr. Sharma,pune center,1674.58,21.1,9.2,In Progress,Paid
+ENR30166,2025-08-16,STU0405,39.0,Female,Spoken English Mastery,Language,Ms. Fernandes,online,1941.91,77.2,60.2,Completed,Paid
+ENR30249,2026-03-23,STU0002,15.0,Female,Python for Beginners,Programming,Mr. Khan,delhi center,2979.17,99.8,69.1,Completed,Paid
+ENR30308,2025-07-09,STU0087,21.0,Other,Machine Learning Basics,Data,Mr. Das,Pune Center,5610.11,100.0,73.1,Completed,Partially Paid
+ENR30963,03-02-2025,STU0107,19.0,Female,Public Speaking Essentials,Soft Skills,Ms. Rao,pune center,1423.09,78.6,,Dropped,Paid
+ENR30891,11-Jun-2026,STU0083,22.0,Other,Python for Beginners,Programming,Ms. Fernandes,Delhi Center,2897.52,100.0,58.3,In Progress,
+ENR30335,2026-07-05,STU0019,44.0,Other,Spoken English Mastery,Language,Ms. Fernandes,Mumbai Center,2091.17,67.0,37.7,In Progress,Paid
+ENR30098,05-21-2026,STU0022,22.0,Male,Advanced Excel & Power BI,Data,Ms. Rao,delhi center,4518.2,88.7,,Dropped,Paid
+ENR30946,29/06/2026,STU0462,28.0,Female,Graphic Design with Canva,Design,Mr. Das,online,1812.16,94.3,55.2,Completed,Pending
+ENR30706,2025-07-02,STU0225,24.0,Female,JavaScript Fundamentals,Programming,Mr. Sharma,mumbai center,3992.75,83.1,54.8,Completed,Partially Paid
+ENR30931,01-Feb-2025,STU0069,32.0,Female,Data Analytics with Excel,Data,Ms. Rao,Pune Center,3221.16,100.0,,Dropped,Pending
+ENR30875,2026-07-26, STU0246 ,18.0,Female,UI/UX Design Basics,Design,Ms. Fernandes,Delhi Center,5041.95,100.0,,Dropped,Pending
+ENR31168,23-Jul-2025,STU0099,34.0,Male,Digital Marketing Fundamentals,Marketing,Mr. Khan,Bangalore Center,2567.28,58.3,32.1,In Progress,Pending
+ENR30655,08-Mar-2026,STU0192,17.0,Male,Python for Beginners,Programming,Mr. Das,Delhi Center,3124.62,51.9,47.6,In Progress,Paid
+ENR31166,13/08/2026,STU0500,32.0,Male,Digital Marketing Fundamentals,Marketing,Mr. Sharma,delhi center,2590.57,100.0,59.0,Completed,Partially Paid
+ENR30303,08-23-2025,STU0226,37.0,Female,Spoken English Mastery,Language,Mr. Sharma,delhi center,1823.34,65.0,44.3,In Progress,Paid
+ENR31058,18-Jun-2025,STU0321,36.0,Other,Spoken English Mastery,Language,Ms. Fernandes,delhi center,1966.8,85.5,,Dropped,Partially Paid
+ENR30389,19/07/2026,STU0016,44.0,Other,Public Speaking Essentials,Soft Skills,Ms. Iyer,Online,1473.42,81.8,,Dropped,Paid
+ENR30236,11-27-2025,STU0020,30.0,Female,Public Speaking Essentials,Soft Skills,Mr. Khan,online,1380.54,69.7,40.1,In Progress,Pending
+ENR30939,08-Dec-2025,STU0151,45.0,Other,Machine Learning Basics,Data,Mr. Sharma,Pune Center,6262.44,95.4,54.8,Completed,Paid
+ENR31064,20-Mar-2025,STU0134,18.0,,Python for Beginners,Programming,Ms. Fernandes,delhi center,,82.0,59.9,In Progress,Partially Paid
+ENR30306,25/07/2026,STU0197,32.0,Other,Graphic Design with Canva,Design,Ms. Iyer,online,1773.62,74.5,46.0,Completed,
+ENR31164,31-Mar-2025,STU0012,33.0,Other,SQL for Data Analysis,Data,Mr. Sharma,Online,2612.73,72.5,,Dropped,Paid
+ENR31047,2026-08-16,STU0291,21.0,Other,SQL for Data Analysis,Data,Mr. Khan,Bangalore Center,2808.66,,64.1,Completed,Pending
+ENR30250,01-30-2025,STU0050,32.0,Female,SQL for Data Analysis,Data,Mr. Das,Bangalore Center,2904.95,89.4,76.3,Completed,Pending
+ENR31019,09-Jan-2025,STU0496,28.0,Male,SQL for Data Analysis,Data,Ms. Rao,Bangalore Center,2852.48,66.7,56.4,Completed,
+ENR30860,2025-08-04,STU0149,15.0,Other,Machine Learning Basics,Data,Mr. Sharma,pune center,5439.23,72.1,54.7,In Progress,Partially Paid
+ENR30072,23-Jan-2026,STU0423,43.0,Female,Digital Marketing Fundamentals,Marketing,Mr. Sharma,ONLINE,2529.88,37.0,28.1,Completed,Pending
+ENR30095,2026-04-22,STU0342,19.0,Male,Digital Marketing Fundamentals,Marketing,Mr. Khan,,2475.32,79.6,41.2,In Progress,Paid
+ENR30632,2025-08-10,STU0095,34.0,Female,Public Speaking Essentials,Soft Skills,Ms. Rao,online,1530.92,71.3,37.5,In Progress,Pending
+ENR30034,2025-05-07,STU0347,35.0,Female,Digital Marketing Fundamentals,Marketing,Ms. Fernandes,Pune Center,2471.2,70.9,52.9,In Progress,Paid
+ENR30889,2026-01-18,STU0040,22.0,Other,SQL for Data Analysis,Data,Mr. Khan,pune center,2891.65,77.1,57.6,In Progress,Pending
+ENR30449,26/08/2025,STU0062,41.0,Other,UI/UX Design Basics,Design,Mr. Das,BANGALORE CENTER,4991.05,62.7,43.5,Completed,Paid
+ENR30446,2026-03-13,STU0477,24.0,Other,Machine Learning Basics,Data,Ms. Rao,online,5892.55,70.6,42.7,Completed,Paid
+ENR30954,08-Dec-2025,STU0437,45.0,Other,Graphic Design with Canva,Design,Ms. Fernandes,online,1809.61,100.0,83.1,Completed,Paid
+ENR30673,01-21-2025,STU0192,23.0,Other,Web Development Bootcamp,Programming,Mr. Das,Pune Center,6408.35,73.7,50.9,In Progress,PARTIALLY PAID
+ENR30786,18/02/2026,STU0097,40.0,Other,Web Development Bootcamp,Programming,Ms. Rao,Bangalore Center,6442.23,76.8,66.2,Completed,Pending
+ENR30078,2025-11-08,STU0238,25.0,Other,Machine Learning Basics,Data,Mr. Das,mumbai center,5543.19,76.9,53.7,Completed,Paid
+ENR30085,07-27-2026,STU0259,33.0,Female,Python for Beginners,Programming,Ms. Rao,Mumbai Center,2727.59,100.0,74.1,Completed,Partially Paid
+ENR30625,24-Jun-2025,STU0238,32.0,Male,UI/UX Design Basics,Design,Ms. Rao,online,4605.67,54.6,52.6,Completed,Paid
+ENR30083,12/08/2026,STU0043,20.0,Other,Digital Marketing Fundamentals,Marketing,Ms. Iyer,Delhi Center ,2282.63,100.0,81.6,Completed,Pending
+ENR30458,2025-06-30,STU0222,,Female,JavaScript Fundamentals,Programming,Ms. Iyer,pune center,4049.28,58.5,41.8,In Progress,Partially Paid
+ENR30740,2025-01-05,STU0001,37.0,Female,Data Analytics with Excel,Data,Ms. Fernandes,pune center,3542.63,61.3,39.5,In Progress,
+ENR31054,09-29-2025,STU0211,28.0,Male,JavaScript Fundamentals,Programming,Ms. Fernandes,mumbai center,4065.33,77.3,59.3,In Progress,Paid
+ENR30437,28/08/2026,STU0006,15.0,Other,JavaScript Fundamentals,Programming,Mr. Das,Online,3939.38,52.1,44.6,Completed,Partially Paid
+ENR30788,03-06-2026,STU0060,38.0,Male,Machine Learning Basics,Data,Mr. Das,Delhi Center,5654.2,,,Dropped,Pending
+ENR31032,22-Feb-2025,STU0080,39.0,Male,Machine Learning Basics,Data,Ms. Iyer,ONLINE,5965.98,63.5,32.8,Completed,Pending
+ENR30405,2025-10-06,STU0405,,,Data Analytics with Excel,Data,Ms. Fernandes,delhi center,3523.08,36.4,,Dropped,
+ENR31125,04/11/2025,STU0050,41.0,Male,UI/UX Design Basics,Design,Ms. Iyer,mumbai center,4933.0,60.8,52.9,In Progress,Pending
+ENR31133,14-Jan-2026,STU0462,24.0,Male,UI/UX Design Basics,Design,Ms. Rao,Delhi Center,4865.24,96.6,54.6,In Progress,Paid
+ENR30745,12-23-2025,STU0487,40.0,Other,Spoken English Mastery,Language,Mr. Das,ONLINE,1849.24,100.0,66.7,Completed,Paid
+ENR30105,04-16-2026,STU0408,17.0,Female,SQL for Data Analysis,Data,Mr. Khan,pune center,2860.1,63.3,41.3,Completed,Paid
+ENR30623,12-May-2026,STU0084,19.0,Female,Python for Beginners,Programming,Ms. Fernandes,Delhi Center,3055.79,68.2,,Dropped,Pending
+ENR30696,08-20-2025,STU0144,38.0,Female,Data Analytics with Excel,Data,Mr. Das,Bangalore Center,3442.23,68.7,49.5,Completed,Pending
+ENR30063,10-Apr-2025,STU0121,22.0,Female,Data Analytics with Excel,Data,Ms. Iyer,,3366.36,83.7,72.2,Completed,Paid
+ENR30282,10-20-2025,STU0203,22.0,Female,UI/UX Design Basics,Design,Mr. Khan,Online,4575.98,65.9,59.6,Completed,Partially Paid
+ENR30789,2025-12-13,STU0402,41.0,Other,Advanced Excel & Power BI,Data,Mr. Khan,mumbai center,4717.81,100.0,,Dropped,Paid
+ENR30239,09/06/2025,STU0205,23.0,Other,Digital Marketing Fundamentals,Marketing,Mr. Das,Pune Center,,76.7,62.0,Completed,Paid
+ENR30224,05-23-2026,STU0316,27.0,Other,Spoken English Mastery,Language,Mr. Khan,ONLINE,1920.2,85.1,50.7,In Progress,Partially Paid
+ENR30146,2025-12-20,STU0109,36.0,Female,Web Development Bootcamp,Programming,Ms. Rao,Bangalore Center,6710.62,38.0,,Dropped,Partially Paid
+ENR31203,16-Sep-2025,STU0447,34.0,Female,Public Speaking Essentials,Soft Skills,Mr. Das,BANGALORE CENTER,1450.03,88.8,68.5,In Progress,Pending
+ENR30374,04-20-2025,STU0185,19.0,Other,JavaScript Fundamentals,Programming,Mr. Khan,BANGALORE CENTER,3813.6,67.9,37.9,Completed,Paid
+ENR30119,17-Feb-2026,STU0069,24.0,Other,JavaScript Fundamentals,Programming,Ms. Fernandes,BANGALORE CENTER,3881.56,23.1,,Dropped,Partially Paid
+ENR30932,2025-02-28,STU0172,17.0,Male,Python for Beginners,Programming,Mr. Khan,pune center,2941.41,50.6,29.1,Completed,Paid
+ENR30251,16/08/2026,STU0101,21.0,Male,Public Speaking Essentials,Soft Skills,Mr. Khan,BANGALORE CENTER,1429.21,69.3,61.3,In Progress,Pending
+ENR31242,2026-05-09,STU0193,24.0,Other,JavaScript Fundamentals,Programming,Mr. Khan,pune center,3963.38,61.0,32.1,In Progress,
+ENR30010,29-Dec-2025,STU0465,34.0,,Machine Learning Basics,Data,Ms. Iyer,mumbai center,5494.09,83.4,67.7,Completed,Pending
+ENR30450,15/04/2025,STU0079,45.0,Other,Public Speaking Essentials,Soft Skills,Mr. Sharma,Delhi Center,1386.49,53.8,,Dropped,Paid
+ENR31016,06-07-2025,STU0420,26.0,Female,SQL for Data Analysis,Data,Mr. Sharma,Online,2713.44,87.2,,Dropped,Pending
+ENR30594,08-Jun-2025,STU0238,23.0,Male,Data Analytics with Excel,Data,Mr. Khan,mumbai center,3397.17,86.0,72.0,Completed,
+ENR30390,2025-03-22,STU0247,22.0,Male,Public Speaking Essentials,Soft Skills,Ms. Iyer,Pune Center,1567.1,100.0,63.7,Completed,Pending
+ENR30719,24-Jun-2026,STU0201,31.0,Male,Machine Learning Basics,Data,Ms. Rao,pune center,5518.06,100.0,78.1,Completed,Paid
+ENR31036,09-02-2025,STU0234,33.0,Female,Python for Beginners,Programming,Ms. Iyer,Bangalore Center,3134.44,88.9,66.9,Completed,Partially Paid
+ENR30558,2025-06-16,STU0232,35.0,,Advanced Excel & Power BI,Data,Ms. Rao,online,4658.06,80.5,51.1,Completed,Pending
+ENR30461,2026-06-01,STU0067,33.0,Female,SQL for Data Analysis,Data,Mr. Khan,Bangalore Center,2632.44,100.0,59.9,Completed,Paid
+ENR31187,30/06/2025,STU0162,17.0,Male,Advanced Excel & Power BI,Data,Mr. Das,Bangalore Center,4290.18,200.0,80.6,Completed,Pending
+ENR30145,01-20-2026,STU0070,38.0,Other,SQL for Data Analysis,Data,Ms. Rao,Delhi Center ,2711.31,58.6,28.9,In Progress,Paid
+ENR30502,12-Jul-2026,STU0042,16.0,Other,Python for Beginners,Programming,Ms. Rao,Bangalore Center,2731.96,94.3,,Dropped,Pending
+ENR31190,10/03/2025,STU0177,35.0,Other,UI/UX Design Basics,Design,Ms. Rao,Mumbai Center,5242.5,100.0,83.6,Completed,Partially Paid
+ENR30540,24-Jun-2025,STU0328,19.0,Male,SQL for Data Analysis,Data,Mr. Khan,Bangalore Center,2742.42,68.7,,Dropped,Pending
+ENR30178,22-Sep-2025,STU0128,39.0,Female,Spoken English Mastery,Language,Ms. Rao,,1804.55,89.8,67.3,Completed,Partially Paid
+ENR31244,20-Feb-2026,STU0452,30.0,Other,Machine Learning Basics,Data,Mr. Khan,mumbai center,6152.04,66.7,59.4,In Progress,Pending
+ENR30074,02-11-2026,STU0222,22.0,Other,UI/UX Design Basics,Design,Ms. Fernandes,Online,4805.56,84.6,53.9,In Progress,Partially Paid
+ENR30671,2026-03-31,STU0152,31.0,Male,Public Speaking Essentials,Soft Skills,Ms. Fernandes,Delhi Center ,1477.88,67.8,,Dropped,Partially Paid
+ENR31200,16-Apr-2025,STU0254,31.0,Male,Advanced Excel & Power BI,Data,Ms. Rao,pune center,4697.97,75.3,,Dropped,Partially Paid
+ENR30008,2026-05-10,STU0466,30.0,Other,Public Speaking Essentials,Soft Skills,Ms. Rao,Mumbai Center,1491.81,100.0,81.6,In Progress,Pending
+ENR31174,2026-03-03,STU0350,38.0,Male,Public Speaking Essentials,Soft Skills,Mr. Das,pune center,1430.55,100.0,66.1,Completed,Pending
+ENR30977,2025-01-01,STU0457,20.0,Other,JavaScript Fundamentals,Programming,Ms. Fernandes,,4165.02,76.1,67.3,Completed,Pending
+ENR30358,25/07/2026,STU0487,24.0,Female,Data Analytics with Excel,Data,Ms. Fernandes,mumbai center,3597.18,83.5,64.7,Completed,Partially Paid
+ENR30330,02-22-2025,STU0408,23.0,Female,Python for Beginners,Programming,Mr. Das,Bangalore Center,3046.38,97.9,79.6,Completed,Paid
+ENR30814,04-20-2026,STU0263,36.0,Other,Digital Marketing Fundamentals,Marketing,Ms. Rao,ONLINE,2380.65,71.1,44.9,In Progress,
+ENR30998,25-Jul-2026,STU0290,17.0,Other,Spoken English Mastery,Language,Mr. Sharma,mumbai center,1814.71,68.6,36.6,Completed,Paid
+ENR30259,25/03/2025,STU0166,22.0,Other,Advanced Excel & Power BI,Data,Mr. Sharma,Delhi Center ,4407.52,100.0,83.7,In Progress,Paid
+ENR31009,03-09-2025,STU0311,,Male,Digital Marketing Fundamentals,Marketing,Mr. Sharma,Delhi Center ,2277.09,,59.6,Completed,PAID
+ENR30373,08-19-2026,STU0205,28.0,Other,UI/UX Design Basics,Design,Ms. Rao,Mumbai Center,5203.57,77.3,50.1,In Progress,Pending
+ENR31085,05/10/2025,STU0174,22.0,Female,UI/UX Design Basics,Design,Mr. Khan,mumbai center,4606.47,81.9,42.4,Completed,Partially Paid
+ENR30972,2025-12-23,STU0374,16.0,Other,UI/UX Design Basics,Design,Ms. Iyer,ONLINE,4607.94,96.3,71.8,Completed,Paid
+ENR31176,28-May-2026,STU0016,44.0,Other,Spoken English Mastery,Language,Mr. Khan,online,1895.59,65.5,39.4,In Progress,Partially Paid
+ENR30526,2025-11-07,STU0401,42.0,Male,Graphic Design with Canva,Design,Ms. Rao,mumbai center,1706.54,61.8,50.2,In Progress,PARTIALLY PAID
+ENR30944,09-03-2025,STU0145,40.0,Female,Data Analytics with Excel,Data,Ms. Fernandes,online,3602.3,56.1,42.5,Completed,Partially Paid
+ENR30757,10-23-2025,STU0278,35.0,Male,Digital Marketing Fundamentals,Marketing,Ms. Iyer,delhi center,2282.84,,32.8,Completed,
+ENR30869,2025-01-07,STU0191,42.0,Male,Advanced Excel & Power BI,Data,Ms. Fernandes,online,4261.32,,25.8,In Progress,
+ENR31226,2025-10-19,STU0430,27.0,Male,Graphic Design with Canva,Design,Ms. Iyer,pune center,1839.1,98.7,76.3,Completed,Pending
+ENR30441,01-06-2026,STU0377,,Male,SQL for Data Analysis,Data,Ms. Iyer,BANGALORE CENTER,2661.71,,39.0,Completed,Paid
+ENR30532,20/01/2025,STU0372,21.0,Female,Digital Marketing Fundamentals,Marketing,Mr. Das,Pune Center,2592.32,77.4,59.9,Completed,Paid
+ENR30227,2025-06-22,STU0047,33.0,Male,Public Speaking Essentials,Soft Skills,Mr. Sharma,mumbai center,1486.01,78.3,46.9,In Progress,Pending
+ENR30229,21/04/2025,STU0325,39.0,Other,Digital Marketing Fundamentals,Marketing,Mr. Das,ONLINE,2426.42,77.1,53.6,Completed,Pending
+ENR31120,09-14-2025,STU0059,28.0,Other,Graphic Design with Canva,Design,Ms. Rao,BANGALORE CENTER,1662.29,89.3,64.6,Completed,Pending
+ENR30213,14-May-2026,STU0344,15.0,Male,SQL for Data Analysis,Data,Mr. Sharma,Delhi Center,2558.74,87.2,70.1,Completed,Paid
+ENR30080,13-Jul-2026,STU0007,26.0,Female,Python for Beginners,Programming,Mr. Sharma,pune center,2710.54,92.1,70.3,In Progress,Pending
+ENR30149,01-17-2026,STU0053,37.0,Female,Web Development Bootcamp,Programming,Ms. Rao,mumbai center,7258.26,68.0,45.6,Completed,Partially Paid
+ENR30942,03-03-2026,STU0498,22.0,Other,Web Development Bootcamp,Programming,Mr. Das,ONLINE,6986.07,93.4,62.5,In Progress,Pending
+ENR30817,14/12/2025,STU0207,25.0,Male,Public Speaking Essentials,Soft Skills,Ms. Fernandes,Delhi Center,1496.74,69.2,51.9,Completed,Pending
+ENR30678,16/08/2025,STU0008,22.0,,Digital Marketing Fundamentals,Marketing,Mr. Das,pune center,2281.15,100.0,60.0,Completed,Partially Paid
+ENR30134,2026-04-11,STU0327,34.0,Other,Graphic Design with Canva,Design,Ms. Rao,pune center,1828.05,45.7,37.5,Completed,Paid
+ENR30905,19-Sep-2025,STU0332,24.0,Other,SQL for Data Analysis,Data,Mr. Sharma,Bangalore Center,2757.53,51.8,35.3,Completed,Paid
+ENR30409,03-Jul-2026,STU0344,34.0,Male,Graphic Design with Canva,Design,Ms. Fernandes,ONLINE,1710.6,89.1,76.2,In Progress,PENDING
+ENR30990,02/02/2025,STU0043,43.0,Female,Graphic Design with Canva,Design,Ms. Rao,Mumbai Center,1834.79,87.7,50.0,Completed,Pending
+ENR30508,2026-05-12,STU0274,26.0,Male,JavaScript Fundamentals,Programming,Ms. Iyer,mumbai center,4136.33,100.0,55.3,Completed,Pending
+ENR31230,27/05/2026,STU0314,28.0,Male,Data Analytics with Excel,Data,Ms. Iyer,Bangalore Center,3237.25,72.0,55.6,Completed,Paid
+ENR30505,08-18-2025,STU0277,33.0,Female,JavaScript Fundamentals,Programming,Ms. Iyer,Pune Center,3976.42,92.2,51.1,Completed,Paid
+ENR31241,05-05-2025,STU0266,19.0,Female,Graphic Design with Canva,Design,Ms. Fernandes,Pune Center,1886.81,65.7,,Dropped,Paid
+ENR30348,01-Feb-2025,STU0485,,Male,Public Speaking Essentials,Soft Skills,Mr. Khan,pune center,1432.62,74.3,39.3,In Progress,Pending
+ENR30387,07-Apr-2025,STU0367,30.0,Male,UI/UX Design Basics,Design,Ms. Iyer,ONLINE,5203.85,72.4,53.0,Completed,Pending
+ENR30001,25/06/2026,STU0334,43.0,Other,Advanced Excel & Power BI,Data,Ms. Iyer,mumbai center,4161.97,68.6,,Dropped,Pending
+ENR30361,2026-04-20,STU0263,,Male,Digital Marketing Fundamentals,Marketing,Ms. Iyer,BANGALORE CENTER,2356.73,,56.3,Completed,Pending
+ENR31219,10/03/2026,STU0140,18.0,Female,Graphic Design with Canva,Design,Ms. Rao,BANGALORE CENTER,1686.57,80.3,44.2,Completed,Paid
+ENR30476,01-May-2025,STU0481,23.0,Female,Machine Learning Basics,Data,Ms. Fernandes,Online,5833.36,59.2,40.1,In Progress,Pending
+ENR31106,2026-03-12,STU0275,37.0,Female,Public Speaking Essentials,Soft Skills,Ms. Iyer,Online,1425.51,74.4,44.9,In Progress,Partially Paid
+ENR30899,16-Jun-2025,STU0367,35.0,Male,Public Speaking Essentials,Soft Skills,Mr. Khan,ONLINE,1353.94,72.8,,Dropped,PAID
+ENR30893,2025-03-30,STU0232,41.0,Female,UI/UX Design Basics,Design,Ms. Rao,Delhi Center,4827.3,81.8,59.5,In Progress,
+ENR31169,09-Jul-2025,STU0255,33.0,Male,SQL for Data Analysis,Data,Mr. Sharma,,2670.57,66.4,52.6,Completed,Paid
+ENR30715,26-Apr-2025,STU0038,40.0,Male,Web Development Bootcamp,Programming,Mr. Sharma,Mumbai Center,6355.66,56.0,38.8,Completed,Partially Paid
+ENR30173,04-Nov-2025,STU0164,37.0,Female,Spoken English Mastery,Language,Ms. Rao,Mumbai Center,2056.77,86.9,69.4,Completed,Paid
+ENR30451,15-Nov-2025,STU0361,33.0,Female,Python for Beginners,Programming,Mr. Das,Bangalore Center,-2731.6,61.3,28.3,Completed,Pending
+ENR30126,22-Jun-2026,STU0288,19.0,Male,Data Analytics with Excel,Data,Ms. Fernandes,mumbai center,3349.55,93.5,65.5,In Progress,Partially Paid
+ENR31180,2025-02-07,STU0100,45.0,Female,Graphic Design with Canva,Design,Ms. Iyer,BANGALORE CENTER,1657.43,67.0,33.2,Completed,Partially Paid
+ENR30531,02-18-2025,STU0342,15.0,Male,Spoken English Mastery,Language,Ms. Fernandes,online,1967.42,82.9,,Dropped,Partially Paid
+ENR30091,2025-07-07,STU0070,16.0,Female,Advanced Excel & Power BI,Data,Ms. Rao,delhi center,4472.71,62.6,,Dropped,
+ENR31247,12-15-2025,STU0059,35.0,Female,Graphic Design with Canva,Design,Ms. Fernandes,BANGALORE CENTER,1811.56,75.9,49.6,Completed,Paid
+ENR30182,03-Jul-2025,STU0075,28.0,Other,Digital Marketing Fundamentals,Marketing,Mr. Khan,BANGALORE CENTER,2390.3,72.1,59.4,Completed,Partially Paid
+ENR30851,24/07/2026,STU0044,27.0,Male,Web Development Bootcamp,Programming,Ms. Iyer,Bangalore Center,6840.45,80.4,46.6,Completed,Pending
+ENR30415,17-Apr-2026,STU0022,30.0,Other,Web Development Bootcamp,Programming,Ms. Fernandes,Delhi Center ,7211.5,83.6,48.0,Completed,Partially Paid
+ENR30252,07-10-2025,STU0093,45.0,Female,SQL for Data Analysis,Data,Mr. Khan,BANGALORE CENTER,2922.84,100.0,68.6,Completed,Paid
+ENR30070,19-May-2025,STU0476,38.0,Female,Graphic Design with Canva,Design,Mr. Khan,Online,1849.18,94.8,,Dropped,Pending
+ENR30132,2025-04-05,STU0206,23.0,Female,Advanced Excel & Power BI,Data,Mr. Das,Mumbai Center,4129.11,64.1,30.7,In Progress,Paid
+ENR30301,02/04/2025,STU0368,27.0,Female,Public Speaking Essentials,Soft Skills,Mr. Sharma,Mumbai Center,1385.01,67.0,59.8,Completed,Paid
+ENR30601,02-16-2025,STU0191,45.0,Female,Web Development Bootcamp,Programming,Mr. Das,Mumbai Center,7156.98,87.1,,Dropped,Paid
+ENR30327,27-Jun-2025,STU0017,34.0,,Public Speaking Essentials,Soft Skills,Ms. Iyer,Delhi Center,1560.98,76.9,,Dropped,Partially Paid
+ENR31105,06-Jan-2025,STU0120,36.0,Female,SQL for Data Analysis,Data,Ms. Rao,Online,2571.62,38.8,35.1,In Progress,Partially Paid
+ENR31067,06/03/2025,STU0105,20.0,Female,Web Development Bootcamp,Programming,Mr. Khan,ONLINE,6826.76,37.8,16.7,Completed,Partially Paid
+ENR30500,2025-02-09,STU0057,18.0,Male,Data Analytics with Excel,Data,Mr. Khan,pune center,3248.93,58.1,,Dropped,PARTIALLY PAID
+ENR30765,2025-03-04,STU0306,44.0,Female,Python for Beginners,Programming,Mr. Khan,delhi center,2983.77,69.2,36.9,Completed,Pending
+ENR30365,2025-12-20,STU0345,15.0,Other,Machine Learning Basics,Data,Ms. Rao,pune center,6179.53,43.0,35.9,Completed,Paid
+ENR30496,22/11/2025,STU0456,25.0,Female,Spoken English Mastery,Language,Mr. Sharma,pune center,1957.43,51.3,,Dropped,Pending
+ENR31200,16-Apr-2025,STU0254,31.0,Male,Advanced Excel & Power BI,Data,Ms. Rao,pune center,4697.97,75.3,,Dropped,Partially Paid
+ENR30339,2025-11-11,STU0189,23.0,Other,Graphic Design with Canva,Design,Ms. Iyer,BANGALORE CENTER,1832.65,100.0,62.9,In Progress,Paid
+ENR30422,2025-10-10,STU0268,27.0,Male,Machine Learning Basics,Data,Mr. Sharma,Online,6119.95,68.1,41.2,Completed,Paid
+ENR30165,08/03/2025,STU0152,17.0,Female,Data Analytics with Excel,Data,Mr. Das,Mumbai Center,3550.3,,65.3,In Progress,
+ENR30029,11-21-2025,STU0422,28.0,Other,Web Development Bootcamp,Programming,Ms. Rao,Mumbai Center,6331.8,,,Dropped,Partially Paid
+ENR30517,09/04/2025,STU0365,45.0,Male,UI/UX Design Basics,Design,Ms. Iyer,Mumbai Center,4603.99,100.0,,Dropped,Partially Paid
+ENR30194,07-Sep-2025,STU0156,32.0,Other,Machine Learning Basics,Data,Mr. Sharma,Delhi Center,5698.99,100.0,59.9,Completed,Partially Paid
+ENR30766,2025-10-11,STU0337,44.0,Male,Web Development Bootcamp,Programming,Mr. Sharma,Delhi Center,6522.89,74.7,60.4,Completed,Partially Paid
+ENR30901,08-25-2026,STU0443,21.0,Female,Spoken English Mastery,Language,Ms. Rao,BANGALORE CENTER,1802.29,82.4,67.1,Completed,Pending
+ENR30170,05-20-2025,STU0182,45.0,Female,SQL for Data Analysis,Data,Ms. Rao,Mumbai Center,2870.3,100.0,65.3,Completed,Paid
+ENR30819,2026-01-09,STU0202,42.0,Female,Machine Learning Basics,Data,Mr. Khan,ONLINE,5796.84,82.4,51.5,Completed,Pending
+ENR30653,05/06/2025,STU0005,16.0,Male,UI/UX Design Basics,Design,Mr. Khan,Online,5205.58,92.2,71.2,Completed,Partially Paid
+ENR30174,05-Mar-2025,STU0344,37.0,Other,JavaScript Fundamentals,Programming,Ms. Fernandes,Mumbai Center,4129.58,71.7,,Dropped,Paid
+ENR30519,2025-12-24,STU0248,33.0,Other,Digital Marketing Fundamentals,Marketing,Mr. Sharma,online,2466.69,64.6,54.9,In Progress,Pending
+ENR31049,08-14-2025,STU0376,31.0,Male,Spoken English Mastery,Language,Ms. Rao,BANGALORE CENTER,1839.15,85.9,,Dropped,Partially Paid
+ENR30988,26/03/2025,STU0078,18.0,Female,Spoken English Mastery,Language,Ms. Fernandes,ONLINE,1809.57,85.2,56.4,Completed,Paid
+ENR30492,2026-07-14,STU0020,26.0,Male,JavaScript Fundamentals,Programming,Ms. Iyer,delhi center,3790.39,70.4,58.5,In Progress,Partially Paid
+ENR30074,02-11-2026,STU0222,22.0,Other,UI/UX Design Basics,Design,Ms. Fernandes,Online,4805.56,84.6,53.9,In Progress,Partially Paid
+ENR31080,28-Feb-2026,STU0091,20.0,Male,UI/UX Design Basics,Design,Ms. Rao,Online,5173.8,66.4,59.3,In Progress,Pending
+ENR30588,2025-04-22,STU0059,34.0,Male,Digital Marketing Fundamentals,Marketing,Ms. Iyer,online,2249.9,80.7,,Dropped,Paid
+ENR30658,31-May-2026,STU0122,39.0,Female,Data Analytics with Excel,Data,Ms. Fernandes,Mumbai Center,3489.09,70.6,41.2,Completed,Paid
+ENR30235,16/08/2026,STU0235,33.0,Other,Digital Marketing Fundamentals,Marketing,Ms. Iyer,online,2346.13,69.9,51.8,Completed,Paid
+ENR30215,01-Apr-2026,STU0269,28.0,Female,Data Analytics with Excel,Data,Mr. Khan,online,3218.06,76.1,44.3,Completed,Pending
+ENR30163,27-Aug-2026,STU0470,31.0,Other,SQL for Data Analysis,Data,Ms. Iyer,Online,2771.77,71.8,45.3,Completed,Pending
+ENR30133,08-12-2026,STU0026,43.0,Other,Web Development Bootcamp,Programming,Ms. Fernandes,online,7217.3,64.2,,Dropped,Paid
+ENR30187,08-06-2026,STU0412,42.0,Female,UI/UX Design Basics,Design,Ms. Iyer,pune center,4609.29,90.6,,Dropped,Partially Paid
+ENR30846,11-Feb-2026,STU0092,26.0,Male,Digital Marketing Fundamentals,Marketing,Ms. Rao,mumbai center,2358.85,65.3,,Dropped,Pending
+ENR31154,02/08/2025,STU0302,,Other,UI/UX Design Basics,Design,Mr. Khan,Pune Center,4694.49,56.0,47.3,In Progress,Partially Paid
+ENR30186,2026-04-24,STU0439,19.0,Other,Machine Learning Basics,Data,Mr. Sharma,mumbai center,,52.1,46.9,Completed,Pending
+ENR30042,2025-04-10,STU0419,45.0,Other,JavaScript Fundamentals,Programming,Ms. Iyer,Pune Center,-3819.34,100.0,66.8,Completed,Partially Paid
+ENR30693,26/08/2025,STU0155,24.0,Male,JavaScript Fundamentals,Programming,Mr. Sharma,online,4041.72,100.0,55.2,Completed,
+ENR30109,23-Apr-2026,STU0193,41.0,Male,JavaScript Fundamentals,Programming,Ms. Rao,pune center,4052.07,59.6,56.4,Completed,Partially Paid
+ENR30985,04-14-2025,STU0118,15.0,Female,Data Analytics with Excel,Data,Ms. Fernandes,delhi center,3467.88,90.6,74.1,Completed,Paid
+ENR30569,09-May-2026,STU0247,23.0,Other,Data Analytics with Excel,Data,Mr. Khan,Online,3271.39,80.8,54.3,In Progress,Pending
+ENR30747,04/07/2026,STU0263,16.0,Other,Data Analytics with Excel,Data,Mr. Sharma,Bangalore Center,3176.31,89.4,63.4,Completed,Partially Paid
+ENR31093,2026-08-02,STU0327,19.0,Female,Advanced Excel & Power BI,Data,Mr. Das,ONLINE,4140.39,67.7,48.8,In Progress,Pending
+ENR31240,30/11/2025,STU0024,38.0,Other,Python for Beginners,Programming,Mr. Das,Delhi Center ,3130.7,92.6,79.6,Completed,Paid
+ENR30484,01-11-2026,STU0283,,Male,Machine Learning Basics,Data,Mr. Sharma,Pune Center,5937.95,76.5,46.0,Completed,Pending
+ENR30469,08-Feb-2026,STU0492,38.0,Male,Data Analytics with Excel,Data,Ms. Rao,delhi center,3496.23,70.7,,Dropped,Pending
+ENR30025,15/04/2026,STU0279,28.0,Female,Web Development Bootcamp,Programming,Mr. Khan,Delhi Center ,6831.02,62.2,29.0,Completed,Paid
+ENR30835,12-12-2025,STU0450,37.0,Female,Graphic Design with Canva,Design,Ms. Rao,BANGALORE CENTER,1728.69,54.9,,Dropped,Pending
+ENR30782,2025-01-11,STU0031,22.0,Female,Spoken English Mastery,Language,Ms. Iyer,mumbai center,2003.34,77.0,49.5,Completed,Partially Paid
+ENR30870,07-15-2025,STU0067,36.0,Other,Graphic Design with Canva,Design,Mr. Das,Bangalore Center,1626.78,41.8,17.3,Completed,Paid
+ENR31091,08/07/2025,STU0205,31.0,Male,Machine Learning Basics,Data,Mr. Das,Mumbai Center,6210.41,100.0,61.1,Completed,Paid
+ENR30367,2026-08-03,STU0414,15.0,Other,JavaScript Fundamentals,Programming,Ms. Iyer,ONLINE,3647.08,70.4,60.4,Completed,Partially Paid
+ENR30974,2025-05-25,STU0495,35.0,Male,Python for Beginners,Programming,Ms. Fernandes,pune center,2934.81,95.0,60.1,In Progress,Pending
+ENR31134,08-22-2026,STU0078,31.0,Female,Graphic Design with Canva,Design,Mr. Sharma,Online,1836.22,80.1,41.8,Completed,Partially Paid
+ENR30384,2026-04-24,STU0361,29.0,Other,Advanced Excel & Power BI,Data,Mr. Khan,Pune Center,4402.91,94.7,57.3,Completed,Paid
+ENR31010,30-Oct-2025,STU0284,19.0,Female,JavaScript Fundamentals,Programming,Ms. Iyer,Delhi Center ,4127.04,,,Dropped,Paid
+ENR30718,29/07/2026,STU0318,29.0,Other,Web Development Bootcamp,Programming,Ms. Iyer,Delhi Center,6611.15,82.2,56.9,In Progress,Partially Paid
+ENR30455,25-Feb-2025,STU0185,35.0,Male,SQL for Data Analysis,Data,Mr. Khan,Pune Center,2608.01,80.5,57.5,Completed,Paid
+ENR30265,11-20-2025,STU0069,23.0,Female,Spoken English Mastery,Language,Mr. Das,ONLINE,1802.69,80.1,,Dropped,Pending
+ENR31066,08/07/2026,STU0319,34.0,Other,Web Development Bootcamp,Programming,Ms. Iyer,Online,6745.33,54.7,35.6,Completed,Pending
+ENR30233,29-Mar-2025,STU0333,44.0,Other,SQL for Data Analysis,Data,Ms. Rao,BANGALORE CENTER,2889.59,62.9,31.2,Completed,Paid
+ENR30445,06-26-2025,STU0237,34.0,Other,SQL for Data Analysis,Data,Ms. Iyer,Delhi Center ,2593.11,76.7,60.9,Completed,Paid
+ENR30396,02-13-2026,STU0428,29.0,Other,Machine Learning Basics,Data,Ms. Rao,Delhi Center,5980.87,94.8,52.9,Completed,Partially Paid
+ENR30859,24-Apr-2026,STU0135,35.0,Other,Digital Marketing Fundamentals,Marketing,Ms. Iyer,Pune Center,2565.22,57.5,31.3,Completed,Paid
+ENR30177,06-07-2026,STU0312,15.0,Female,Graphic Design with Canva,Design,Ms. Iyer,Delhi Center ,1678.9,76.0,63.8,Completed,Pending
+ENR30019,01-28-2026,STU0421,21.0,,SQL for Data Analysis,Data,Mr. Khan,,2929.86,55.0,34.9,Completed,Paid
+ENR30072,23-Jan-2026,STU0423,43.0,Female,Digital Marketing Fundamentals,Marketing,Mr. Sharma,ONLINE,2529.88,37.0,28.1,Completed,Pending
+ENR30815,2026-03-09,STU0397,36.0,Other,SQL for Data Analysis,Data,Mr. Sharma,Delhi Center,2587.16,91.7,72.6,Completed,Paid
+ENR30945,05-09-2026,STU0354,16.0,Female,Web Development Bootcamp,Programming,Mr. Das,ONLINE,6476.01,51.1,22.0,Completed,PARTIALLY PAID
+ENR31141,2026-04-02,STU0044,38.0,Other,JavaScript Fundamentals,Programming,Mr. Das,mumbai center,4083.52,96.6,71.9,Completed,Pending
+ENR30596,2026-03-04,STU0486,,Female,UI/UX Design Basics,Design,Mr. Khan,Pune Center,4990.81,82.3,,Dropped,Paid
+ENR30062,02-19-2026,STU0304,32.0,Male,Spoken English Mastery,Language,Ms. Iyer,Delhi Center ,2078.12,62.7,36.7,Completed,Partially Paid
+ENR30273,2026-07-17,STU0485,21.0,Female,SQL for Data Analysis,Data,Ms. Rao,mumbai center,2604.39,67.8,,Dropped,Partially Paid
+ENR31211,09/03/2025,STU0470,,Female,SQL for Data Analysis,Data,Ms. Iyer,Bangalore Center,2547.25,42.8,27.7,Completed,Partially Paid
+ENR30279,03-Oct-2025,STU0120,33.0,Other,SQL for Data Analysis,Data,Ms. Iyer,pune center,2556.83,76.8,68.3,Completed,Pending
+ENR30654,01/08/2026,STU0031,20.0,Other,JavaScript Fundamentals,Programming,Mr. Das,delhi center,4024.3,91.6,51.0,Completed,Pending
+ENR30695,07/10/2025,STU0112,40.0,Female,Advanced Excel & Power BI,Data,Mr. Sharma,delhi center,4122.96,63.0,40.5,Completed,Paid
+ENR30369,31/01/2026,STU0319,25.0,Female,JavaScript Fundamentals,Programming,Mr. Sharma,pune center,3881.32,40.7,,Dropped,Pending
+ENR30037,30-Aug-2026,STU0010,38.0,Other,Data Analytics with Excel,Data,Mr. Das,Delhi Center ,3489.39,59.5,50.7,Completed,Partially Paid
+ENR30736,31-Jan-2025,STU0067,33.0,Male,UI/UX Design Basics,Design,Mr. Das,delhi center,4854.17,71.6,52.2,In Progress,PARTIALLY PAID
+ENR30950,09/03/2026,STU0452,15.0,,Advanced Excel & Power BI,Data,Mr. Das,ONLINE,4352.49,62.9,30.7,Completed,Paid
+ENR30999,2025-10-12,STU0164,44.0,Male,Advanced Excel & Power BI,Data,Mr. Sharma,BANGALORE CENTER,4239.57,46.4,38.9,Completed,Partially Paid
+ENR30904,22-Dec-2025,STU0119,26.0,Female,Machine Learning Basics,Data,Mr. Khan,,6105.61,79.8,52.4,Completed,Partially Paid
+ENR30894,2025-07-10,STU0222,36.0,Other,Advanced Excel & Power BI,Data,Mr. Khan,ONLINE,4166.01,79.5,42.6,Completed,Partially Paid
+ENR30548,2026-04-04,STU0239,33.0,Other,Python for Beginners,Programming,Ms. Iyer,pune center,2933.5,46.4,24.9,In Progress,Paid
+ENR31031,05-29-2025,STU0262,22.0,Male,Public Speaking Essentials,Soft Skills,Ms. Rao,mumbai center,1551.59,56.8,37.8,In Progress,Paid
+ENR30689,21-Jun-2025,STU0293,29.0,Other,Digital Marketing Fundamentals,Marketing,Ms. Fernandes,Pune Center,2573.51,83.8,72.2,In Progress,Pending
+ENR30739,02-05-2025,STU0220,22.0,Other,Advanced Excel & Power BI,Data,Ms. Fernandes,Mumbai Center,-4438.63,99.4,81.1,Completed,Partially Paid
+ENR30192,2026-05-03,STU0402,27.0,Female,JavaScript Fundamentals,Programming,Ms. Fernandes,Mumbai Center,3868.71,95.4,78.4,In Progress,Partially Paid
+ENR30457,30/10/2025,STU0045,28.0,Other,Advanced Excel & Power BI,Data,Ms. Rao,Delhi Center,4621.33,79.3,61.4,Completed,Partially Paid
+ENR30394,19/06/2026,STU0281,24.0,Other,Spoken English Mastery,Language,Mr. Das,Bangalore Center,2043.33,85.0,54.1,In Progress,Paid
+ENR30676,15-Feb-2025,STU0422,42.0,Female,Graphic Design with Canva,Design,Ms. Iyer,mumbai center,1698.27,78.9,57.0,Completed,Pending
+ENR30761,2025-01-17,STU0412,39.0,Male,Spoken English Mastery,Language,Mr. Das,BANGALORE CENTER,1907.23,79.6,52.0,Completed,Paid
+ENR30961,2025-07-11,STU0039,34.0,Female,Machine Learning Basics,Data,Ms. Fernandes,online,5676.14,78.1,40.3,Completed,Paid
+ENR30729,06-20-2025,STU0353,41.0,Female,Graphic Design with Canva,Design,Mr. Das,,1773.15,90.9,78.4,In Progress,Paid
+ENR30420,12/03/2025,STU0469,30.0,Female,Machine Learning Basics,Data,Mr. Das,mumbai center,5914.54,175.4,41.3,In Progress,Partially Paid
+ENR30376,02-19-2025,STU0257,40.0,Other,Advanced Excel & Power BI,Data,Ms. Rao,online,4674.35,69.1,,Dropped,Pending
+ENR30413,2025-01-24,STU0176,40.0,Other,JavaScript Fundamentals,Programming,Ms. Iyer,Bangalore Center,4009.34,100.0,77.0,Completed,Pending
+ENR30075,02-17-2026,STU0465,35.0,Other,Advanced Excel & Power BI,Data,Ms. Fernandes,Pune Center,4701.86,82.6,57.7,Completed,Partially Paid
+ENR31207,2025-07-02,STU0442,18.0,Other,SQL for Data Analysis,Data,Ms. Rao,delhi center,2905.03,89.0,69.8,Completed,Pending
+ENR31003,18-Oct-2025,STU0337,34.0,Other,Data Analytics with Excel,Data,Ms. Fernandes,BANGALORE CENTER,3400.1,77.3,53.5,Completed,Pending
+ENR30501,04-27-2025,STU0091,33.0,Female,JavaScript Fundamentals,Programming,Ms. Fernandes,BANGALORE CENTER,3767.82,72.0,45.2,Completed,
+ENR30928,01-26-2025,STU0306,21.0,Male,SQL for Data Analysis,Data,Ms. Fernandes,BANGALORE CENTER,2624.72,51.4,30.0,Completed,Paid
+ENR30617,2026-03-08,STU0083,25.0,Other,Web Development Bootcamp,Programming,Ms. Rao,BANGALORE CENTER,6638.51,94.0,58.6,Completed,Paid
+ENR30115,22-Jan-2025, STU0182 ,37.0,Male,SQL for Data Analysis,Data,Ms. Rao,Mumbai Center,2605.69,83.1,62.7,Completed,Pending
+ENR30418,03/02/2025,STU0082,33.0,Female,Python for Beginners,Programming,Ms. Iyer,online,3056.59,,40.4,Completed,Pending
+ENR30602,11-Aug-2026,STU0154,24.0,Other,UI/UX Design Basics,Design,Ms. Fernandes,Online,5019.05,74.3,39.0,In Progress,Paid
+ENR30605,28/10/2025,STU0327,26.0,Female,Public Speaking Essentials,Soft Skills,Mr. Sharma,Delhi Center ,1550.2,90.0,67.0,Completed,Paid
+ENR30967,04/08/2025,STU0227,23.0,Female,Data Analytics with Excel,Data,Mr. Sharma,Delhi Center ,3470.54,89.7,74.3,Completed,Partially Paid
+ENR30090,11-30-2025,STU0116,41.0,Female,Digital Marketing Fundamentals,Marketing,Ms. Rao,Delhi Center ,2605.63,93.8,63.7,Completed,Paid
+ENR31237,11-21-2025,STU0164,41.0,Other,Graphic Design with Canva,Design,Ms. Rao,BANGALORE CENTER,1747.67,,46.1,Completed,Paid
+ENR31234,31/01/2025,STU0183,36.0,Male,JavaScript Fundamentals,Programming,Ms. Rao,online,3722.51,40.6,36.2,Completed,Pending
+ENR30754,13/01/2026,STU0424,22.0,Other,Digital Marketing Fundamentals,Marketing,Mr. Khan,online,2480.09,60.1,30.0,Completed,Pending
+ENR30499,05-05-2026,STU0499,32.0,Female,SQL for Data Analysis,Data,Ms. Iyer,Pune Center,2687.62,66.6,54.8,Completed,Partially Paid
+ENR31160,2025-05-01,STU0423,32.0,Male,Digital Marketing Fundamentals,Marketing,Ms. Fernandes,Pune Center,2266.34,51.1,23.8,Completed,Partially Paid
+ENR31028,12-05-2025,STU0015,26.0,Male,Data Analytics with Excel,Data,Ms. Fernandes,Mumbai Center,3227.39,81.8,59.4,Completed,Paid
+ENR31231,27/10/2025,STU0096,29.0,Other,JavaScript Fundamentals,Programming,Mr. Das,Delhi Center,3921.37,32.4,20.9,In Progress,Pending
+ENR30012,2025-03-08,STU0487,,Male,Data Analytics with Excel,Data,Ms. Iyer,Delhi Center,3449.83,62.2,58.4,In Progress,
+ENR30397,28-Jan-2026,STU0288,32.0,Other,Python for Beginners,Programming,Ms. Fernandes,mumbai center,2808.16,195.4,62.1,Completed,Paid
+ENR31006,08-09-2025,STU0236,45.0,Female,Web Development Bootcamp,Programming,Mr. Das,Online,6456.55,,52.6,Completed,Pending
+ENR30556,08-Aug-2025,STU0417,38.0,Female,Digital Marketing Fundamentals,Marketing,Ms. Fernandes,delhi center,2339.68,76.1,41.6,Completed,Pending
+ENR30043,25/01/2026,STU0059,31.0,Female,Spoken English Mastery,Language,Mr. Khan,Delhi Center ,,72.0,56.5,Completed,Partially Paid
+ENR30168,05-29-2026,STU0252,42.0,Female,SQL for Data Analysis,Data,Ms. Rao,Delhi Center,2739.8,89.2,71.0,Completed,Pending
+ENR30417,20/01/2025, STU0328 ,17.0,Other,Data Analytics with Excel,Data,Ms. Fernandes,Mumbai Center,3562.79,87.1,55.4,Completed,Paid
+ENR30577,15-Oct-2025,STU0135,34.0,Female,Machine Learning Basics,Data,Mr. Sharma,,6197.95,71.8,63.4,Completed,Pending
+ENR30268,22/08/2025,STU0016,41.0,Other,Digital Marketing Fundamentals,Marketing,Ms. Fernandes,Pune Center,2256.15,68.5,54.1,Completed,Pending
+ENR30937,09-21-2025,STU0191,33.0,Other,UI/UX Design Basics,Design,Mr. Das,Delhi Center,5032.24,83.4,49.5,Completed,
+ENR30427,31/07/2025,STU0110,42.0,Female,Machine Learning Basics,Data,Ms. Rao,BANGALORE CENTER,5699.0,76.4,57.6,Completed,Pending
+ENR30691,2026-08-08,STU0319,37.0,Other,Graphic Design with Canva,Design,Ms. Iyer,pune center,1809.57,39.7,22.7,In Progress,Pending
+ENR30545,09-23-2025,STU0439,25.0,Other,JavaScript Fundamentals,Programming,Ms. Rao,mumbai center,3947.13,49.3,41.3,Completed,Pending
+ENR31208,15-Jun-2026,STU0372,24.0,Female,Digital Marketing Fundamentals,Marketing,Mr. Sharma,pune center,2472.96,78.2,,Dropped,Pending
+ENR30675,01-02-2025,STU0398,39.0,Female,Advanced Excel & Power BI,Data,Mr. Khan,Delhi Center ,4072.76,100.0,57.2,Completed,Paid
+ENR30690,03-20-2025,STU0200,25.0,Male,UI/UX Design Basics,Design,Mr. Khan,Delhi Center ,4738.75,44.5,31.4,Completed,Paid
+ENR31136,04-05-2025,STU0405,42.0,Other,Graphic Design with Canva,Design,Mr. Sharma,Delhi Center ,1886.6,97.1,55.6,Completed,Partially Paid
+ENR30034,2025-05-07,STU0347,35.0,Female,Digital Marketing Fundamentals,Marketing,Ms. Fernandes,Pune Center,2471.2,70.9,52.9,In Progress,Paid
+ENR30160,30-Jun-2025,STU0423,40.0,Female,Advanced Excel & Power BI,Data,Ms. Fernandes,online,4655.52,98.8,,Dropped,
+ENR31173,02-24-2026,STU0335,31.0,Female,Public Speaking Essentials,Soft Skills,Ms. Iyer,online,1491.16,78.8,57.9,In Progress,Paid
+ENR30258,04-30-2026,STU0184,20.0,Other,Web Development Bootcamp,Programming,Mr. Sharma,Delhi Center ,7097.74,79.2,58.5,Completed,Pending
+ENR31112,15-Jan-2026,STU0044,34.0,Female,Public Speaking Essentials,Soft Skills,Ms. Fernandes,mumbai center,1460.03,64.1,46.8,Completed,Partially Paid
+ENR30336,02-16-2026,STU0043,23.0,Other,SQL for Data Analysis,Data,Ms. Fernandes,mumbai center,2714.3,93.3,68.5,In Progress,Partially Paid
+ENR31004,05-Aug-2026,STU0495,20.0,Other,Advanced Excel & Power BI,Data,Mr. Das,online,4403.01,38.3,29.0,Completed,Paid
+ENR30016,13/04/2025,STU0430,19.0,Female,Digital Marketing Fundamentals,Marketing,Mr. Sharma,Pune Center,2324.9,30.9,10.5,Completed,Partially Paid
+ENR30516,18/08/2025,STU0292,43.0,Other,Data Analytics with Excel,Data,Ms. Rao,Mumbai Center,3605.77,65.2,60.6,In Progress,Pending
+ENR30325,11-Jan-2026,STU0103,28.0,Female,Web Development Bootcamp,Programming,Ms. Rao,mumbai center,7143.53,64.5,46.4,Completed,PARTIALLY PAID
+ENR30769,10-Feb-2026,STU0145,42.0,Female,Graphic Design with Canva,Design,Ms. Iyer,Pune Center,1759.71,75.1,45.4,Completed,Pending
+ENR30608,08/09/2025,STU0132,23.0,Other,Web Development Bootcamp,Programming,Mr. Sharma,delhi center,6900.96,54.5,41.4,Completed,Paid
+ENR31135,03-11-2025,STU0017,30.0,Other,SQL for Data Analysis,Data,Ms. Fernandes,BANGALORE CENTER,2900.64,84.1,49.4,Completed,Partially Paid
+ENR30915,05-Jul-2025,STU0482,36.0,Female,Digital Marketing Fundamentals,Marketing,Ms. Iyer,mumbai center,2412.56,81.1,60.6,Completed,Partially Paid
+ENR30853,03-03-2026,STU0225,33.0,Female,Digital Marketing Fundamentals,Marketing,Ms. Fernandes,Delhi Center ,2328.15,91.4,60.3,Completed,Pending
+ENR30223,10-16-2025,STU0207,36.0,Male,Data Analytics with Excel,Data,Mr. Das,pune center,,74.5,40.3,Completed,
+ENR30180,27-Aug-2026,STU0499,36.0,Other,UI/UX Design Basics,Design,Mr. Sharma,ONLINE,4840.93,99.4,61.8,Completed,Pending
+ENR30895,15-Apr-2026,STU0454,27.0,Female,Public Speaking Essentials,Soft Skills,Ms. Rao,Delhi Center,1554.63,75.2,44.9,In Progress,Paid
+ENR30100,10/04/2026,STU0360,24.0,Female,Graphic Design with Canva,Design,Mr. Das,pune center,,93.3,65.7,Completed,Pending
+ENR30837,21-Aug-2026,STU0267,22.0,Male,Data Analytics with Excel,Data,Ms. Fernandes,Delhi Center ,3509.74,75.8,,Dropped,Partially Paid
+ENR30758,25-May-2025,STU0478,44.0,,Data Analytics with Excel,Data,Mr. Sharma,BANGALORE CENTER,3191.98,62.4,,Dropped,Paid
+ENR30522,01-19-2025,STU0320,29.0,Other,Spoken English Mastery,Language,Mr. Das,delhi center,1962.05,,69.7,Completed,
+ENR30762,2026-01-17,STU0151,19.0,Male,Python for Beginners,Programming,Mr. Sharma,pune center,3123.18,100.0,63.0,Completed,Partially Paid
+ENR30023,01/03/2026,STU0409,19.0,Other,Machine Learning Basics,Data,Ms. Iyer,Delhi Center,6149.95,34.1,,Dropped,
+ENR30357,2025-03-22,STU0172,16.0,Female,Spoken English Mastery,Language,Mr. Sharma,Mumbai Center,1970.73,61.5,,Dropped,Partially Paid
+ENR30734,06/07/2026,STU0217,38.0,Male,Machine Learning Basics,Data,Mr. Das,Mumbai Center,5952.46,86.1,61.4,In Progress,Paid
+ENR31071,2025-05-01,STU0205,29.0,Female,JavaScript Fundamentals,Programming,Mr. Das,delhi center,3936.66,88.0,55.3,Completed,Paid
+ENR31194,26/08/2026,STU0151,40.0,Female,SQL for Data Analysis,Data,Ms. Rao,Pune Center,2923.94,47.4,23.8,Completed,Paid
+ENR30612,06-08-2025,STU0229,30.0,Male,Web Development Bootcamp,Programming,Mr. Sharma,Bangalore Center,7178.47,79.8,62.2,Completed,Pending
+ENR31098,2026-06-10,STU0206,36.0,Other,Digital Marketing Fundamentals,Marketing,Mr. Sharma,ONLINE,2527.54,42.3,,Dropped,PARTIALLY PAID
+ENR30341,29/10/2025,STU0056,23.0,Other,JavaScript Fundamentals,Programming,Ms. Rao,Mumbai Center,3800.83,,73.0,Completed,Pending
+ENR30432,2025-12-26,STU0436,19.0,Female,JavaScript Fundamentals,Programming,Mr. Khan,mumbai center,3901.8,30.6,,Dropped,Partially Paid
+ENR30906,10-Apr-2025, STU0184 ,34.0,Other,SQL for Data Analysis,Data,Mr. Sharma,,2583.37,72.7,61.6,In Progress,Pending
+ENR30218,2025-02-23,STU0435,41.0,Male,Advanced Excel & Power BI,Data,Mr. Das,pune center,4678.03,76.1,56.8,Completed,
+ENR30204,23/03/2026,STU0450,38.0,Male,Web Development Bootcamp,Programming,Mr. Khan,Bangalore Center,,84.7,64.9,In Progress,Pending
+ENR31040,20-Aug-2025,STU0311,30.0,Male,Advanced Excel & Power BI,Data,Mr. Das,Pune Center,4618.85,58.2,,Dropped,Paid
+ENR31051,23/10/2025, STU0248 ,27.0,Female,Digital Marketing Fundamentals,Marketing,Mr. Das,online,2385.19,77.4,40.3,Completed,Pending
+ENR30094,21-Apr-2025,STU0297,25.0,Male,Machine Learning Basics,Data,Mr. Sharma,online,5854.88,65.4,48.4,Completed,Pending
+ENR30925,07-29-2025,STU0075,45.0,Male,Advanced Excel & Power BI,Data,Mr. Sharma,Delhi Center ,4617.86,79.8,68.6,In Progress,Paid
+ENR30069,2025-07-16,STU0205,22.0,Other,Python for Beginners,Programming,Mr. Sharma,Pune Center,2917.6,52.6,34.9,Completed,Paid
+ENR31103,05-17-2026, STU0223 ,32.0,Male,Graphic Design with Canva,Design,Ms. Iyer,online,1744.8,73.5,,Dropped,Paid
+ENR30285,2026-08-12,STU0304,36.0,Other,Web Development Bootcamp,Programming,Mr. Sharma,Delhi Center,7078.37,,69.5,In Progress,Pending
+ENR30697,02-Jan-2026,STU0473,19.0,Female,Web Development Bootcamp,Programming,Ms. Rao,delhi center,6421.24,72.8,42.4,In Progress,Pending
+ENR30086,2026-06-07,STU0496,30.0,,Advanced Excel & Power BI,Data,Mr. Das,pune center,4438.23,53.2,30.2,Completed,Paid
+ENR30435,21-Jun-2026,STU0179,31.0,Male,JavaScript Fundamentals,Programming,Mr. Das,mumbai center,3943.75,68.2,48.5,In Progress,Partially Paid
+ENR30978,2025-10-30,STU0200,24.0,Male,Digital Marketing Fundamentals,Marketing,Ms. Iyer,online,2479.33,100.0,,Dropped,Paid
+ENR30154,01/02/2026,STU0254,25.0,Male,SQL for Data Analysis,Data,Ms. Rao,Bangalore Center,2638.1,36.3,16.4,Completed,Paid
+ENR30076,18-Jun-2026,STU0003,40.0,Female,Graphic Design with Canva,Design,Ms. Iyer,pune center,1875.41,44.8,34.8,In Progress,Pending
+ENR31122,30-Apr-2026,STU0339,29.0,Male,Public Speaking Essentials,Soft Skills,Mr. Das,mumbai center,1397.21,61.8,55.5,Completed,Partially Paid
+ENR30532,20/01/2025,STU0372,21.0,Female,Digital Marketing Fundamentals,Marketing,Mr. Das,Pune Center,2592.32,77.4,59.9,Completed,Paid
+ENR30790,2025-10-25,STU0349,44.0,Female,Data Analytics with Excel,Data,Ms. Rao,Pune Center,3654.06,66.6,,Dropped,Partially Paid
+ENR30581,07/01/2025,STU0226,44.0,Other,Data Analytics with Excel,Data,Ms. Fernandes,Mumbai Center,3264.18,90.3,58.1,Completed,Paid
+ENR30447,17-Jun-2025,STU0047,24.0,Female,Machine Learning Basics,Data,Mr. Sharma,Mumbai Center,6089.86,85.6,50.5,Completed,Pending
+ENR30704,09/06/2026,STU0122,45.0,Male,Public Speaking Essentials,Soft Skills,Mr. Khan,BANGALORE CENTER,1565.59,100.0,80.0,In Progress,Paid
+ENR30189,02/02/2026,STU0182,17.0,Female,Graphic Design with Canva,Design,Mr. Das,BANGALORE CENTER,1712.95,,57.0,In Progress,Pending
+ENR30272,2025-06-11,STU0019,41.0,Female,JavaScript Fundamentals,Programming,Ms. Rao,Delhi Center ,4167.9,61.9,,Dropped,Pending
+ENR30885,03-Sep-2025,STU0062,19.0,Other,Machine Learning Basics,Data,Mr. Das,Mumbai Center,5644.61,55.9,40.8,In Progress,Paid
+ENR30237,28/08/2025,STU0399,21.0,Other,UI/UX Design Basics,Design,Mr. Das,Bangalore Center,4792.59,75.4,,Dropped,Pending
+ENR30488,2026-04-16,STU0277,34.0,Female,Advanced Excel & Power BI,Data,Mr. Sharma,pune center,4176.02,34.6,13.2,Completed,Paid
+ENR31245,02/06/2026,STU0160,24.0,Female,Digital Marketing Fundamentals,Marketing,Ms. Rao,Online,2356.41,37.2,,Dropped,Pending
+ENR30560,16/11/2025,STU0392,,Other,Advanced Excel & Power BI,Data,Mr. Das,ONLINE,4140.07,57.5,25.3,Completed,Paid
+ENR30118,13/02/2026,STU0181,30.0,Male,UI/UX Design Basics,Design,Ms. Fernandes,pune center,4570.78,84.0,53.8,In Progress,Partially Paid
+ENR30638,08-15-2025,STU0489,37.0,Other,SQL for Data Analysis,Data,Mr. Das,mumbai center,2891.62,60.4,51.8,Completed,Partially Paid
+ENR31159,2026-08-02,STU0418,42.0,Male,Web Development Bootcamp,Programming,Mr. Sharma,Mumbai Center,6748.54,57.1,49.7,In Progress,Partially Paid
+ENR30802,24-May-2025,STU0249,35.0,Female,Graphic Design with Canva,Design,Ms. Rao,pune center,1632.55,77.0,54.3,Completed,Partially Paid
+ENR30751,03-02-2026,STU0108,29.0,Female,UI/UX Design Basics,Design,Mr. Das,pune center,4704.14,87.3,,Dropped,Partially Paid
+ENR30513,21/12/2025,STU0282,45.0,Other,Python for Beginners,Programming,Ms. Iyer,Bangalore Center,3005.92,90.9,77.3,Completed,Paid
+ENR30634,01-06-2025,STU0500,32.0,Other,Digital Marketing Fundamentals,Marketing,Mr. Khan,ONLINE,2451.04,99.1,77.3,Completed,Paid
+ENR30909,07-11-2025,STU0033,36.0,Male,Python for Beginners,Programming,Ms. Iyer,Bangalore Center,2777.17,68.1,59.1,Completed,Pending
+ENR31095,08-25-2025,STU0076,39.0,Female,Machine Learning Basics,Data,Ms. Rao,Delhi Center,5434.08,,63.9,In Progress,Paid
+ENR30989,2025-09-27,STU0087,32.0,Female,Graphic Design with Canva,Design,Ms. Fernandes,Mumbai Center,1843.12,71.5,56.0,Completed,Partially Paid
+ENR30127,11-Feb-2026,STU0086,45.0,Other,Digital Marketing Fundamentals,Marketing,Mr. Das,Bangalore Center,2570.04,81.3,66.7,Completed,Pending
+ENR30791,07-18-2026,STU0379,29.0,Female,Machine Learning Basics,Data,Ms. Fernandes,Bangalore Center,6232.7,54.6,24.6,Completed,
+ENR30830,07-Aug-2025,STU0444,38.0,Other,Data Analytics with Excel,Data,Ms. Fernandes,,3563.87,63.0,56.5,In Progress,Pending
+ENR30117,12/03/2026,STU0232,26.0,Female,SQL for Data Analysis,Data,Mr. Sharma,Pune Center,2721.78,41.9,32.1,Completed,
+ENR30474,2026-07-09,STU0452,42.0,Other,Public Speaking Essentials,Soft Skills,Ms. Fernandes,Bangalore Center,1445.04,92.1,,Dropped,Pending
+ENR30741,01/12/2025,STU0136,27.0,Male,Machine Learning Basics,Data,Mr. Das,ONLINE,5899.38,63.0,52.7,Completed,Paid
+ENR31090,10-Jan-2026,STU0318,19.0,Female,Web Development Bootcamp,Programming,Mr. Sharma,Bangalore Center,6316.55,,45.2,Completed,Paid
+ENR30058,12-Dec-2025,STU0097,37.0,Female,Spoken English Mastery,Language,Mr. Sharma,Mumbai Center,2079.9,84.8,47.1,Completed,Partially Paid
+ENR30604,01-27-2026,STU0071,33.0,Female,Machine Learning Basics,Data,Mr. Das,online,6214.13,58.7,,Dropped,Partially Paid
+ENR30787,06/10/2025,STU0420,26.0,Male,JavaScript Fundamentals,Programming,Mr. Khan,BANGALORE CENTER,3715.52,92.8,60.9,Completed,Partially Paid
+ENR30831,17/09/2025,STU0109,39.0,Other,JavaScript Fundamentals,Programming,Mr. Sharma,Online,3907.39,84.4,64.0,In Progress,Pending
+ENR30120,2025-06-08,STU0115,29.0,Female,Spoken English Mastery,Language,Mr. Das,ONLINE,1824.91,60.1,27.1,Completed,Partially Paid
+ENR30657,2025-09-05,STU0415,44.0,Female,UI/UX Design Basics,Design,Mr. Sharma,Delhi Center ,5031.93,62.1,30.9,Completed,Pending
+ENR31037,11-23-2025,STU0020,27.0,Female,Machine Learning Basics,Data,Mr. Sharma,Bangalore Center,5539.04,66.2,48.6,In Progress,Paid
+ENR30670,05-08-2025,STU0129,28.0,Male,Advanced Excel & Power BI,Data,Mr. Khan,ONLINE,,36.3,25.7,In Progress,Pending
+ENR30106,01-Oct-2025,STU0116,28.0,Female,Spoken English Mastery,Language,Ms. Rao,online,1952.21,100.0,,Dropped,Paid
+ENR30636,2025-01-09,STU0084,26.0,Male,UI/UX Design Basics,Design,Ms. Iyer,Mumbai Center,5038.47,80.3,55.6,In Progress,Paid
+ENR30370,2025-03-26,STU0169,31.0,Male,Public Speaking Essentials,Soft Skills,Mr. Das,Delhi Center ,1350.41,72.8,58.4,In Progress,Partially Paid
+ENR30269,28/10/2025,STU0232,18.0,Other,Public Speaking Essentials,Soft Skills,Mr. Khan,mumbai center,1447.68,64.2,54.7,Completed,Partially Paid
+ENR30656,10/10/2025,STU0482,37.0,Other,Advanced Excel & Power BI,Data,Ms. Iyer,delhi center,4655.15,81.5,,Dropped,Partially Paid
+ENR30820,2026-08-21,STU0429,15.0,Female,SQL for Data Analysis,Data,Mr. Das,delhi center,2638.54,64.3,48.9,Completed,Partially Paid
+ENR30823,10-14-2025,STU0200,28.0,Other,Data Analytics with Excel,Data,Mr. Khan,Pune Center,3479.03,60.4,46.5,Completed,Paid
+ENR30980,06/02/2025,STU0114,35.0,Male,Digital Marketing Fundamentals,Marketing,Ms. Fernandes,BANGALORE CENTER,2504.37,97.5,73.8,Completed,Pending
+ENR30047,2026-06-14,STU0115,31.0,Other,Digital Marketing Fundamentals,Marketing,Ms. Fernandes,Pune Center,2471.19,58.2,42.0,In Progress,Pending
+ENR30350,29-Apr-2026,STU0420,40.0,,Graphic Design with Canva,Design,Mr. Khan,mumbai center,1791.74,100.0,83.6,Completed,Partially Paid
+ENR31114,2025-06-16,STU0284,41.0,Female,Data Analytics with Excel,Data,Mr. Sharma,Bangalore Center,3235.46,56.1,,Dropped,Pending
+ENR30877,07/11/2025,STU0120,-5.0,Other,Data Analytics with Excel,Data,Ms. Rao,,3451.19,95.3,,Dropped,Pending
+ENR30774,03-11-2026,STU0369,29.0,Male,Machine Learning Basics,Data,Ms. Fernandes,delhi center,5653.19,43.1,23.0,Completed,Partially Paid
+ENR30196,06-Feb-2026,STU0007,32.0,Female,Spoken English Mastery,Language,Ms. Iyer,Online,1896.88,46.1,40.1,Completed,Pending
+ENR30103,2025-08-22,STU0378,32.0,Other,Web Development Bootcamp,Programming,Ms. Rao,ONLINE,7040.37,75.1,45.3,Completed,Pending
+ENR30005,2026-01-09,STU0057,43.0,Male,Digital Marketing Fundamentals,Marketing,Ms. Fernandes,Delhi Center ,2457.16,70.7,37.3,Completed,Partially Paid
+ENR30620,2026-06-29,STU0050,21.0,Male,Advanced Excel & Power BI,Data,Ms. Rao,ONLINE,4150.0,40.4,,Dropped,Partially Paid
+ENR30572,30-Jul-2025,STU0004,34.0,Female,UI/UX Design Basics,Design,Mr. Khan,Delhi Center,4732.37,59.3,49.2,In Progress,Pending
+ENR30053,2025-03-02,STU0233,19.0,Female,UI/UX Design Basics,Design,Ms. Rao,Mumbai Center,4746.62,74.5,57.3,Completed,Pending
+ENR30264,2025-09-09,STU0270,25.0,Female,Public Speaking Essentials,Soft Skills,Mr. Das,BANGALORE CENTER,1490.73,69.2,54.4,In Progress,Paid
+ENR31175,2026-08-28,STU0068,38.0,Female,UI/UX Design Basics,Design,Mr. Sharma,delhi center,4839.34,91.8,72.3,Completed,Pending
+ENR30444,04-Feb-2025,STU0378,,,Digital Marketing Fundamentals,Marketing,Ms. Iyer,Online,2279.62,54.1,41.0,Completed,Paid
+ENR31075,08-24-2026,STU0323,36.0,Male,Graphic Design with Canva,Design,Ms. Iyer,Pune Center,1826.51,70.8,44.9,Completed,Partially Paid
+ENR30783,23-Jan-2026,STU0001,21.0,Other,SQL for Data Analysis,Data,Ms. Iyer,BANGALORE CENTER,2855.42,67.7,36.9,Completed,Paid
+ENR30838,03/06/2026,STU0437,40.0,Female,Spoken English Mastery,Language,Ms. Iyer,Mumbai Center,2031.1,66.3,36.5,In Progress,Paid
+ENR31191,08-Feb-2026,STU0239,44.0,Other,Digital Marketing Fundamentals,Marketing,Mr. Khan,Delhi Center ,2392.87,83.5,65.0,Completed,Paid
+ENR30692,12-22-2025,STU0478,25.0,Male,Web Development Bootcamp,Programming,Ms. Iyer,ONLINE,7166.07,82.2,46.6,Completed,Paid
+ENR30305,08/06/2026,STU0066,34.0,Male,UI/UX Design Basics,Design,Mr. Das,Mumbai Center,4720.52,77.3,66.3,Completed,Pending
+ENR30342,06-01-2025,STU0140,22.0,Male,Public Speaking Essentials,Soft Skills,Ms. Rao,mumbai center,1537.71,27.1,19.3,Completed,Partially Paid
+ENR31008,03-Apr-2026,STU0426,37.0,Other,Digital Marketing Fundamentals,Marketing,Mr. Sharma,Mumbai Center,,72.4,57.1,Completed,Paid
+ENR30314,08-31-2026,STU0046,38.0,Female,SQL for Data Analysis,Data,Mr. Khan,,2857.54,45.1,42.7,Completed,Pending
+ENR30150,31/07/2026,STU0336,27.0,Other,Machine Learning Basics,Data,Ms. Fernandes,BANGALORE CENTER,5792.28,80.5,52.4,In Progress,Paid
+ENR30125,2025-03-01,STU0184,35.0,Male,JavaScript Fundamentals,Programming,Ms. Rao,pune center,,55.9,33.7,In Progress,Paid
+ENR31144,04/02/2025,STU0149,33.0,Male,Advanced Excel & Power BI,Data,Mr. Das,,4125.86,56.2,,Dropped,Partially Paid
+ENR30575,2026-05-07,STU0302,29.0,Female,Data Analytics with Excel,Data,Mr. Khan,Bangalore Center,3229.89,56.7,,Dropped,Partially Paid
+ENR30698,04-13-2025,STU0346,36.0,Male,Spoken English Mastery,Language,Mr. Khan,Mumbai Center,1968.64,,54.0,In Progress,Partially Paid
+ENR30665,2025-05-15,STU0301,41.0,Female,Machine Learning Basics,Data,Mr. Sharma,mumbai center,5491.23,100.0,60.9,Completed,Partially Paid
+ENR30051,01-22-2025,STU0397,30.0,Other,Machine Learning Basics,Data,Ms. Rao,Delhi Center,5802.17,53.1,49.0,In Progress,PAID
+ENR31000,2025-12-06,STU0459,17.0,Male,Graphic Design with Canva,Design,Mr. Sharma,BANGALORE CENTER,,58.2,28.4,Completed,Paid
+ENR30727,26/02/2025,STU0284,19.0,Female,Data Analytics with Excel,Data,Ms. Iyer,Pune Center,3265.27,48.4,29.1,Completed,Paid
+ENR30800,2026-06-13,STU0128,29.0,Female,Public Speaking Essentials,Soft Skills,Ms. Iyer,Pune Center,1550.21,81.8,49.9,Completed,Partially Paid
+ENR30834,2025-06-20,STU0239,39.0,Female,Public Speaking Essentials,Soft Skills,Mr. Khan,delhi center,1451.72,89.7,,Dropped,Pending
+ENR30354,11-Apr-2026,STU0243,17.0,Other,Spoken English Mastery,Language,Ms. Iyer,Mumbai Center,1892.84,74.8,60.7,In Progress,Partially Paid
+ENR31238,16-May-2025,STU0299,22.0,Female,Graphic Design with Canva,Design,Mr. Das,Delhi Center,1848.51,74.4,55.2,In Progress,Pending
+ENR30143,2025-09-02,STU0070,39.0,Other,JavaScript Fundamentals,Programming,Ms. Iyer,pune center,4163.5,50.2,44.6,In Progress,Pending
+ENR30471,30-Oct-2025,STU0229,21.0,Male,UI/UX Design Basics,Design,Mr. Das,Mumbai Center,5235.73,68.4,43.2,Completed,Partially Paid
+ENR30883,01/03/2026,STU0241,44.0,Other,Advanced Excel & Power BI,Data,Ms. Iyer,ONLINE,4310.5,65.6,50.8,Completed,Paid
+ENR30654,01/08/2026,STU0031,20.0,Other,JavaScript Fundamentals,Programming,Mr. Das,delhi center,4024.3,91.6,51.0,Completed,Pending
+ENR30400,23/06/2025,STU0266,41.0,Female,JavaScript Fundamentals,Programming,Ms. Iyer,pune center,3767.88,80.2,51.9,Completed,Partially Paid
+ENR30512,25-Jul-2025,STU0240,33.0,Female,UI/UX Design Basics,Design,Mr. Khan,pune center,5206.72,82.5,62.1,In Progress,Paid
+ENR31235,2025-05-24,STU0427,34.0,Other,Spoken English Mastery,Language,Mr. Khan,online,2024.02,100.0,76.2,In Progress,Pending
+ENR30321,10-07-2025,STU0227,28.0,Male,UI/UX Design Basics,Design,Mr. Sharma,Online,5165.34,79.4,65.8,Completed,Pending
+ENR30020,25/05/2026,STU0316,43.0,Male,JavaScript Fundamentals,Programming,Mr. Das,delhi center,4075.77,81.9,68.5,In Progress,Partially Paid
+ENR30685,2025-03-19,STU0315,15.0,Other,Python for Beginners,Programming,Ms. Rao,Delhi Center,3054.59,70.0,56.0,Completed,Partially Paid
+ENR30036,25/06/2025,STU0036,38.0,Male,UI/UX Design Basics,Design,Mr. Sharma,ONLINE,4997.69,90.5,60.4,Completed,Pending
+ENR30825,27/07/2025,STU0054,33.0,Male,Graphic Design with Canva,Design,Mr. Sharma,Delhi Center,1705.27,69.7,41.9,Completed,Partially Paid
+ENR30903,24/12/2025,STU0469,38.0,Other,Spoken English Mastery,Language,Ms. Fernandes,pune center,2061.74,50.8,22.4,Completed,Pending
+ENR30506,24-Jul-2026,STU0020,18.0,Other,Graphic Design with Canva,Design,Mr. Khan,mumbai center,1832.67,62.5,54.5,In Progress,Partially Paid
+ENR30828,06/08/2026, STU0305 ,37.0,Other,Digital Marketing Fundamentals,Marketing,Ms. Fernandes,mumbai center,2334.64,53.2,30.1,Completed,Partially Paid
+ENR31201,07-Feb-2026,STU0334,45.0,Male,Web Development Bootcamp,Programming,Mr. Das,Bangalore Center,7328.51,73.4,39.6,Completed,Pending
+ENR30408,16/08/2026,STU0471,26.0,Female,SQL for Data Analysis,Data,Ms. Fernandes,Delhi Center ,2650.02,61.4,29.0,Completed,Partially Paid
+ENR30921,22/05/2025,STU0076,35.0,,Advanced Excel & Power BI,Data,Mr. Sharma,online,4189.83,69.0,,Dropped,Pending
+ENR30818,03-16-2026,STU0041,33.0,Female,Advanced Excel & Power BI,Data,Mr. Khan,BANGALORE CENTER,4584.11,,,Dropped,Pending
+ENR30867,11-03-2025,STU0061,16.0,Male,Public Speaking Essentials,Soft Skills,Ms. Fernandes,Mumbai Center,1494.57,75.2,,Dropped,Partially Paid
+ENR30538,05/05/2026,STU0147,19.0,Other,Python for Beginners,Programming,Mr. Das,Delhi Center ,2826.33,56.9,33.3,Completed,Paid
+ENR30759,2025-06-06,STU0068,15.0,Other,Python for Beginners,Programming,Ms. Iyer,BANGALORE CENTER,2855.26,100.0,72.7,Completed,Pending
+ENR31150,18-May-2025,STU0297,37.0,Female,Python for Beginners,Programming,Ms. Fernandes,Bangalore Center,3057.05,67.9,41.1,In Progress,Partially Paid
+ENR31033,2025-02-16,STU0228,43.0,Male,Graphic Design with Canva,Design,Mr. Khan,Mumbai Center,1661.21,39.6,,Dropped,Partially Paid
+ENR30039,04-25-2025,STU0292,19.0,Male,UI/UX Design Basics,Design,Ms. Rao,Delhi Center,4656.91,52.1,46.4,In Progress,Paid
+ENR30176,01-10-2026,STU0481,23.0,Other,Web Development Bootcamp,Programming,Mr. Khan,online,7218.97,100.0,82.4,In Progress,Paid
+ENR30246,15-Apr-2026,STU0292,34.0,Female,Spoken English Mastery,Language,Ms. Iyer,delhi center,1871.31,81.5,62.2,In Progress,Paid
+ENR30811,10-May-2026,STU0217,34.0,Male,UI/UX Design Basics,Design,Mr. Das,online,4779.69,55.9,41.4,In Progress,Pending
+ENR31167,2025-03-06,STU0440,36.0,Male,Web Development Bootcamp,Programming,Mr. Sharma,Delhi Center,6644.72,58.5,27.7,Completed,
+ENR31099,24-Aug-2026,STU0469,15.0,Other,JavaScript Fundamentals,Programming,Ms. Rao,delhi center,3947.3,75.6,,Dropped,Pending
+ENR31183,28-Jun-2026,STU0376,39.0,Other,Graphic Design with Canva,Design,Mr. Das,Online,1767.55,68.7,40.6,Completed,Paid
+ENR30785,04-06-2025,STU0094,27.0,Other,Python for Beginners,Programming,Mr. Das,online,3068.47,52.6,46.9,Completed,Paid
+ENR30986,2026-04-18,STU0261,32.0,Male,Python for Beginners,Programming,Ms. Rao,Online,2927.93,100.0,,Dropped,Partially Paid
+ENR30530,2026-05-08,STU0372,18.0,Male,Web Development Bootcamp,Programming,Ms. Fernandes,BANGALORE CENTER,6305.17,58.8,49.1,Completed,Partially Paid
+ENR30490,2026-07-06,STU0094,28.0,Other,Machine Learning Basics,Data,Mr. Das,pune center,5543.35,32.0,33.0,Completed,Partially Paid
+ENR30155,10-09-2025,STU0492,43.0,Other,Graphic Design with Canva,Design,Ms. Iyer,Delhi Center,1737.83,55.4,40.9,Completed,Partially Paid
+ENR30639,2026-08-28,STU0462,37.0,Male,Advanced Excel & Power BI,Data,Mr. Sharma,Online,4365.66,85.3,50.1,Completed,Pending
+ENR30962,16/04/2025,STU0336,19.0,Male,Spoken English Mastery,Language,Mr. Sharma,Bangalore Center,1873.72,92.2,,Dropped,Paid
+ENR30663,02/05/2026,STU0458,33.0,Male,Advanced Excel & Power BI,Data,Ms. Iyer,Delhi Center,4292.4,72.9,,Dropped,
+ENR30854,14-May-2025,STU0072,40.0,Male,Web Development Bootcamp,Programming,Mr. Sharma,Bangalore Center,6903.15,83.4,67.5,In Progress,Pending
+ENR30943,22-Jan-2025,STU0316,35.0,Female,Machine Learning Basics,Data,Mr. Khan,pune center,5867.47,96.4,,Dropped,Paid
+ENR30288,2025-01-10,STU0443,36.0,Other,Python for Beginners,Programming,Mr. Khan,Pune Center,2911.24,78.5,61.5,In Progress,Partially Paid
+ENR30626,2025-08-03,STU0322,31.0,Female,Machine Learning Basics,Data,Ms. Fernandes,Pune Center,6124.04,42.1,,Dropped,Partially Paid
+ENR31212,2026-06-28,STU0469,26.0,Male,Data Analytics with Excel,Data,Ms. Rao,mumbai center,3154.82,53.0,47.2,Completed,Paid
+ENR30686,2025-08-08,STU0008,41.0,Other,Advanced Excel & Power BI,Data,Mr. Sharma,BANGALORE CENTER,4316.02,22.5,10.7,In Progress,Pending
+ENR30763,10-Oct-2025,STU0336,22.0,Other,Spoken English Mastery,Language,Mr. Khan,online,2015.55,100.0,73.2,In Progress,Pending
+ENR31081,2026-07-16,STU0020,27.0,Female,JavaScript Fundamentals,Programming,Ms. Iyer,Online,3819.69,86.3,73.7,Completed,
+ENR30570,19/06/2026,STU0311,24.0,Other,Data Analytics with Excel,Data,Ms. Iyer,Pune Center,3340.88,80.1,58.2,Completed,Partially Paid
+ENR31229,29-Aug-2026,STU0084,41.0,Other,Graphic Design with Canva,Design,Ms. Iyer,Delhi Center ,1874.52,72.5,36.0,Completed,Partially Paid
+ENR30735,09-10-2025,STU0013,42.0,Other,Spoken English Mastery,Language,Ms. Fernandes,Delhi Center,1905.01,56.8,34.1,Completed,Pending
+ENR31002,18/02/2026,STU0046,31.0,Other,Web Development Bootcamp,Programming,Ms. Fernandes,Mumbai Center,6567.19,57.4,44.0,Completed,Partially Paid
+ENR30793,02-Aug-2026,STU0030,16.0,Male,Digital Marketing Fundamentals,Marketing,Mr. Sharma,pune center,2292.64,78.1,,Dropped,Partially Paid
+ENR30018,10-16-2025,STU0307,27.0,Other,Digital Marketing Fundamentals,Marketing,Mr. Sharma,BANGALORE CENTER,2479.36,91.7,50.5,Completed,Paid
+ENR30128,06/06/2025,STU0026,21.0,Male,Spoken English Mastery,Language,Mr. Das,Delhi Center ,1998.47,100.0,84.0,Completed,Pending
+ENR30323,13-Sep-2025,STU0458,40.0,Male,Web Development Bootcamp,Programming,Ms. Rao,delhi center,6412.85,79.4,,Dropped,Pending
+ENR30256,26/08/2025,STU0096,42.0,Female,Digital Marketing Fundamentals,Marketing,Mr. Sharma,Delhi Center,2547.45,,58.1,Completed,Paid
+ENR31062,02-16-2026,STU0383,29.0,Male,UI/UX Design Basics,Design,Ms. Iyer,online,5123.3,42.1,,Dropped,Paid
+ENR30983,08-18-2026,STU0053,42.0,Male,Data Analytics with Excel,Data,Mr. Das,Delhi Center ,3333.54,86.4,69.0,Completed,Partially Paid
+ENR30928,01-26-2025,STU0306,21.0,Male,SQL for Data Analysis,Data,Ms. Fernandes,BANGALORE CENTER,2624.72,51.4,30.0,Completed,Paid
+ENR30981,06-07-2025,STU0195,19.0,Male,Graphic Design with Canva,Design,Mr. Sharma,ONLINE,1683.28,73.0,,Dropped,Pending
+ENR30936,2025-01-09,STU0057,30.0,Female,Data Analytics with Excel,Data,Mr. Sharma,Mumbai Center,3216.85,47.7,35.2,Completed,Pending
+ENR30191,09-Mar-2025,STU0369,31.0,Female,Public Speaking Essentials,Soft Skills,Ms. Rao,Pune Center,1485.82,55.1,41.5,In Progress,Partially Paid
+ENR30116,11-Jan-2026,STU0071,18.0,Male,UI/UX Design Basics,Design,Mr. Sharma,Bangalore Center,4963.56,68.2,34.6,In Progress,Partially Paid
+ENR30993,2026-03-29,STU0426,32.0,Female,SQL for Data Analysis,Data,Ms. Fernandes,Pune Center,2873.42,85.3,56.2,Completed,Paid
+ENR31117,2026-05-03,STU0035,20.0,Other,UI/UX Design Basics,Design,Ms. Fernandes,online,4801.11,83.8,60.7,Completed,Paid
+ENR30607,05-02-2026,STU0104,,Female,Spoken English Mastery,Language,Ms. Fernandes,Mumbai Center,2038.7,69.5,,Dropped,Paid
+ENR30181,08-22-2026,STU0339,26.0,Male,Web Development Bootcamp,Programming,Ms. Fernandes,BANGALORE CENTER,7172.21,75.0,,Dropped,Paid
+ENR30302,10-02-2025,STU0302,28.0,Female,SQL for Data Analysis,Data,Mr. Khan,delhi center,2904.82,70.5,57.0,In Progress,PARTIALLY PAID
+ENR30497,07-Feb-2025,STU0114,26.0,Other,Advanced Excel & Power BI,Data,Ms. Fernandes,pune center,4199.68,50.4,38.0,Completed,Paid
+ENR31115,11-05-2025,STU0315,27.0,Other,Web Development Bootcamp,Programming,Ms. Fernandes,pune center,6651.71,86.5,72.0,In Progress,Pending
+ENR31069,25/02/2025,STU0359,35.0,Other,Spoken English Mastery,Language,Mr. Das,Pune Center,1957.23,50.8,22.2,Completed,Paid
+ENR30518,14/03/2026,STU0053,23.0,Female,Advanced Excel & Power BI,Data,Ms. Rao,Pune Center,4272.14,60.6,46.9,Completed,
+ENR30477,02-05-2025,STU0187,29.0,Female,Web Development Bootcamp,Programming,Mr. Khan,Online,6339.95,58.4,45.3,Completed,Pending
+ENR30158,12/06/2025,STU0094,38.0,Male,JavaScript Fundamentals,Programming,Mr. Sharma,Mumbai Center,4092.26,66.0,56.2,In Progress,Paid
+ENR30017,06-02-2025,STU0012,15.0,Male,Public Speaking Essentials,Soft Skills,Mr. Khan,Delhi Center,1453.4,56.0,46.3,Completed,Paid
+ENR30547,07/02/2026,STU0020,25.0,Female,Web Development Bootcamp,Programming,Mr. Khan,Pune Center,6571.92,94.5,,Dropped,Partially Paid
+ENR30659,2025-11-30,STU0266,15.0,Male,Data Analytics with Excel,Data,Mr. Khan,mumbai center,3523.35,98.2,,Dropped,Partially Paid
+ENR31059,2025-10-03,STU0114,20.0,Male,JavaScript Fundamentals,Programming,Ms. Iyer,mumbai center,3897.05,61.9,44.3,In Progress,Paid
+ENR31020,27/11/2025, STU0436 ,29.0,Other,Advanced Excel & Power BI,Data,Mr. Khan,Bangalore Center,4656.49,59.6,45.2,Completed,Pending
+ENR30395,2025-01-10,STU0006,26.0,,SQL for Data Analysis,Data,Mr. Das,Bangalore Center,2659.65,62.8,56.3,Completed,Paid
+ENR30960,20/05/2026,STU0485,17.0,Other,Machine Learning Basics,Data,Mr. Khan,Bangalore Center,5932.9,74.7,57.9,In Progress,Paid
+ENR31214,08-01-2026,STU0047,21.0,,UI/UX Design Basics,Design,Ms. Iyer,Pune Center,5134.03,74.9,42.1,Completed,Pending
+ENR30284,06-24-2026,STU0034,42.0,Male,UI/UX Design Basics,Design,Ms. Fernandes,BANGALORE CENTER,4564.47,94.6,63.5,Completed,Partially Paid
+ENR30798,2025-05-10,STU0358,26.0,Male,Digital Marketing Fundamentals,Marketing,Mr. Khan,Pune Center,2351.84,76.6,51.3,In Progress,Partially Paid
+ENR30226,12-Jun-2025,STU0200,37.0,Other,Python for Beginners,Programming,Mr. Das,Delhi Center ,3035.58,75.8,,Dropped,Paid
+ENR30027,01-Feb-2025,STU0354,18.0,Male,Advanced Excel & Power BI,Data,Mr. Das,mumbai center,4342.07,50.4,36.7,Completed,Partially Paid
+ENR30438,2025-08-02,STU0313,18.0,Female,Digital Marketing Fundamentals,Marketing,Ms. Rao,online,2406.21,77.0,53.6,Completed,Partially Paid
+ENR30782,2025-01-11,STU0031,22.0,Female,Spoken English Mastery,Language,Ms. Iyer,mumbai center,2003.34,77.0,49.5,Completed,Partially Paid
+ENR30230,01-17-2026,STU0193,44.0,Female,Advanced Excel & Power BI,Data,Ms. Fernandes,mumbai center,4134.68,49.0,30.1,Completed,Paid
+ENR30038,10-23-2025,STU0355,19.0,Female,Python for Beginners,Programming,Mr. Sharma,Delhi Center,3071.87,,,Dropped,Partially Paid
+ENR30750,09-Mar-2025,STU0023,22.0,Female,UI/UX Design Basics,Design,Ms. Iyer,online,4863.89,62.7,,Dropped,Partially Paid
+ENR31046,2025-04-06,STU0129,37.0,Female,Spoken English Mastery,Language,Mr. Khan,Delhi Center ,1833.87,68.9,39.3,Completed,Paid
+ENR30470,08-27-2026,STU0289,30.0,Male,Data Analytics with Excel,Data,Mr. Das,pune center,3504.12,50.7,31.6,Completed,Pending
+ENR31104,03-31-2026,STU0295,34.0,Male,SQL for Data Analysis,Data,Ms. Fernandes,Mumbai Center,2826.28,73.3,54.8,Completed,Paid
+ENR30013,2026-04-13,STU0470,17.0,Male,Spoken English Mastery,Language,Ms. Iyer,Bangalore Center,1801.13,74.7,54.9,In Progress,Paid
+ENR30688,31-Jan-2026,STU0433,41.0,Male,Public Speaking Essentials,Soft Skills,Ms. Rao,Bangalore Center,1430.72,58.7,37.8,In Progress,Pending
+ENR30640,2025-06-17,STU0117,120.0,Female,Web Development Bootcamp,Programming,Mr. Khan,Bangalore Center,6558.37,49.4,,Dropped,PAID
+ENR31118,2026-03-15,STU0120,43.0,Male,Public Speaking Essentials,Soft Skills,Ms. Rao,mumbai center,1542.86,93.8,,Dropped,Pending
+ENR31079,19-Oct-2025,STU0043,20.0,Male,Graphic Design with Canva,Design,Mr. Das,Online,1756.83,90.3,62.2,Completed,Partially Paid
+ENR31170,06-27-2026,STU0424,17.0,Male,Advanced Excel & Power BI,Data,Mr. Sharma,Bangalore Center,4388.25,81.7,64.5,In Progress,Pending
+ENR30801,2026-02-01,STU0005,24.0,Other,UI/UX Design Basics,Design,Ms. Rao,BANGALORE CENTER,5206.65,66.1,31.8,Completed,Paid
+ENR30161,29/01/2025,STU0228,18.0,Other,Data Analytics with Excel,Data,Mr. Das,Pune Center,3469.19,86.6,70.7,Completed,Partially Paid
+ENR30957,10/05/2026,STU0002,43.0,Female,Data Analytics with Excel,Data,Mr. Sharma,Pune Center,3647.84,83.4,62.5,Completed,Pending
+ENR30822,21/05/2026,STU0013,18.0,Other,Spoken English Mastery,Language,Mr. Sharma,mumbai center,1986.41,52.7,41.0,Completed,Partially Paid
+ENR31097,10-20-2025,STU0021,20.0,Male,Web Development Bootcamp,Programming,Mr. Das,online,6852.46,50.7,,Dropped,Pending
+ENR30878,18/07/2026,STU0157,,Other,Web Development Bootcamp,Programming,Mr. Das,ONLINE,6366.5,63.0,,Dropped,Paid
+ENR30914,2025-05-27,STU0409,42.0,Female,Python for Beginners,Programming,Mr. Sharma,mumbai center,2848.02,91.6,67.3,In Progress,Partially Paid
+ENR30153,31-Aug-2026,STU0097,23.0,Other,Data Analytics with Excel,Data,Mr. Das,Delhi Center ,3348.08,,81.4,In Progress,PAID
+ENR31179,20/08/2025,STU0296,24.0,Male,Spoken English Mastery,Language,Mr. Das,Bangalore Center,1911.72,46.7,45.4,In Progress,Partially Paid
+ENR30510,2025-02-05,STU0188,16.0,Other,Advanced Excel & Power BI,Data,Mr. Khan,BANGALORE CENTER,4679.79,53.2,42.2,In Progress,Partially Paid
+ENR31084,2026-08-03,STU0398,42.0,Male,Public Speaking Essentials,Soft Skills,Mr. Sharma,Mumbai Center,1384.44,91.7,56.4,Completed,Pending
+ENR30104,12/06/2026,STU0126,28.0,Male,JavaScript Fundamentals,Programming,Mr. Sharma,Delhi Center ,3669.96,81.6,68.7,Completed,Partially Paid
+ENR30587,12-May-2025,STU0291,45.0,Other,Data Analytics with Excel,Data,Ms. Fernandes,pune center,3182.27,100.0,59.3,Completed,Paid
+ENR31142,04-Aug-2026,STU0068,37.0,,Python for Beginners,Programming,Ms. Fernandes,BANGALORE CENTER,2939.4,48.2,30.4,Completed,Paid
+ENR30054,07-Jun-2026,STU0320,17.0,Female,Public Speaking Essentials,Soft Skills,Ms. Fernandes,Pune Center,1504.52,67.7,46.3,Completed,Pending
+ENR30152,20-May-2025,STU0138,29.0,Male,Web Development Bootcamp,Programming,Ms. Rao,,6420.68,39.5,,Dropped,Pending
+ENR30404,2025-02-21,STU0200,37.0,Other,Web Development Bootcamp,Programming,Ms. Iyer,pune center,6302.42,62.7,58.2,Completed,Partially Paid
+ENR30208,16-Sep-2025,STU0411,19.0,Other,UI/UX Design Basics,Design,Mr. Das,BANGALORE CENTER,4657.11,62.4,,Dropped,
+ENR31220,2025-02-10,STU0189,23.0,Other,Spoken English Mastery,Language,Ms. Fernandes,online,1845.31,78.7,,Dropped,PENDING
+ENR30009,09-May-2026,STU0134,30.0,Other,Digital Marketing Fundamentals,Marketing,Ms. Fernandes,pune center,2422.54,73.1,48.1,Completed,Partially Paid
+ENR31015,14-Feb-2025,STU0177,32.0,Male,SQL for Data Analysis,Data,Ms. Iyer,mumbai center,2673.77,92.5,54.7,Completed,Partially Paid
+ENR31061,2026-04-23,STU0221,17.0,Female,Graphic Design with Canva,Design,Mr. Das,BANGALORE CENTER,1734.1,61.8,47.2,Completed,Pending
+ENR30453,19-Aug-2026,STU0054,25.0,Female,Python for Beginners,Programming,Ms. Rao,ONLINE,2713.72,75.1,47.9,Completed,Pending
+ENR30254,2026-06-17,STU0072,37.0,Other,Spoken English Mastery,Language,Mr. Sharma,BANGALORE CENTER,2068.72,92.0,57.6,Completed,Partially Paid
+ENR30897,2026-07-19,STU0436,15.0,Other,Web Development Bootcamp,Programming,Mr. Das,delhi center,6557.53,59.3,,Dropped,Partially Paid
+ENR31129,2026-02-03,STU0391,35.0,Other,Python for Beginners,Programming,Mr. Das,online,3047.85,90.5,,Dropped,Paid
+ENR30881,02-19-2026,STU0381,23.0,Other,Web Development Bootcamp,Programming,Ms. Iyer,online,6816.56,41.1,40.5,Completed,Pending
+ENR31218,2025-01-30,STU0243,36.0,Other,UI/UX Design Basics,Design,Ms. Iyer,Delhi Center ,4689.26,79.5,,Dropped,Paid
+ENR30624,02-Dec-2025,STU0486,29.0,Other,Spoken English Mastery,Language,Ms. Iyer,delhi center,1821.98,63.3,35.1,Completed,Pending
+ENR30346,17/06/2025,STU0045,,Other,Machine Learning Basics,Data,Ms. Fernandes,Online,6202.37,83.9,,Dropped,Partially Paid
+ENR31152,08-09-2026,STU0370,21.0,Male,Python for Beginners,Programming,Mr. Das,Pune Center,3091.26,74.5,51.9,Completed,Pending
+ENR30263,05-10-2025,STU0151,40.0,Female,Python for Beginners,Programming,Mr. Das,Delhi Center ,3036.52,50.6,46.5,In Progress,Partially Paid
+ENR30151,06-06-2025,STU0236,40.0,Female,Spoken English Mastery,Language,Mr. Das,mumbai center,1856.29,47.3,30.3,Completed,
+ENR30473,26-Feb-2025,STU0102,22.0,Male,Spoken English Mastery,Language,Ms. Iyer,Mumbai Center,2062.32,85.2,50.7,Completed,PAID
+ENR30641,12-Apr-2025,STU0298,45.0,Other,Web Development Bootcamp,Programming,Ms. Fernandes,pune center,6800.27,81.4,67.5,Completed,Partially Paid
+ENR31013,01-Jul-2026,STU0241,16.0,Male,Graphic Design with Canva,Design,Ms. Rao,pune center,1750.06,100.0,82.1,Completed,
+ENR31215,03-09-2026,STU0035,21.0,Female,Advanced Excel & Power BI,Data,Mr. Das,Delhi Center ,4675.2,61.0,35.3,Completed,Partially Paid
+ENR30551,03-Aug-2026,STU0295,,Female,Web Development Bootcamp,Programming,Mr. Das,Bangalore Center,6693.77,97.0,57.1,In Progress,Partially Paid
+ENR30929,2026-03-18,STU0340,15.0,Other,Spoken English Mastery,Language,Mr. Khan,Delhi Center ,2095.81,81.0,55.2,In Progress,
+ENR30489,2025-05-11,STU0179,45.0,Other,UI/UX Design Basics,Design,Ms. Iyer,delhi center,5070.19,89.9,56.1,Completed,
+ENR31198,28/05/2026,STU0051,29.0,Male,SQL for Data Analysis,Data,Mr. Das,Delhi Center ,2901.9,87.7,47.0,Completed,Paid
+ENR30147,17-Jan-2026,STU0405,,Female,Spoken English Mastery,Language,Ms. Iyer,Mumbai Center,2092.97,82.9,54.0,In Progress,Pending
+ENR30403,01/10/2025,STU0083,39.0,Other,Python for Beginners,Programming,Ms. Rao,Mumbai Center,2794.41,90.0,58.9,Completed,Paid
+ENR30955,03-04-2026,STU0349,32.0,Other,Graphic Design with Canva,Design,Mr. Das,BANGALORE CENTER,1668.5,72.8,,Dropped,Partially Paid
+ENR31210,31/07/2026,STU0370,34.0,Male,Machine Learning Basics,Data,Ms. Rao,Online,5612.69,100.0,76.2,Completed,Partially Paid
+ENR30660,20/08/2025,STU0152,35.0,Other,Graphic Design with Canva,Design,Ms. Iyer,BANGALORE CENTER,1816.55,73.2,54.8,Completed,PAID
+ENR30464,08/04/2025,STU0417,41.0,Female,Web Development Bootcamp,Programming,Ms. Rao,pune center,6332.23,81.9,54.4,Completed,Partially Paid
+ENR30187,08-06-2026,STU0412,42.0,Female,UI/UX Design Basics,Design,Ms. Iyer,pune center,4609.29,90.6,,Dropped,Partially Paid
+ENR30609,28/10/2025,STU0008,37.0,Other,Digital Marketing Fundamentals,Marketing,Mr. Sharma,Mumbai Center,2472.49,83.0,44.1,Completed,
+ENR30144,12-30-2025,STU0416,41.0,Male,Data Analytics with Excel,Data,Mr. Khan,Mumbai Center,-3315.23,41.0,20.0,Completed,Paid
+ENR30752,11-Nov-2025,STU0356,22.0,Other,JavaScript Fundamentals,Programming,Ms. Iyer,Bangalore Center,3725.78,79.5,,Dropped,Partially Paid
+ENR30982,14-Jun-2025,STU0479,45.0,Female,JavaScript Fundamentals,Programming,Ms. Iyer,mumbai center,3807.19,97.0,60.1,Completed,Partially Paid
+ENR30198,2025-09-16,STU0352,200.0,Other,JavaScript Fundamentals,Programming,Ms. Iyer,delhi center,3851.4,52.4,26.6,In Progress,Pending
+ENR30884,2025-01-21,STU0299,30.0,Male,Python for Beginners,Programming,Mr. Das,mumbai center,2804.65,76.9,42.2,In Progress,Pending
+ENR30280,05-03-2026,STU0409,44.0,Female,UI/UX Design Basics,Design,Mr. Das,mumbai center,4663.26,,76.0,Completed,Pending
+ENR30294,04-Jul-2026,STU0300,18.0,Female,Digital Marketing Fundamentals,Marketing,Mr. Sharma,Online,2266.31,77.4,54.6,Completed,Pending
+ENR31171,2025-02-21,STU0126,31.0,Other,Machine Learning Basics,Data,Mr. Das,online,5633.22,64.6,34.8,In Progress,Partially Paid
+ENR30401,12-31-2025,STU0161,35.0,Female,Machine Learning Basics,Data,Mr. Khan,Mumbai Center,5428.61,81.3,49.0,In Progress,Pending
+ENR30123,28-Apr-2025,STU0260,18.0,Female,Digital Marketing Fundamentals,Marketing,Mr. Khan,pune center,2402.64,,7.7,Completed,Partially Paid
+ENR30203,08/01/2025,STU0375,23.0,Female,Python for Beginners,Programming,Mr. Das,,3136.5,54.3,,Dropped,Paid
+ENR30836,2025-06-24, STU0076 ,30.0,Other,Graphic Design with Canva,Design,Ms. Iyer,online,1650.51,87.6,62.7,In Progress,Pending
+ENR30247,29-Jun-2025,STU0480,34.0,Other,Digital Marketing Fundamentals,Marketing,Ms. Rao,mumbai center,2344.44,100.0,79.1,Completed,Pending
+ENR31225,06-25-2025,STU0443,35.0,Female,UI/UX Design Basics,Design,Mr. Sharma,Mumbai Center,4562.48,92.2,67.8,Completed,Paid
+ENR31213,12-28-2025,STU0054,25.0,Other,Graphic Design with Canva,Design,Mr. Das,pune center,1729.04,73.1,49.5,Completed,
+ENR30385,01-01-2026,STU0433,35.0,Male,Web Development Bootcamp,Programming,Ms. Fernandes,mumbai center,7229.72,91.3,70.3,Completed,Partially Paid
+ENR30855,08-Jul-2025,STU0032,37.0,Other,Python for Beginners,Programming,Ms. Iyer,BANGALORE CENTER,2922.51,72.9,61.0,In Progress,Partially Paid
+ENR30220,2026-02-13,STU0471,22.0,Male,Machine Learning Basics,Data,Mr. Sharma,Bangalore Center,6171.53,86.8,58.6,In Progress,Partially Paid
+ENR30642,02-Jul-2025,STU0231,37.0,Other,SQL for Data Analysis,Data,Ms. Iyer,BANGALORE CENTER,2706.68,26.9,4.1,Completed,Partially Paid
+ENR30002,03-14-2025,STU0228,24.0,Other,Public Speaking Essentials,Soft Skills,Ms. Rao,pune center,1421.28,42.9,30.6,Completed,Paid
+ENR30113,13-Sep-2025, STU0288 ,22.0,Female,Web Development Bootcamp,Programming,Mr. Khan,mumbai center,7073.7,56.6,,Dropped,Paid
+ENR30699,02-Apr-2026,STU0104,33.0,Other,UI/UX Design Basics,Design,Ms. Fernandes,ONLINE,4719.66,95.2,64.6,Completed,Partially Paid
+ENR31232,2025-12-04, STU0252 ,39.0,Other,Data Analytics with Excel,Data,Ms. Fernandes,Bangalore Center,3285.23,55.4,39.3,Completed,Paid
+ENR30952,10-Apr-2026,STU0319,37.0,,Spoken English Mastery,Language,Ms. Iyer,Delhi Center ,1902.77,100.0,65.2,Completed,Partially Paid
+ENR31161,10-18-2025,STU0461,19.0,Other,UI/UX Design Basics,Design,Mr. Khan,Delhi Center,4600.14,51.6,40.2,In Progress,Partially Paid
+ENR30442,2026-08-20,STU0267,,Female,Graphic Design with Canva,Design,Mr. Das,Online,1787.05,63.3,54.2,In Progress,Pending
+ENR30664,06-29-2025,STU0382,34.0,Female,UI/UX Design Basics,Design,Mr. Khan,mumbai center,4695.04,72.7,41.2,Completed,Pending
+ENR31178,2025-09-21,STU0032,29.0,Other,SQL for Data Analysis,Data,Ms. Iyer,online,2725.3,83.2,47.9,Completed,Paid
+ENR30318,02-Jan-2026,STU0153,27.0,Other,Python for Beginners,Programming,Ms. Iyer,Pune Center,2921.92,91.3,68.8,Completed,Partially Paid
+ENR30649,2025-05-07,STU0205,34.0,Male,UI/UX Design Basics,Design,Mr. Khan,mumbai center,4543.66,62.9,44.0,Completed,Pending
+ENR30710,04-Apr-2026,STU0090,45.0,Male,UI/UX Design Basics,Design,Ms. Fernandes,Delhi Center ,4684.2,60.6,37.5,Completed,Partially Paid
+ENR30973,2026-04-05,STU0452,42.0,Male,Web Development Bootcamp,Programming,Mr. Das,Delhi Center ,6308.38,59.1,47.7,In Progress,PARTIALLY PAID
+ENR30628,2026-06-21,STU0027,23.0,Other,Data Analytics with Excel,Data,Mr. Sharma,Delhi Center,3408.9,89.8,63.1,Completed,Partially Paid
+ENR30633,2026-07-21,STU0075,28.0,Female,JavaScript Fundamentals,Programming,Mr. Sharma,mumbai center,3620.22,66.5,38.8,Completed,Pending
+ENR30511,2026-07-22,STU0183,39.0,Other,Spoken English Mastery,Language,Mr. Das,delhi center,1867.24,91.9,68.9,Completed,Partially Paid
+ENR31189,21/02/2025,STU0365,42.0,Other,Advanced Excel & Power BI,Data,Mr. Das,ONLINE,4719.31,83.2,43.3,In Progress,Pending
+ENR30796,12-27-2025,STU0243,44.0,Female,JavaScript Fundamentals,Programming,Mr. Das,Delhi Center ,3759.91,92.1,,Dropped,Pending
+ENR30646,01-Apr-2026,STU0021,15.0,Other,Digital Marketing Fundamentals,Marketing,Mr. Das,Pune Center,2387.8,93.5,,Dropped,Partially Paid
+ENR31013,01-Jul-2026,STU0241,16.0,Male,Graphic Design with Canva,Design,Ms. Rao,pune center,1750.06,100.0,82.1,Completed,
+ENR30557,2025-12-09,STU0145,31.0,Female,Graphic Design with Canva,Design,Ms. Iyer,ONLINE,1689.98,100.0,77.0,Completed,Pending
+ENR30682,06-22-2025,STU0263,20.0,Other,Spoken English Mastery,Language,Ms. Rao,Mumbai Center,2096.05,83.7,62.9,In Progress,Partially Paid
+ENR30578,01-05-2026,STU0005,21.0,Female,Machine Learning Basics,Data,Ms. Iyer,Delhi Center ,5860.4,82.9,55.8,Completed,Paid
+ENR31110,25/09/2025,STU0443,42.0,Female,Graphic Design with Canva,Design,Ms. Rao,Delhi Center,1676.28,77.4,52.7,Completed,Pending
+ENR30525,2026-01-30,STU0292,24.0,Male,Web Development Bootcamp,Programming,Mr. Khan,Pune Center,6759.77,,40.5,Completed,Partially Paid
+ENR31060,2025-09-24,STU0192,16.0,,Machine Learning Basics,Data,Ms. Rao,Delhi Center,6001.24,80.0,49.2,Completed,Paid
+ENR30541,2025-05-27,STU0307,22.0,Male,JavaScript Fundamentals,Programming,Mr. Sharma,ONLINE,3640.6,56.4,27.5,Completed,Paid
+ENR30749,2026-05-23,STU0232,40.0,Female,SQL for Data Analysis,Data,Ms. Iyer,ONLINE,2625.51,77.2,43.3,In Progress,
+ENR31192,22-Sep-2025,STU0088,25.0,Other,SQL for Data Analysis,Data,Mr. Das,mumbai center,2756.62,100.0,55.7,Completed,Paid
+ENR30485,31-Jul-2026,STU0377,43.0,Female,Public Speaking Essentials,Soft Skills,Ms. Rao,delhi center,1481.14,78.1,,Dropped,Partially Paid
+ENR30096,10-17-2025,STU0194,28.0,Other,Web Development Bootcamp,Programming,Ms. Iyer,Mumbai Center,6846.9,78.9,,Dropped,PAID
+ENR31021,04-20-2026,STU0417,,Male,Digital Marketing Fundamentals,Marketing,Mr. Sharma,Delhi Center ,2601.05,69.6,54.0,In Progress,Pending
+ENR30564,14/05/2026,STU0452,19.0,Female,Data Analytics with Excel,Data,Ms. Iyer,delhi center,3361.64,85.4,66.6,Completed,Partially Paid
+ENR30743,09-Mar-2026,STU0451,26.0,Male,JavaScript Fundamentals,Programming,Mr. Khan,Delhi Center ,3790.81,62.5,47.0,Completed,
+ENR30864,02-22-2026,STU0204,42.0,Other,Digital Marketing Fundamentals,Marketing,Mr. Sharma,Bangalore Center,2259.64,100.0,,Dropped,Paid
+ENR30892,28/02/2025,STU0442,17.0,Other,Digital Marketing Fundamentals,Marketing,Ms. Fernandes,Mumbai Center,2550.42,88.6,50.7,Completed,Partially Paid
+ENR31039,06-02-2025,STU0270,17.0,Female,Python for Beginners,Programming,Ms. Rao,Pune Center,2811.47,92.4,79.5,In Progress,Pending
+ENR30207,11/05/2025,STU0041,15.0,Female,Machine Learning Basics,Data,Ms. Fernandes,Bangalore Center,5526.04,71.2,,Dropped,Paid
+ENR30393,06/04/2026,STU0409,21.0,Male,Graphic Design with Canva,Design,Ms. Fernandes,pune center,1679.17,100.0,73.2,Completed,Pending
+ENR30795,31-Aug-2026,STU0067,33.0,Female,Machine Learning Basics,Data,Mr. Khan,Delhi Center ,6156.38,100.0,68.1,Completed,Partially Paid
+ENR30871,03/07/2026,STU0113,22.0,Other,Python for Beginners,Programming,Ms. Rao,mumbai center,2816.14,92.4,72.8,Completed,Pending
+ENR30398,2026-02-02,STU0213,18.0,Male,Graphic Design with Canva,Design,Ms. Iyer,Pune Center,1728.1,88.3,55.8,In Progress,Paid
+ENR30767,30-Jun-2026,STU0427,42.0,Other,UI/UX Design Basics,Design,Ms. Iyer,mumbai center,4986.98,59.1,51.1,In Progress,Partially Paid
+ENR31182,18/02/2026,STU0034,21.0,Male,Machine Learning Basics,Data,Mr. Das,Bangalore Center,5957.29,97.1,,Dropped,Partially Paid
+ENR31029,10-01-2025,STU0424,16.0,Other,Advanced Excel & Power BI,Data,Ms. Iyer,delhi center,4212.44,46.0,46.7,Completed,Pending
+ENR30643,03-Apr-2025,STU0112,25.0,Male,Python for Beginners,Programming,Ms. Fernandes,Bangalore Center,2713.38,51.0,,Dropped,Pending
+ENR30613,23/06/2026,STU0013,40.0,Female,Spoken English Mastery,Language,Ms. Iyer,Online,2056.76,91.6,75.9,In Progress,Partially Paid
+ENR30961,2025-07-11,STU0039,34.0,Female,Machine Learning Basics,Data,Ms. Fernandes,online,5676.14,78.1,40.3,Completed,Paid
+ENR30726,2025-08-23,STU0172,41.0,Male,Spoken English Mastery,Language,Mr. Khan,Bangalore Center,2064.45,98.4,79.0,Completed,Pending
+ENR30684,08-27-2026,STU0334,20.0,Male,SQL for Data Analysis,Data,Mr. Khan,ONLINE,2709.15,95.4,76.3,Completed,Paid
+ENR30099,2025-02-11,STU0223,41.0,Female,Graphic Design with Canva,Design,Mr. Sharma,Pune Center,1815.34,,77.3,Completed,Paid
+ENR30805,2025-11-18,STU0159,16.0,Male,Advanced Excel & Power BI,Data,Mr. Khan,delhi center,4061.41,51.1,35.3,In Progress,Paid
+ENR30407,01-Oct-2025,STU0144,27.0,Other,Advanced Excel & Power BI,Data,Ms. Iyer,BANGALORE CENTER,4271.95,51.0,,Dropped,Paid
+ENR30503,2026-06-24, STU0074 ,43.0,Female,JavaScript Fundamentals,Programming,Mr. Khan,Mumbai Center,3602.48,83.3,48.8,Completed,Pending
+ENR31072,2025-06-18,STU0197,28.0,Male,Machine Learning Basics,Data,Mr. Das,delhi center,6042.7,72.4,64.5,Completed,Pending
+ENR31057,05-Sep-2025,STU0007,24.0,Other,Web Development Bootcamp,Programming,Ms. Rao,mumbai center,6400.1,70.4,48.8,Completed,PENDING
+ENR30930,2025-05-31,STU0460,45.0,Female,SQL for Data Analysis,Data,Ms. Fernandes,Pune Center,2676.44,41.0,,Dropped,Partially Paid
+ENR30780,19/07/2026,STU0441,34.0,Female,JavaScript Fundamentals,Programming,Mr. Sharma,delhi center,3860.26,63.3,34.2,Completed,Partially Paid
+ENR30201,2026-05-08,STU0266,41.0,Other,JavaScript Fundamentals,Programming,Mr. Sharma,Pune Center,4086.14,83.8,,Dropped,Partially Paid
+ENR30135,21/07/2025,STU0075,43.0,Male,Public Speaking Essentials,Soft Skills,Mr. Sharma,Bangalore Center,1386.35,100.0,60.6,Completed,Paid
+ENR31052,2025-03-29,STU0276,33.0,Other,Python for Beginners,Programming,Ms. Rao,mumbai center,2848.32,69.1,60.7,In Progress,Pending
+ENR30041,08/10/2025,STU0419,26.0,Male,Spoken English Mastery,Language,Mr. Sharma,Online,1955.27,75.0,40.7,In Progress,Paid
+ENR31018,08-24-2026,STU0108,30.0,Other,Digital Marketing Fundamentals,Marketing,Mr. Das,Mumbai Center,2515.1,98.0,81.9,Completed,Pending
+ENR30231,04/07/2026,STU0061,19.0,Other,Data Analytics with Excel,Data,Mr. Sharma,pune center,3668.37,58.6,43.0,Completed,Pending
+ENR30379,2026-06-28,STU0224,26.0,Male,Spoken English Mastery,Language,Mr. Sharma,,1961.58,74.4,43.1,In Progress,Paid
+ENR30289,06-28-2025,STU0337,23.0,Male,JavaScript Fundamentals,Programming,Ms. Iyer,delhi center,3602.07,,38.8,Completed,Paid
+ENR30419,10-13-2025,STU0312,28.0,Male,Graphic Design with Canva,Design,Ms. Iyer,pune center,1699.38,51.2,,Dropped,Paid
+ENR30392,22-Feb-2026,STU0373,19.0,Male,Python for Beginners,Programming,Ms. Iyer,Bangalore Center,2873.38,43.5,24.9,Completed,Pending
+ENR30593,2025-01-14,STU0481,23.0,Female,Spoken English Mastery,Language,Mr. Das,Bangalore Center,1948.47,100.0,63.5,In Progress,Paid
+ENR31163,05-Dec-2025,STU0371,43.0,Male,Web Development Bootcamp,Programming,Ms. Fernandes,Pune Center,6493.34,85.9,,Dropped,
+ENR31087,23-Aug-2025,STU0402,42.0,Other,Graphic Design with Canva,Design,Ms. Rao,Delhi Center,1870.76,34.2,,Dropped,Partially Paid
+ENR30648,05-May-2025,STU0045,15.0,Other,Digital Marketing Fundamentals,Marketing,Mr. Khan,Online,2333.69,75.6,43.8,In Progress,Paid
+ENR31153,02-Aug-2025,STU0095,36.0,Male,SQL for Data Analysis,Data,Mr. Sharma,Pune Center,2623.85,57.9,50.1,Completed,
+ENR30521,02-Apr-2026,STU0290,41.0,Other,JavaScript Fundamentals,Programming,Mr. Das,Bangalore Center,4179.7,58.6,,Dropped,Paid
+ENR30065,2026-02-06,STU0299,27.0,Other,UI/UX Design Basics,Design,Mr. Khan,Mumbai Center,4508.31,61.9,33.5,In Progress,Pending
+ENR30015,2025-12-07,STU0168,31.0,Male,Python for Beginners,Programming,Ms. Fernandes,mumbai center,3061.34,53.3,37.2,Completed,Partially Paid
+ENR31181,01-13-2026,STU0265,28.0,Other,Spoken English Mastery,Language,Ms. Rao,Bangalore Center,2072.72,93.7,63.7,Completed,Pending
+ENR31065,2025-04-07,STU0045,38.0,Female,Graphic Design with Canva,Design,Mr. Sharma,Delhi Center ,1817.55,92.6,74.7,Completed,Pending
+ENR30493,08-11-2025,STU0226,33.0,Female,Web Development Bootcamp,Programming,Ms. Fernandes,BANGALORE CENTER,6865.74,72.4,43.9,Completed,Paid
+ENR30380,02-20-2026,STU0116,36.0,Other,JavaScript Fundamentals,Programming,Ms. Fernandes,Bangalore Center,4109.5,73.4,65.1,Completed,Partially Paid
+ENR30188,02-18-2026,STU0223,28.0,Other,Machine Learning Basics,Data,Mr. Sharma,Mumbai Center,5929.82,71.5,61.4,Completed,Paid
+ENR30764,25/08/2025,STU0303,45.0,,Spoken English Mastery,Language,Mr. Khan,online,1890.38,,36.1,Completed,Paid
+ENR30217,15-Apr-2026, STU0067 ,36.0,Other,Web Development Bootcamp,Programming,Mr. Sharma,Mumbai Center,6660.31,92.5,65.7,In Progress,Paid
+ENR30792,18-Jan-2025,STU0219,40.0,Male,Python for Beginners,Programming,Mr. Sharma,BANGALORE CENTER,2799.49,,,Dropped,Partially Paid
+ENR31077,03-25-2026,STU0435,40.0,Other,Graphic Design with Canva,Design,Ms. Fernandes,ONLINE,1797.88,70.7,,Dropped,Partially Paid
+ENR30879,2026-06-05,STU0268,27.0,,JavaScript Fundamentals,Programming,Mr. Das,online,4167.22,29.6,30.3,Completed,Pending
+ENR30338,08/06/2026,STU0054,24.0,Female,SQL for Data Analysis,Data,Mr. Khan,online,2881.1,92.7,67.8,Completed,Partially Paid
+ENR30720,16/04/2025,STU0103,28.0,Female,Data Analytics with Excel,Data,Mr. Das,Delhi Center,3520.59,77.6,,Dropped,Paid
+ENR30296,22/03/2025,STU0252,38.0,Female,SQL for Data Analysis,Data,Ms. Iyer,Pune Center,2770.43,84.5,57.5,Completed,Pending
+ENR31017,24-Jun-2025,STU0304,26.0,Male,Web Development Bootcamp,Programming,Mr. Das,ONLINE,6932.32,,36.4,Completed,Paid
+ENR30456,07-16-2025,STU0028,20.0,Male,Data Analytics with Excel,Data,Ms. Iyer,ONLINE,3505.09,62.1,57.7,Completed,Partially Paid
+ENR30816,2026-04-04,STU0321,43.0,Other,Data Analytics with Excel,Data,Ms. Rao,Mumbai Center,3451.35,81.7,,Dropped,Partially Paid
+ENR30270,2025-04-24,STU0482,43.0,Other,Advanced Excel & Power BI,Data,Ms. Rao,online,4628.53,69.8,34.7,Completed,Pending
+ENR30996,27/04/2026,STU0269,38.0,Male,UI/UX Design Basics,Design,Ms. Rao,Mumbai Center,4708.2,96.8,64.7,Completed,Pending
+ENR30202,04-Jul-2025,STU0276,43.0,Other,Machine Learning Basics,Data,Mr. Sharma,ONLINE,5653.1,74.5,66.4,Completed,Paid
+ENR30162,09-10-2025,STU0327,22.0,Male,Advanced Excel & Power BI,Data,Ms. Fernandes,Delhi Center,4425.03,,,Dropped,Pending
+ENR30730,24-Dec-2025,STU0442,26.0,Female,Spoken English Mastery,Language,Ms. Iyer,pune center,2065.32,85.0,67.8,Completed,Pending
+ENR30402,09-Aug-2026,STU0267,40.0,Male,Spoken English Mastery,Language,Mr. Sharma,mumbai center,1947.62,,58.8,In Progress,Partially Paid
+ENR30703,25/01/2026,STU0114,18.0,Other,UI/UX Design Basics,Design,Mr. Das,Bangalore Center,4528.32,80.7,,Dropped,Paid
+ENR31130,2026-08-24,STU0378,29.0,Male,Machine Learning Basics,Data,Mr. Das,delhi center,5510.86,68.7,52.0,In Progress,Pending
+ENR30566,06-03-2025,STU0275,41.0,Female,Spoken English Mastery,Language,Ms. Rao,Delhi Center,1811.89,46.9,28.3,Completed,Paid
+ENR31022,08/04/2025,STU0155,36.0,Female,Machine Learning Basics,Data,Mr. Das,Pune Center,5886.5,95.2,55.0,In Progress,
+ENR31026,28/08/2026,STU0243,19.0,Other,Data Analytics with Excel,Data,Mr. Sharma,delhi center,3339.69,63.4,40.8,Completed,Paid
+ENR31105,06-Jan-2025,STU0120,36.0,Female,SQL for Data Analysis,Data,Ms. Rao,Online,2571.62,38.8,35.1,In Progress,Partially Paid
+ENR30206,2025-08-29,STU0382,19.0,Male,JavaScript Fundamentals,Programming,Ms. Fernandes,ONLINE,4162.65,69.0,59.5,Completed,Partially Paid
+ENR30035,22/12/2025,STU0244,39.0,Other,Spoken English Mastery,Language,Mr. Khan,pune center,1963.8,60.3,,Dropped,Paid
+ENR30776,06-Jan-2025,STU0233,29.0,Female,Python for Beginners,Programming,Mr. Sharma,ONLINE,3027.94,33.4,29.8,In Progress,Pending
+ENR30509,09-13-2025,STU0434,40.0,Male,Spoken English Mastery,Language,Mr. Das,ONLINE,2012.49,77.0,52.5,In Progress,PENDING
+ENR30608,08/09/2025,STU0132,23.0,Other,Web Development Bootcamp,Programming,Mr. Sharma,delhi center,6900.96,54.5,41.4,Completed,Paid
+ENR30092,2026-01-19,STU0015,43.0,Other,Advanced Excel & Power BI,Data,Ms. Iyer,,4223.24,91.3,,Dropped,Paid
+ENR30898,13/10/2025,STU0498,17.0,Female,Data Analytics with Excel,Data,Mr. Khan,online,3268.13,75.9,43.8,Completed,Partially Paid
+ENR30565,07-Mar-2025,STU0287,45.0,Other,Graphic Design with Canva,Design,Ms. Rao,Delhi Center,1813.32,67.9,51.7,Completed,Pending
+ENR30777,12/05/2025,STU0040,29.0,,Data Analytics with Excel,Data,Mr. Sharma,Delhi Center ,3456.94,43.7,24.4,Completed,
+ENR30242,05-27-2025,STU0124,41.0,Female,Python for Beginners,Programming,Ms. Iyer,,2769.8,87.2,55.4,In Progress,Paid
+ENR30014,05-27-2026,STU0046,40.0,Other,Public Speaking Essentials,Soft Skills,Mr. Sharma,mumbai center,1400.37,95.9,,Dropped,Pending
+ENR30316,03-11-2026,STU0031,,Male,Machine Learning Basics,Data,Mr. Sharma,pune center,6175.76,,41.2,Completed,Partially Paid
+ENR30601,02-16-2025,STU0191,45.0,Female,Web Development Bootcamp,Programming,Mr. Das,Mumbai Center,7156.98,87.1,,Dropped,Paid
+ENR30388,28-Aug-2025,STU0377,39.0,Female,Web Development Bootcamp,Programming,Mr. Khan,Pune Center,7122.6,100.0,61.9,Completed,Paid
+ENR30167,2025-10-30,STU0184,42.0,Other,JavaScript Fundamentals,Programming,Mr. Khan,Pune Center,4040.64,76.1,47.0,In Progress,Paid
+ENR30841,09-Apr-2025,STU0259,16.0,Male,Spoken English Mastery,Language,Mr. Khan,ONLINE,2040.73,71.8,46.5,In Progress,Partially Paid
+ENR30021,25-Aug-2026,STU0321,28.0,Male,UI/UX Design Basics,Design,Ms. Rao,BANGALORE CENTER,4712.03,100.0,,Dropped,PARTIALLY PAID
+ENR30647,10/02/2026,STU0465,30.0,Male,Data Analytics with Excel,Data,Ms. Rao,Bangalore Center,3228.1,59.2,48.0,Completed,Paid
+ENR31155,2025-06-12,STU0259,43.0,Other,Graphic Design with Canva,Design,Ms. Rao,Bangalore Center,1635.03,75.7,46.2,In Progress,Paid
+ENR30832,27/05/2025,STU0433,200.0,Female,UI/UX Design Basics,Design,Ms. Iyer,delhi center,4794.31,63.5,47.5,Completed,Pending
+ENR30563,01-Aug-2025,STU0486,40.0,Male,Machine Learning Basics,Data,Ms. Iyer,mumbai center,6139.82,71.1,40.1,In Progress,Pending
+ENR31116,30/08/2026,STU0331,37.0,Male,SQL for Data Analysis,Data,Mr. Sharma,Bangalore Center,2734.02,75.1,65.7,Completed,
+ENR30687,2025-12-18, STU0131 ,19.0,Male,Advanced Excel & Power BI,Data,Mr. Khan,Delhi Center ,4446.6,60.6,48.3,In Progress,Partially Paid
+ENR30958,04/03/2025,STU0096,30.0,,Spoken English Mastery,Language,Mr. Khan,Pune Center,2032.68,83.9,61.8,Completed,Partially Paid
+ENR30190,13-Jul-2026,STU0207,33.0,Male,Digital Marketing Fundamentals,Marketing,Ms. Fernandes,Online,2420.07,,23.6,Completed,
+ENR30976,11/04/2026,STU0350,45.0,Male,Graphic Design with Canva,Design,Ms. Rao,ONLINE,1661.85,100.0,58.2,Completed,Paid
+ENR30700,11-25-2025,STU0072,44.0,Female,Graphic Design with Canva,Design,Ms. Fernandes,delhi center,1829.87,59.6,56.7,Completed,Paid
+ENR30511,2026-07-22,STU0183,39.0,Other,Spoken English Mastery,Language,Mr. Das,delhi center,1867.24,91.9,68.9,Completed,Partially Paid
+ENR31083,2025-05-10,STU0079,36.0,Female,Digital Marketing Fundamentals,Marketing,Ms. Rao,pune center,2399.5,64.9,34.0,In Progress,Pending
+ENR30475,2026-08-20,STU0396,37.0,Male,SQL for Data Analysis,Data,Ms. Iyer,Pune Center,2597.56,69.8,58.1,Completed,Paid
+ENR30857,2025-09-26,STU0091,20.0,Male,Digital Marketing Fundamentals,Marketing,Mr. Khan,pune center,2442.16,71.6,50.9,Completed,Pending
+ENR30748,07-11-2026,STU0253,22.0,Other,Machine Learning Basics,Data,Mr. Sharma,Mumbai Center,,73.6,60.2,Completed,Partially Paid
+ENR30253,2026-08-13,STU0264,33.0,Other,Public Speaking Essentials,Soft Skills,Mr. Sharma,Bangalore Center,1479.54,100.0,80.8,Completed,Partially Paid
+ENR30022,2025-02-03,STU0082,23.0,Male,JavaScript Fundamentals,Programming,Mr. Sharma,mumbai center,3838.7,88.8,58.7,Completed,Partially Paid
+ENR30460,2025-03-19,STU0191,37.0,Other,Machine Learning Basics,Data,Ms. Iyer,BANGALORE CENTER,5879.79,99.8,70.6,Completed,
+ENR31185,13-Apr-2026,STU0497,,Male,Public Speaking Essentials,Soft Skills,Mr. Sharma,Delhi Center,1358.35,75.5,61.5,In Progress,Partially Paid
+ENR30277,23/11/2025,STU0069,38.0,,Web Development Bootcamp,Programming,Ms. Rao,Pune Center,6685.93,69.9,63.8,Completed,Pending
+ENR30956,21-Feb-2025,STU0421,19.0,Female,JavaScript Fundamentals,Programming,Mr. Das,Mumbai Center,3987.16,64.4,30.7,Completed,Pending
+ENR31216,21/02/2026,STU0158,35.0,Other,Digital Marketing Fundamentals,Marketing,Ms. Rao,BANGALORE CENTER,2581.56,76.2,,Dropped,Paid
+ENR30386,2026-07-10,STU0255,23.0,Other,Advanced Excel & Power BI,Data,Mr. Sharma,Mumbai Center,4087.23,79.4,66.6,Completed,Partially Paid
+ENR30806,07-01-2026,STU0315,17.0,Male,Graphic Design with Canva,Design,Mr. Das,pune center,1852.28,75.2,52.5,In Progress,Pending
+ENR30344,05/01/2026,STU0096,34.0,Female,Graphic Design with Canva,Design,Mr. Das,Pune Center,1666.57,87.9,,Dropped,Partially Paid
+ENR30770,02-25-2025,STU0073,16.0,Female,Web Development Bootcamp,Programming,Mr. Khan,mumbai center,6406.3,72.8,57.6,In Progress,Pending
+ENR30131,2025-08-19,STU0040,43.0,Other,Public Speaking Essentials,Soft Skills,Mr. Sharma,,1358.94,52.6,32.7,In Progress,Pending
+ENR30872,27/05/2025,STU0106,36.0,Female,Python for Beginners,Programming,Ms. Fernandes,BANGALORE CENTER,3003.94,95.8,,Dropped,Paid
+ENR31124,19-Feb-2025,STU0091,23.0,Male,UI/UX Design Basics,Design,Mr. Das,mumbai center,4878.75,56.0,44.4,Completed,Partially Paid
+ENR30088,14/11/2025,STU0181,43.0,,UI/UX Design Basics,Design,Mr. Das,delhi center,5104.52,53.2,30.4,Completed,Partially Paid
+ENR30331,08-13-2026,STU0055,39.0,Female,JavaScript Fundamentals,Programming,Ms. Fernandes,Delhi Center ,4137.15,91.7,54.0,Completed,Paid
+ENR31239,01-06-2025,STU0015,28.0,Male,JavaScript Fundamentals,Programming,Mr. Sharma,online,3654.85,74.5,58.4,Completed,Partially Paid
+ENR30467,10-21-2025,STU0498,44.0,Other,Public Speaking Essentials,Soft Skills,Mr. Das,Mumbai Center,1532.21,84.9,67.4,In Progress,Pending
+ENR30122,29-Jul-2025,STU0275,31.0,Male,Advanced Excel & Power BI,Data,Ms. Fernandes,mumbai center,4121.74,90.0,77.6,Completed,Paid
+ENR31045,21/06/2026,STU0148,32.0,Male,Web Development Bootcamp,Programming,Mr. Khan,pune center,7191.61,64.3,49.1,Completed,Paid
+ENR31096,2025-01-22,STU0016,19.0,Other,Public Speaking Essentials,Soft Skills,Mr. Sharma,Mumbai Center,1520.13,73.0,46.3,Completed,Partially Paid
+ENR31131,2026-03-04,STU0059,16.0,Other,SQL for Data Analysis,Data,Mr. Das,BANGALORE CENTER,2801.15,87.0,,Dropped,Partially Paid
+ENR30861,06-18-2026,STU0058,44.0,Other,UI/UX Design Basics,Design,Mr. Sharma,online,,87.5,69.8,Completed,PAID
+ENR31127,07-20-2025,STU0092,30.0,Male,Graphic Design with Canva,Design,Mr. Khan,mumbai center,,100.0,72.6,In Progress,
