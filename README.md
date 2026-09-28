@@ -111,9 +111,11 @@ The notebook includes:
 - 🔵 Attendance % vs. final score (scatter plot)
   ![Attendance % vs. Final Score](https://github.com/beheramanas0929-dev/Education-Enrollment-Analysis/blob/main/Charts/Attendence%25%20VS%20Final%20Score.png)
 - 📉 Dropout rate by course (horizontal bar chart)
+  
 - 🔵 Overall completion status (pie chart)
-## 📁 Project Structure
-
+  
+    ![Overall Completion Status](https://github.com/beheramanas0929-dev/Education-Enrollment-Analysis/blob/main/Charts/Completion%20Status%20.png)
+                      
  ## 👤 Author
 
 **Manas Behera**
