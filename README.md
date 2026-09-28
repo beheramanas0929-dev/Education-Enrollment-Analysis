@@ -107,10 +107,13 @@ This project cleans the data and answers four questions:
 The notebook includes:
 
 - 📊 Course revenue (horizontal bar chart)
+   ![Revenue by Course](Revenue by Course.png)
 - 🔵 Attendance % vs. final score (scatter plot)
 - 📉 Dropout rate by course (horizontal bar chart)
 - 🔵 Overall completion status (pie chart)
-  ## 👤 Author
+## 📁 Project Structure
+
+ ## 👤 Author
 
 **Manas Behera**
 🔗 [LinkedIn](www.linkedin.com/in/manas-behera-669bb739a) 
